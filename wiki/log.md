@@ -1,5 +1,9 @@
 # English LLM Wiki Log
 
+## [2026-05-25] study-plan | Daily plan document
+
+Created `wiki/study-plans/daily-plan-2026-05-25.md` with a 30-minute reading-first plan, A1-A2 LLM-generated reading material, vocabulary, be-verb practice, output task, and learner-fillable completion record.
+
 ## [2026-05-25] study-plan | Daily routine template and review triggers
 
 Updated `wiki/study-plans/daily-routine.md` with a fixed 30-minute daily template, daily completion record, weekly adjustment trigger, and monthly assessment trigger for the one-year B2 goal.
