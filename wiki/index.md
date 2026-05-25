@@ -16,7 +16,7 @@ This is the main index for the English learning wiki.
 ## Study plans
 
 - [[study-plans/yearly-roadmap]] — One-year learning path.
-- [[study-plans/daily-routine]] — Default 30-minute daily study routine.
+- [[study-plans/daily-routine]] — Default 30-minute daily routine, completion record, weekly adjustment trigger, and monthly assessment trigger.
 
 ## Assessment
 
