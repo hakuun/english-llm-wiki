@@ -1,5 +1,9 @@
 # English LLM Wiki Log
 
+## [2026-05-25] study-plan | Daily routine template and review triggers
+
+Updated `wiki/study-plans/daily-routine.md` with a fixed 30-minute daily template, daily completion record, weekly adjustment trigger, and monthly assessment trigger for the one-year B2 goal.
+
 ## [2026-05-25] vocabulary | Reusable Oxford 5000 TSV extraction
 
 Converted `raw/inbox/American_Oxford_5000_by_CEFR_level.pdf` into `wiki/vocabulary/oxford-5000-american-by-cefr.tsv` using PyMuPDF coordinate-based extraction, not `pdftotext`. The TSV contains 1,704 validated entries: 623 B2 and 1,081 C1, with no empty required fields or duplicate `(cefr, headword, part_of_speech)` keys. Updated the Oxford source note and vocabulary index to use the TSV as the future processing entry point.
