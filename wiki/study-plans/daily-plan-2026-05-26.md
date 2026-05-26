@@ -133,8 +133,8 @@ If I study a little every day, my English will slowly become better.
 
 ### 阅读完成情况
 
-- [ ] 第 1 遍已读
-- [ ] 第 2 遍已读
+- [✅] 第 1 遍已读
+- [✅] 第 2 遍已读
 
 ## 3. 理解检查：3 分钟
 
@@ -148,29 +148,29 @@ If I study a little every day, my English will slowly become better.
 
 ### 我的回答
 
-1.
-2.
-3.
-4.
-5.
+1. 前端开发工程师
+2. 2020
+3. 英文文档
+4. CEFR B2
+5. 30 分钟
 
 ## 4. 今日词汇和短语：5 分钟
 
 | English             | 中文           | 例句                                | 是否记住 |
 | ------------------- | -------------- | ----------------------------------- | -------- |
-| front-end developer | 前端开发者     | I am a front-end developer.         | [ ]      |
-| document            | 文档           | I read English documents.           | [ ]      |
-| improve             | 提高，改善     | I want to improve my English.       | [ ]      |
-| within              | 在……之内       | I want to reach B2 within one year. | [ ]      |
-| clear               | 清楚的         | I need clear practice.              | [ ]      |
-| since 2020          | 自 2020 年以来 | I have been working since 2020.     | [ ]      |
+| front-end developer | 前端开发者     | I am a front-end developer.         | [✅]     |
+| document            | 文档           | I read English documents.           | [✅]     |
+| improve             | 提高，改善     | I want to improve my English.       | [✅]     |
+| within              | 在……之内       | I want to reach B2 within one year. | [✅]     |
+| clear               | 清楚的         | I need clear practice.              | [✅]     |
+| since 2020          | 自 2020 年以来 | I have been working since 2020.     | [✅]     |
 
 今天优先记住这 4 个：
 
-- [ ] improve
-- [ ] within
-- [ ] document
-- [ ] since 2020
+- [✅] improve
+- [✅] within
+- [✅] document
+- [✅] since 2020
 
 ## 5. 今日语法 / 句型：5 分钟
 
