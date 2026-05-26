@@ -201,9 +201,9 @@ I have worked as + 职业 + for + 时间长度
 
 我的句子：
 
-1.
-2.
-3.
+1. I have been learning English since 2026.
+2. I have lived ChangSha for four years.
+3. I have been marrying for one year.
 
 ## 6. 输出练习：3 分钟
 
@@ -222,10 +222,10 @@ I have worked as + 职业 + for + 时间长度
 
 ### 我的输出
 
-1.
-2.
-3.
-4.
+1. I am a handsome.
+2. I have been useing AI since 2024.
+3. I want to keep healthy within one year.
+4. There are a lot of food in table.
 
 ## 可选口语练习：2 分钟
 
@@ -244,12 +244,12 @@ I want to improve my English within one year.
 
 ```text
 今日完成：
-1. 昨日错误修复：完成 / 未完成
-2. 阅读材料：完成 / 未完成
-3. 新词：记住了几个？
-4. 输出：写了几句？
+1. 昨日错误修复：完成✅ / 未完成
+2. 阅读材料：完成✅ / 未完成
+3. 新词：记住了几个？ 都记住了
+4. 输出：写了几句？ 都写了
 5. 今天还错在哪里？
-6. 今天难度：太简单 / 合适 / 有点难 / 太难
+6. 今天难度：太简单 / 合适✅/ 有点难 / 太难
 7. 明天需要继续复习：____
 ```
 
