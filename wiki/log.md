@@ -1,5 +1,9 @@
 # English LLM Wiki Log
 
+## [2026-05-26] study-plan | Daily plan document
+
+Created and revised `wiki/study-plans/daily-plan-2026-05-26.md` into a review-first 30-minute plan. The updated version starts with the learner's 2026-05-25 completion review, directly repairs the `five` vs `three` reading-detail error and `There are` vs `They are` sentence error, then adds A2 reading, vocabulary, `have been ... since ...` practice, output, and a learner-fillable completion record.
+
 ## [2026-05-25] study-plan | Daily plan document
 
 Created `wiki/study-plans/daily-plan-2026-05-25.md` with a 30-minute reading-first plan, A1-A2 LLM-generated reading material, vocabulary, be-verb practice, output task, and learner-fillable completion record.
