@@ -34,8 +34,8 @@ I want to read, listen, and speak better English.
 
 ### 阅读完成情况
 
-- [ ] 第 1 遍已读
-- [ ] 第 2 遍已读
+- [✅] 第 1 遍已读
+- [✅] 第 2 遍已读
 
 ## 2. 理解检查：3 分钟
 
@@ -49,31 +49,31 @@ I want to read, listen, and speak better English.
 
 ### 我的回答
 
-1. 
-2. 
-3. 
-4. 
-5. 
+1. 是
+2. 阅读 5 个英语句子 、 大声朗读句子
+3. 5 个
+4. 没有
+5. 可以读和听懂英文以及说更好的英文
 
 ## 3. 今日词汇：7 分钟
 
-| English | 中文 | 例句 | 是否记住 |
-|---|---|---|---|
-| beginner | 初学者 | I am a beginner. | [ ] |
-| easy | 容易的 | This word is easy. | [ ] |
-| difficult | 困难的 | English is difficult for me. | [ ] |
-| sentence | 句子 | I read five sentences. | [ ] |
-| out loud | 大声地 | I say it out loud. | [ ] |
-| notebook | 笔记本 | I write in my notebook. | [ ] |
-| perfect | 完美的 | I do not write perfect English. | [ ] |
-| habit | 习惯 | I have a small habit. | [ ] |
+| English   | 中文   | 例句                            | 是否记住 |
+| --------- | ------ | ------------------------------- | -------- |
+| beginner  | 初学者 | I am a beginner.                | [✅]     |
+| easy      | 容易的 | This word is easy.              | [✅]     |
+| difficult | 困难的 | English is difficult for me.    | [✅]     |
+| sentence  | 句子   | I read five sentences.          | [✅]     |
+| out loud  | 大声地 | I say it out loud.              | [✅]     |
+| notebook  | 笔记本 | I write in my notebook.         | [✅]     |
+| perfect   | 完美的 | I do not write perfect English. | [✅]     |
+| habit     | 习惯   | I have a small habit.           | [✅]     |
 
 今天优先记住这 4 个：
 
-- [ ] beginner
-- [ ] sentence
-- [ ] difficult
-- [ ] habit
+- [✅] beginner
+- [✅] sentence
+- [✅] difficult
+- [✅] habit
 
 ## 4. 今日语法：5 分钟
 
@@ -101,29 +101,29 @@ Some words are + 形容词
 
 ### 模仿造句
 
-1. I am a ______.
-2. It is ______.
-3. Some words are ______.
+1. I am a **\_\_**.
+2. It is **\_\_**.
+3. Some words are **\_\_**.
 
 我的句子：
 
-1. 
-2. 
-3. 
+1. I am a developer.
+2. She is my wife.
+3. There are very happy.
 
 ## 5. 输出练习：5 分钟
 
 写 3 个英文句子。可以模仿：
 
-1. I am a ______.
-2. English is ______ for me.
-3. I write ______ sentences every day.
+1. I am a **\_\_**.
+2. English is **\_\_** for me.
+3. I write **\_\_** sentences every day.
 
 ### 我的输出
 
-1. 
-2. 
-3. 
+1. I am a man.
+2. English is hard for me.
+3. I write three sentences every day.
 
 ## 今日完成记录
 
@@ -131,10 +131,10 @@ Some words are + 形容词
 
 ```text
 今日完成：
-1. 阅读材料：完成 / 未完成
-2. 新词：记住了 __ 个
-3. 输出：写了 __ 句
-4. 最难的地方：单词 / 句子 / 语法 / 没时间 / 其他：____
+1. 阅读材料：完成✅ / 未完成
+2. 新词：记住了 4 个
+3. 输出：写了 3 个
+4. 最难的地方：单词 / 句子 / 语法✅ / 没时间 / 其他：____
 ```
 
 ## 明天调整依据
@@ -145,3 +145,5 @@ Some words are + 形容词
 - 如果单词记不住：减少新词，增加复习。
 - 如果句子不会写：增加模仿句和填空。
 - 如果任务太轻松：增加短文长度或加入 1 个听读任务。
+
+我的感受：稍微有点简单，可以稍微适度难一点，但也不要难太多。
