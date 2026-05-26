@@ -167,6 +167,8 @@ Do not turn every source into a long summary. Extract what helps the B2 goal.
 
 When asked for a daily plan, assume 30 minutes unless the user says otherwise.
 
+Before creating a new daily plan, briefly review the previous day's completion, mistakes, and difficulty feedback, then make the new plan address those issues.
+
 A default 30-minute session should usually include:
 
 1. 10 minutes reading or listening input.
