@@ -1,5 +1,9 @@
 # English LLM Wiki Log
 
+## [2026-05-27] study-system | Knowledge-base-driven guided daily workflow
+
+Created a guided daily-study workflow so the wiki drives learning instead of storing disconnected daily plans. Added `wiki/active-learning.md`, `wiki/daily/_template.md`, `wiki/daily/README.md`, `wiki/daily/2026-05-27.md`, `wiki/vocabulary/vocabulary-review.md`, `wiki/profile/weak-points.md`, and `wiki/study-plans/knowledge-base-study-workflow.md`. Updated the main and vocabulary indexes. Daily output now uses choices, blanks, sentence imitation, small output options, stuck-point checkboxes, and LLM-updated vocabulary/error tracking.
+
 ## [2026-05-27] study-plan | Daily plan document
 
 Created `wiki/study-plans/daily-plan-2026-05-27.md` as a review-first 30-minute plan. The plan starts from the learner's 2026-05-26 completion evidence, repairs the `books` plural omission and `on the desk` place-preposition error, then adds A2 listen-read input, vocabulary, `on / in / at` practice, required 4-sentence output, and a learner-fillable completion record.

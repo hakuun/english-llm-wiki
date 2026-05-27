@@ -4,6 +4,7 @@ This is the main index for the English learning wiki.
 
 ## Core pages
 
+- [[active-learning]] — Weekly control panel that drives daily guided study from wiki evidence.
 - [[roadmap]] — Overall direction for reaching general CEFR B2 in about one year.
 - [[log]] — Chronological maintenance and learning log.
 
@@ -11,12 +12,17 @@ This is the main index for the English learning wiki.
 
 - [[profile/learner-profile]] — Stable learner background and constraints.
 - [[profile/current-level]] — Current estimated level and evidence.
+- [[profile/weak-points]] — Current weak points summarized from daily work, vocabulary, and errors.
 - [[profile/error-patterns]] — Recurring personal English mistakes.
 
 ## Study plans
 
 - [[study-plans/yearly-roadmap]] — One-year learning path.
+- [[study-plans/knowledge-base-study-workflow]] — Operational loop for guided daily pages, correction, and wiki updates.
 - [[study-plans/daily-routine]] — Default 30-minute daily routine, completion record, weekly adjustment trigger, and monthly assessment trigger.
+- [[daily/README]] — Daily guided-study page workflow.
+- [[daily/_template]] — Template for daily guided output pages.
+- [[daily/2026-05-27]] — First guided daily study page using choices, blanks, imitation, and small output.
 - [[study-plans/daily-plan-2026-05-25]] — Daily reading-first plan and completion record for 2026-05-25.
 - [[study-plans/daily-plan-2026-05-26]] — Review-first A2 daily plan focused on yesterday's errors, work experience, reading, vocabulary, and output.
 - [[study-plans/daily-plan-2026-05-27]] — Review-first A2 daily plan focused on plural nouns, place prepositions, work-document reading, vocabulary, and output.
