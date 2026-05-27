@@ -4,6 +4,7 @@ Track high-frequency words, collocations, confusing words, and word families tha
 
 ## Core pages
 
+- [[vocabulary/vocabulary-review]] — Active review list with level/status for guided daily practice.
 - [[vocabulary/high-frequency-words]]
 - [[vocabulary/confusing-words]]
 - [[vocabulary/collocations]]
