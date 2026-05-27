@@ -35,9 +35,9 @@ The learner does not need to assign exact scores. The daily page asks for `hard 
 
 | word | meaning | phrase | example | level | status | last_seen | next_review |
 |---|---|---|---|---|---|---|---|
-| improve | 提高，改善 | improve my English | I want to improve my English. | 2 | active | 2026-05-25 | 2026-05-28 |
+| improve | 提高，改善 | improve my English | I want to improve my English. | 3 | active | 2026-05-27 | 2026-05-29 |
 | spend | 花费时间 | spend time doing | I spend 30 minutes reading every day. | 2 | weak | 2026-05-27 | 2026-05-28 |
-| material | 材料 | learning materials | These materials are useful. | 2 | active | 2026-05-25 | 2026-05-29 |
+| material | 材料 | learning materials | These materials are useful. | 3 | active | 2026-05-27 | 2026-05-30 |
 | since | 自从 | since 2020 | I have been working since 2020. | 2 | active | 2026-05-26 | 2026-05-29 |
 
 ## Review Vocabulary
