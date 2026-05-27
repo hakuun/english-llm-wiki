@@ -19,6 +19,7 @@ This is the main index for the English learning wiki.
 - [[study-plans/daily-routine]] — Default 30-minute daily routine, completion record, weekly adjustment trigger, and monthly assessment trigger.
 - [[study-plans/daily-plan-2026-05-25]] — Daily reading-first plan and completion record for 2026-05-25.
 - [[study-plans/daily-plan-2026-05-26]] — Review-first A2 daily plan focused on yesterday's errors, work experience, reading, vocabulary, and output.
+- [[study-plans/daily-plan-2026-05-27]] — Review-first A2 daily plan focused on plural nouns, place prepositions, work-document reading, vocabulary, and output.
 
 ## Assessment
 
