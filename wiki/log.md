@@ -1,5 +1,9 @@
 # English LLM Wiki Log
 
+## [2026-05-27] ingest | British Council reading pack and Oxford 3000
+
+Processed newly added `raw/inbox/` materials. Created `wiki/source-notes/british-council-a2-b1-reading-pack.md` for six British Council A2-B1 short reading texts and extracted `raw/inbox/The_Oxford_3000_by_CEFR_level.pdf` into `wiki/vocabulary/oxford-3000-by-cefr.tsv` using PyMuPDF, not `pdftotext`. Created `wiki/source-notes/oxford-3000-by-cefr.md` and updated reading, vocabulary, source-note, and main indexes.
+
 ## [2026-05-27] maintenance | Simplified CLAUDE workflow ownership
 
 Compressed the detailed daily, error-tracking, weekly-review, and monthly-assessment sections in `CLAUDE.md` into stable workflow principles. The detailed recurring-command procedures now live in `wiki/study-plans/command-shortcuts.md`, reducing duplicated workflow rules while keeping short commands reliable across agents and computers.
