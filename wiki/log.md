@@ -1,5 +1,9 @@
 # English LLM Wiki Log
 
+## [2026-05-27] study-plan | Daily plan document
+
+Created `wiki/study-plans/daily-plan-2026-05-27.md` as a review-first 30-minute plan. The plan starts from the learner's 2026-05-26 completion evidence, repairs the `books` plural omission and `on the desk` place-preposition error, then adds A2 listen-read input, vocabulary, `on / in / at` practice, required 4-sentence output, and a learner-fillable completion record.
+
 ## [2026-05-26] study-plan | Daily plan document
 
 Created and revised `wiki/study-plans/daily-plan-2026-05-26.md` into a review-first 30-minute plan. The updated version starts with the learner's 2026-05-25 completion review, directly repairs the `five` vs `three` reading-detail error and `There are` vs `They are` sentence error, then adds A2 reading, vocabulary, `have been ... since ...` practice, output, and a learner-fillable completion record.
