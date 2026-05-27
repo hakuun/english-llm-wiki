@@ -12,6 +12,8 @@ This page is the current execution control panel for the next daily study page. 
 
 Daily execution pages live in [[study-plans/daily/README]] and should be generated from this page, recent [[log]], [[profile/error-patterns]], [[profile/weak-points]], [[vocabulary/vocabulary-review]], and available source notes.
 
+Routine learner commands are defined in [[study-plans/command-shortcuts]] so daily use can stay short and consistent across agents or computers.
+
 ## Current study rule
 
 Daily learning should use guided output, not blank free writing.
