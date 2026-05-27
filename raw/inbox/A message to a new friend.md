@@ -1,3 +1,13 @@
+![A message to a new friend](https://learnenglish.britishcouncil.org/sites/podcasts/files/styles/max_1300x1300/public/RS7845_ThinkstockPhotos-920597582-hig.jpg?itok=xWydnmOd)
+
+Do the preparation task first. Then read the text and do the exercises.
+
+### Preparation
+
+<iframe frameborder="0" height="720" width="100%" title="" src="https://gamedata.britishcouncil.org/lep25_embed/MjIwODY=/le"></iframe>
+
+Reading text
+
 Hi Lucia
 
 How are you? It was so nice to meet you last week in Sydney at the sales meeting. How was the rest of your trip? Did you see any kangaroos? I hope you got home to Mexico City OK.
@@ -11,3 +21,9 @@ Please give me your email address and I will send you the documents.
 Bye for now
 
 Mikel
+
+### Discussion
+
+Download
+
+[Worksheet](https://learnenglish.britishcouncil.org/sites/podcasts/files/LearnEnglish-Reading-A2-A-message-to-a-new-friend.pdf) 57.37 KB
