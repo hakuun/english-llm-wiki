@@ -30,6 +30,7 @@ Evidence:
 
 - `improve my English`, `want to ...`, and `within one year` need continued practice.
 - `spend time doing` is a high-value pattern for daily-study sentences.
+- 2026-05-27 daily output showed repeated errors after `spend` and `by`: `to read`, `cooked`, `play games`, and `by hard learn`.
 
 Next action:
 
@@ -40,6 +41,7 @@ Next action:
 Evidence:
 
 - Current watchlist includes tense choice, articles, prepositions, countable nouns, and word order.
+- 2026-05-27 daily output showed `on / in` still needs controlled practice in writing, especially surface nouns such as `paper`, `glasses`, and `desk`.
 
 Next action:
 

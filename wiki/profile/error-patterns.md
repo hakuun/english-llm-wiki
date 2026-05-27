@@ -59,6 +59,34 @@ Practice focus: Practice `this material`, `these materials`, `that source`, `tho
 Last seen: 2026-05-25
 Status: active
 
+## Error: Verb patterns after spend and by
+
+Pattern: The learner often writes an infinitive, past-tense verb, or adjective + base verb after `spend time` and `by`.
+Correction: Use a gerund: `spend 30 minutes reading`, `spent 20 minutes cooking`, `by studying hard every day`.
+Examples:
+- Learner: I spend 30 minutes to read English every day.
+- Corrected: I spend 30 minutes reading English every day.
+- Learner: Yesterday, I spent 20 minutes cooked.
+- Corrected: Yesterday, I spent 20 minutes cooking.
+- Learner: I can improve my English by hard learn every day.
+- Corrected: I can improve my English by studying hard every day.
+Practice focus: Make 5 daily-life sentences with `spend/spent + time + doing` and 3 study sentences with `by + doing`.
+Last seen: 2026-05-27
+Status: active
+
+## Error: Place prepositions on / in / at
+
+Pattern: The learner understands many place prepositions in reading but may choose `in` where English needs `on`, especially for surfaces.
+Correction: Use `on` for surfaces, `in` for containers/texts/cities, and `at` for general activity places such as `at work`.
+Examples:
+- Learner: I draw beautiful butterflies in my paper.
+- Corrected: I draw beautiful butterflies on my paper.
+- Learner: The notebook on the desk.
+- Corrected: The notebook is on the desk.
+Practice focus: Use real objects to make short sentences with `on the desk`, `in the box`, `in my notebook`, `in Changsha`, and `at work`.
+Last seen: 2026-05-27
+Status: active
+
 ## Initial priority areas to watch
 
 - Subject-verb agreement.
