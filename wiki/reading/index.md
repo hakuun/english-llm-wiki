@@ -10,6 +10,7 @@ Track graded reading, article notes, and reading strategies.
 ## Current source notes
 
 - [[source-notes/a-message-to-a-new-friend]] — A1-A2 informal email reading note.
+- [[source-notes/british-council-a2-b1-reading-pack]] — A2-B1 British Council reading pack for daily input.
 
 ## Current reading strategy
 

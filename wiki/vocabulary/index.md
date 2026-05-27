@@ -12,12 +12,15 @@ Track high-frequency words, collocations, confusing words, and word families tha
 
 ## Reusable data files
 
+- `wiki/vocabulary/oxford-3000-by-cefr.tsv` — extracted Oxford 3000 A1-B2 word list with CEFR level, headword, part of speech, page, and source.
 - `wiki/vocabulary/oxford-5000-american-by-cefr.tsv` — extracted Oxford 5000 B2-C1 word list with CEFR level, headword, part of speech, page, and source.
 
 ## Current source notes
 
+- [[source-notes/oxford-3000-by-cefr]] — A1-B2 Oxford 3000 reference; use as the main current-stage vocabulary calibration source.
 - [[source-notes/oxford-5000-american-by-cefr]] — B2-C1 Oxford 5000 reference; use as a calibration source, not a bulk memorization list.
 - [[source-notes/a-message-to-a-new-friend]] — Useful A1-A2 email chunks.
+- [[source-notes/british-council-a2-b1-reading-pack]] — A2-B1 chunks from short reading texts.
 
 ## Current vocabulary method
 

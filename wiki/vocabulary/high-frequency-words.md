@@ -6,6 +6,7 @@ Prefer example sentences, collocations, and word families over isolated translat
 
 ## Source calibration
 
+- [[source-notes/oxford-3000-by-cefr]] — Oxford 3000 A1-B2 reference. Use it first to decide whether a word belongs in current active study.
 - [[source-notes/oxford-5000-american-by-cefr]] — Oxford 5000 B2-C1 reference. Use it to check whether a word is worth active B2 study.
 
 ## Current active chunks from reading
