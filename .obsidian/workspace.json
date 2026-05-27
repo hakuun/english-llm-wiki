@@ -1,0 +1,197 @@
+{
+  "main": {
+    "id": "b515dfb3d290f779",
+    "type": "split",
+    "children": [
+      {
+        "id": "956b91226ecb91e1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "be146d625136f5ef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "raw/inbox/An email from a friend.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "An email from a friend"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0129796fb3c182fd",
+    "type": "split",
+    "children": [
+      {
+        "id": "5ca81884a3705e16",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "db6259ca4e51f275",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "fa9489022ac017c5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "fdb4f3528fb95db7",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "5a2246c4d03d41b5",
+    "type": "split",
+    "children": [
+      {
+        "id": "09cfb644db980510",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cbbf137c971e0c0a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "raw/inbox/An email from a friend.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "An email from a friend 的反向链接列表"
+            }
+          },
+          {
+            "id": "245a95591e80d809",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "raw/inbox/An email from a friend.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "An email from a friend 的出链列表"
+            }
+          },
+          {
+            "id": "e57393b4e7d4eb03",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "6ac46bc4691d050d",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "8c547128fefb2a98",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "raw/inbox/An email from a friend.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "An email from a friend 的大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false
+    }
+  },
+  "active": "be146d625136f5ef",
+  "lastOpenFiles": [
+    "raw/inbox/A message to a new friend.md",
+    "raw/inbox/An email from a friend.md",
+    "raw/sources/reading/A message to a new friend.md",
+    "raw/inbox/A travel guide.md",
+    "raw/inbox/American_Oxford_5000_by_CEFR_level.pdf",
+    "raw/inbox/An airport notice.md",
+    "raw/inbox/A flyer for a gym.md",
+    "raw/inbox/A conference programme.md"
+  ]
+}
