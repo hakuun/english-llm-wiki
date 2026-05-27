@@ -1,5 +1,9 @@
 # English LLM Wiki Log
 
+## [2026-05-27] maintenance | Unified daily study pages under study-plans
+
+Integrated the previous `wiki/daily/` guided-page system and `wiki/study-plans/daily-plan-*` files into `wiki/study-plans/daily/`. The new daily directory now holds the template, README, and dated pages for 2026-05-25 through 2026-05-27. Updated the main index, workflow pages, reading article index, source-notes index, and Oxford grammar source note processing table so daily study has one official entry point.
+
 ## [2026-05-27] study-system | Knowledge-base-driven guided daily workflow
 
 Created a guided daily-study workflow so the wiki drives learning instead of storing disconnected daily plans. Added `wiki/active-learning.md`, `wiki/daily/_template.md`, `wiki/daily/README.md`, `wiki/daily/2026-05-27.md`, `wiki/vocabulary/vocabulary-review.md`, `wiki/profile/weak-points.md`, and `wiki/study-plans/knowledge-base-study-workflow.md`. Updated the main and vocabulary indexes. Daily output now uses choices, blanks, sentence imitation, small output options, stuck-point checkboxes, and LLM-updated vocabulary/error tracking.

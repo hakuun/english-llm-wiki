@@ -2,12 +2,15 @@
 
 This folder stores notes extracted from processed source materials.
 
-## Core pages
+## Source notes
 
-- [[source-notes/authoritative-materials-map]] — How to find, judge, and use authoritative English learning materials.
 - [[source-notes/oxford-5000-american-by-cefr]] — B2-C1 Oxford 5000 vocabulary reference and extraction-quality note.
 - [[source-notes/oxford-grammar-core-a1-b2]] — Oxford grammar bundle grouped into A1-A2 foundation, B1 bridge, and B2 extension.
 - [[source-notes/a-message-to-a-new-friend]] — A1-A2 informal email reading note and imitation writing task.
+
+## Material selection guide
+
+- [[source-notes/authoritative-materials-map]] — How to find, judge, and use authoritative English learning materials; this is a guide, not a processed source note.
 
 ## Source note format
 

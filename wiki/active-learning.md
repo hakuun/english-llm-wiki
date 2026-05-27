@@ -8,7 +8,7 @@ tags:
 
 # Active Learning
 
-This page is the weekly control panel for daily study. Daily plans should be generated from this page, recent [[log]], [[profile/error-patterns]], [[profile/weak-points]], [[vocabulary/vocabulary-review]], and available source notes.
+This page is the weekly control panel for daily study. Daily execution pages live in [[study-plans/daily/README]] and should be generated from this page, recent [[log]], [[profile/error-patterns]], [[profile/weak-points]], [[vocabulary/vocabulary-review]], and available source notes.
 
 ## Current study rule
 
@@ -28,11 +28,12 @@ Default output mix:
 - Grammar and errors: choose from current weak points and recent error patterns.
 - Output: short guided sentences, then one optional challenge task.
 
-## Daily plan generation checklist
+## Daily page generation checklist
 
-Before creating a daily page, read or consider:
+Before creating or updating `wiki/study-plans/daily/YYYY-MM-DD.md`, read or consider:
 
 - [[log]] — latest completion and unresolved problems.
+- [[study-plans/daily/README]] — recent daily pages and the daily page format.
 - [[profile/current-level]] — difficulty control.
 - [[profile/weak-points]] — current priority weaknesses.
 - [[profile/error-patterns]] — recurring personal mistakes.

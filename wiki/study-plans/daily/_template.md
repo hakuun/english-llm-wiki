@@ -2,7 +2,7 @@
 title: Daily Study Template
 tags:
   - english
-  - daily-study
+  - study-plan/daily
   - template
 ---
 
@@ -10,11 +10,13 @@ tags:
 
 ## 1. Today's focus
 
+- Time:
 - Input:
 - Vocabulary:
 - Grammar / error focus:
 - Pattern:
 - Output theme:
+- Source:
 
 Related pages:
 
@@ -25,7 +27,21 @@ Related pages:
 
 ---
 
-## 2. Warm-up
+## 2. Review
+
+Use this section only when there is previous completion evidence.
+
+### What went well
+
+-
+
+### What to repair today
+
+-
+
+---
+
+## 3. Warm-up
 
 Choose the correct answer.
 
@@ -41,66 +57,55 @@ Choose the correct answer.
 
 ---
 
-## 3. Vocabulary practice
+## 4. Input
 
-### Word 1: WORD
+Read or listen to the short text.
 
-Meaning:
-- 中文意思
+### Text / transcript
 
-Phrase:
-- English chunk
 
-Complete one sentence:
+### Completion
 
-1. Sentence with ______.
-2. Another sentence with ______.
-3. Optional sentence with ______.
-
-Your answer:
--
-
-Feeling:
-- [ ] hard
-- [ ] okay
-- [ ] easy
+- [ ] First pass
+- [ ] Second pass
 
 ---
 
-### Word 2: WORD
+## 5. Comprehension check
 
-Meaning:
-- 中文意思
+Answer in Chinese if needed.
 
-Phrase:
-- English chunk
-
-Complete one sentence:
-
-1. Sentence with ______.
-2. Another sentence with ______.
-3. Optional sentence with ______.
-
-Your answer:
--
-
-Feeling:
-- [ ] hard
-- [ ] okay
-- [ ] easy
+1.
+2.
+3.
 
 ---
 
-## 4. Sentence imitation
+## 6. Vocabulary practice
 
-Example:
+| English | 中文 | phrase | example | feeling |
+|---|---|---|---|---|
+| WORD |  |  |  | hard / okay / easy |
 
-- Model sentence.
+Complete one sentence:
 
-Now imitate:
+1.
+2.
 
-1. Sentence frame ______.
-2. Sentence frame ______.
+---
+
+## 7. Grammar / sentence pattern
+
+Pattern:
+
+```text
+
+```
+
+Imitate:
+
+1.
+2.
 
 Your answers:
 
@@ -109,7 +114,7 @@ Your answers:
 
 ---
 
-## 5. Small output
+## 8. Small output
 
 Choose ONE.
 
@@ -117,9 +122,9 @@ Choose ONE.
 
 Fill in the blanks:
 
-1. Sentence ______.
-2. Sentence ______.
-3. Sentence ______.
+1.
+2.
+3.
 
 ### Option B: normal
 
@@ -137,7 +142,7 @@ Your output:
 
 ---
 
-## 6. Stuck points
+## 9. Stuck points
 
 - [ ] I don't know the words.
 - [ ] I understand the words, but I can't use them.
@@ -152,21 +157,22 @@ Optional note:
 
 ---
 
-## 7. Completion
+## 10. Completion record
 
-- [ ] I finished the warm-up.
-- [ ] I finished vocabulary practice.
-- [ ] I finished sentence imitation.
-- [ ] I finished small output.
-
-Difficulty:
-- [ ] easy
-- [ ] okay
-- [ ] hard
+```text
+今日完成：
+1. 复习/错误修复：完成 / 未完成 / 不适用
+2. 阅读/听力材料：完成 / 未完成
+3. 新词：记住了几个？
+4. 输出：写了几句？
+5. 今天还错在哪里？
+6. 今天难度：太简单 / 合适 / 有点难 / 太难
+7. 明天需要继续复习：____
+```
 
 ---
 
-## 8. LLM correction and update
+## 11. LLM correction and update
 
 This section is filled by the LLM after the learner completes the page.
 

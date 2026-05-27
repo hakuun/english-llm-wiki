@@ -18,7 +18,7 @@ wiki evidence -> guided daily page -> learner output -> correction -> wiki updat
 
 ## Start of day
 
-When the learner says `今天学习`, create or update a daily page under `wiki/daily/YYYY-MM-DD.md`.
+When the learner says `今天学习`, create or update the single daily execution page under `wiki/study-plans/daily/YYYY-MM-DD.md`.
 
 Use:
 
@@ -29,6 +29,7 @@ Use:
 - [[profile/error-patterns]]
 - [[vocabulary/vocabulary-review]]
 - [[source-notes/index]]
+- recent pages in [[study-plans/daily/README]]
 
 ## Learner work
 

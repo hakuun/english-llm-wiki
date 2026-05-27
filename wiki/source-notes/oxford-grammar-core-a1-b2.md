@@ -46,3 +46,35 @@
 5. `for/since`, `just/already/yet`
 6. past perfect simple
 7. perfect continuous contrasts
+
+## Raw grammar processing status
+
+| raw file | topic | level | status |
+|---|---|---|---|
+| `raw/sources/grammar/Demonstratives/demonstrative adjectives (that book).md` | demonstrative adjectives | A1-A2 | indexed, not yet used in daily page |
+| `raw/sources/grammar/Demonstratives/demonstrative pronouns (That is nice.).md` | demonstrative pronouns | A1-A2 | indexed, not yet used in daily page |
+| `raw/sources/grammar/Possessives/possessive adjectives (my book).md` | possessive adjectives | A1-A2 | indexed, not yet used in daily page |
+| `raw/sources/grammar/Possessives/possessive pronouns (mine, theirs).md` | possessive pronouns | A1-A2 | indexed, not yet used in daily page |
+| `raw/sources/grammar/Possessives/possessive ’s.md` | possessive `'s` | A1-A2 | indexed, not yet used in daily page |
+| `raw/sources/grammar/Quantifiers/some any with countable nouns.md` | some / any with countable nouns | A1-A2 | indexed, not yet used in daily page |
+| `raw/sources/grammar/Quantifiers/some any with uncountable nouns.md` | some / any with uncountable nouns | A1-A2 | indexed, not yet used in daily page |
+| `raw/sources/grammar/Quantifiers/much many.md` | much / many | A1-A2 | indexed, not yet used in daily page |
+| `raw/sources/grammar/Quantifiers/few little.md` | few / little | A1-A2 | indexed, not yet used in daily page |
+| `raw/sources/grammar/Quantifiers/both, several, most, all.md` | both / several / most / all | B1 | indexed, not yet used in daily page |
+| `raw/sources/grammar/Quantifiers/each every.md` | each / every | B1 | indexed, not yet used in daily page |
+| `raw/sources/grammar/Quantifiers/more, less fewer.md` | more / less / fewer | B1 | indexed, not yet used in daily page |
+| `raw/sources/grammar/Quantifiers/too many or much, (not) enough.md` | too many / too much / enough | B1 | indexed, not yet used in daily page |
+| `raw/sources/grammar/Present perfect simple/affirmative, negative, yes or no questions.md` | present perfect simple form | B1 | partially used in [[study-plans/daily/2026-05-26]] |
+| `raw/sources/grammar/Present perfect simple/wh- questions.md` | present perfect wh- questions | B1 | indexed, not yet used in daily page |
+| `raw/sources/grammar/Present perfect simple/present perfect vs past simple.md` | present perfect vs past simple | B1 | indexed, not yet used in daily page |
+| `raw/sources/grammar/Present perfect simple/for or since.md` | for / since | B1 | partially used in [[study-plans/daily/2026-05-26]] |
+| `raw/sources/grammar/Present perfect simple/have been vs have gone.md` | have been / have gone | B1 | indexed, not yet used in daily page |
+| `raw/sources/grammar/Present perfect simple/just or already or yet.md` | just / already / yet | B1 | indexed, not yet used in daily page |
+| `raw/sources/grammar/Present perfect simple/negative sentences with still and yet.md` | still / yet in negatives | B1 | indexed, not yet used in daily page |
+| `raw/sources/grammar/Past perfect simple/affirmative, negative, yes or no, wh- questions.md` | past perfect simple form | B1-B2 | indexed, future material |
+| `raw/sources/grammar/Past perfect simple/past perfect simple vs past simple.md` | past perfect vs past simple | B1-B2 | indexed, future material |
+| `raw/sources/grammar/Past perfect simple/with time expressions before, after, until.md` | before / after / until | B1-B2 | indexed, future material |
+| `raw/sources/grammar/Present perfect continuous/affirmative, negative, yes or no, wh- questionsb.md` | present perfect continuous form | B2 | indexed, future material; filename likely has typo `questionsb` |
+| `raw/sources/grammar/Present perfect continuous/present perfect continuous vs present perfect simple.md` | perfect continuous vs simple | B2 | indexed, future material |
+| `raw/sources/grammar/Past perfect continuous/affirmative, negative, yes or no, wh- questions.md` | past perfect continuous form | B2 | indexed, future material |
+| `raw/sources/grammar/Past perfect continuous/past perfect continuous vs past perfect simple.md` | past perfect continuous vs simple | B2 | indexed, future material |
