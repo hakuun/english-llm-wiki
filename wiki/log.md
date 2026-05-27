@@ -1,5 +1,13 @@
 # English LLM Wiki Log
 
+## [2026-05-27] maintenance | Simplified CLAUDE workflow ownership
+
+Compressed the detailed daily, error-tracking, weekly-review, and monthly-assessment sections in `CLAUDE.md` into stable workflow principles. The detailed recurring-command procedures now live in `wiki/study-plans/command-shortcuts.md`, reducing duplicated workflow rules while keeping short commands reliable across agents and computers.
+
+## [2026-05-27] study-system | Added short command workflow triggers
+
+Added concise project-level short command triggers to `CLAUDE.md` and created `wiki/study-plans/command-shortcuts.md` as the detailed workflow map. Linked the shortcut page from `wiki/index.md` and `wiki/active-learning.md` so routine commands like `制定今天的学习计划`, `我完成了今天的计划`, `我新添加了一些资料`, `开始周学习复盘`, and `开始月学习评估` work across agents and computers without long prompts.
+
 ## [2026-05-27] maintenance | Clarified monthly, weekly, and active-learning roles
 
 Updated `wiki/study-plans/monthly-plan.md` and `wiki/study-plans/weekly-plan.md` from placeholders into current 2026-05 planning pages. Clarified `wiki/active-learning.md` as the execution control panel for the next daily page, aligned `wiki/study-plans/daily-routine.md` with review-first guided A2/A2-B1 study, and updated the main index.

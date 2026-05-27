@@ -21,6 +21,7 @@ This is the main index for the English learning wiki.
 - [[study-plans/monthly-plan]] — Current month-level study direction.
 - [[study-plans/weekly-plan]] — Current week-level study focus.
 - [[study-plans/knowledge-base-study-workflow]] — Operational loop for guided daily pages, correction, and wiki updates.
+- [[study-plans/command-shortcuts]] — Short commands for daily study, completion, source ingest, weekly review, and monthly assessment.
 - [[study-plans/daily-routine]] — Default 30-minute daily routine, completion record, weekly adjustment trigger, and monthly assessment trigger.
 - [[study-plans/daily/README]] — Single home for daily guided-study pages.
 - [[study-plans/daily/_template]] — Template for daily guided output pages.

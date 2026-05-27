@@ -163,55 +163,30 @@ When the user asks to process a source:
 
 Do not turn every source into a long summary. Extract what helps the B2 goal.
 
-## Daily study workflow
+## Short command workflows
 
-When asked for a daily plan, assume 30 minutes unless the user says otherwise.
+The learner should not need to type long prompts for recurring study operations. Treat these short Chinese commands as project-level workflow triggers and follow `wiki/study-plans/command-shortcuts.md` for details:
 
-Before creating a new daily plan, briefly review the previous day's completion, mistakes, and difficulty feedback, then make the new plan address those issues.
+- `制定今天的学习计划` / `今天学习` — create or update today's guided daily page.
+- `我完成了今天的计划` — correct today's work and update the learning wiki.
+- `我新添加了一些资料` — ingest newly added materials from `raw/inbox/` or `raw/sources/`.
+- `开始周学习复盘` — review recent daily evidence and update the weekly plan.
+- `开始月学习评估` — run the monthly evidence-based assessment.
 
-A default 30-minute session should usually include:
+## Workflow principles
 
-1. 10 minutes reading or listening input.
-2. 8 minutes vocabulary and collocation review.
-3. 7 minutes grammar, sentence pattern, or comprehension work.
-4. 5 minutes output: sentence writing, short summary, retelling, or self-expression.
+Use `wiki/study-plans/command-shortcuts.md` as the operational map for recurring daily study, completion correction, source ingest, weekly review, and monthly assessment commands.
 
-Adjust the mix based on recent errors, current level, and active goals. Prefer small tasks the learner can actually finish.
+Stable rules:
 
-## Error tracking workflow
-
-When correcting the learner's English:
-
-1. Correct the text clearly.
-2. Explain the most important errors in Chinese.
-3. Avoid overwhelming the learner with every minor issue unless requested.
-4. Extract recurring patterns into `wiki/profile/error-patterns.md` when useful.
-5. Update `wiki/grammar/common-errors.md`, `wiki/writing/corrected-writing.md`, or related pages if the correction has long-term value.
-
-The learner's personal error patterns are more important than generic grammar coverage.
-
-## Weekly review workflow
-
-When asked to review the week:
-
-1. Read `wiki/log.md`, recent study-plan pages, and relevant profile/error pages.
-2. Summarize what improved, what remains weak, and what was skipped.
-3. Update `wiki/study-plans/weekly-plan.md`.
-4. Recommend the next week's focus with realistic 30-minute daily sessions.
-5. Append a log entry.
-
-## Monthly assessment workflow
-
-When asked for a monthly assessment:
-
-1. Compare current evidence against CEFR A2/B1/B2 can-do descriptors where available.
-2. Review vocabulary growth, reading, listening, grammar accuracy, writing quality, and output fluency.
-3. Update `wiki/assessments/monthly-checkpoints.md`.
-4. Update `wiki/profile/current-level.md`.
-5. Adjust `wiki/study-plans/monthly-plan.md`.
-6. Append a log entry.
-
-Assessment should be evidence-based and practical, not motivational guesswork.
+- Daily study defaults to 30 minutes unless the learner says otherwise.
+- Daily plans must be review-first and based on recent completion, mistakes, and difficulty feedback.
+- Guided output is preferred; blank free writing should only be optional or very small.
+- Each daily page should repair only 1-2 priority errors and keep the task small enough to finish.
+- English corrections should be clear, explained in Chinese, and focused on the most important errors.
+- Track only repeated, high-value, or blocking personal errors in `wiki/profile/error-patterns.md`.
+- Weekly and monthly reviews must be evidence-based, not motivational summaries.
+- Update `wiki/log.md` after major study, ingest, review, assessment, or maintenance events.
 
 ## Agent behavior
 
