@@ -9,7 +9,7 @@ Use this structure unless the learner gives a different focus for the day.
 1. Input: 10-12 minutes
    - Read a short graded text, or
    - Listen to short audio with a transcript.
-   - Current default: reading-first, A1-A2 level, gradually moving toward A2-B1.
+   - Current default: review-first guided study. Use A2 input as the safe baseline, and move toward A2-B1 when recent daily evidence shows the task is suitable.
 
 2. Vocabulary and collocations: 6-8 minutes
    - Learn 6-10 useful words or phrases from the input.

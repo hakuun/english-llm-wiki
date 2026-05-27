@@ -18,6 +18,8 @@ This is the main index for the English learning wiki.
 ## Study plans
 
 - [[study-plans/yearly-roadmap]] — One-year learning path.
+- [[study-plans/monthly-plan]] — Current month-level study direction.
+- [[study-plans/weekly-plan]] — Current week-level study focus.
 - [[study-plans/knowledge-base-study-workflow]] — Operational loop for guided daily pages, correction, and wiki updates.
 - [[study-plans/daily-routine]] — Default 30-minute daily routine, completion record, weekly adjustment trigger, and monthly assessment trigger.
 - [[study-plans/daily/README]] — Single home for daily guided-study pages.

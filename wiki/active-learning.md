@@ -8,7 +8,9 @@ tags:
 
 # Active Learning
 
-This page is the weekly control panel for daily study. Daily execution pages live in [[study-plans/daily/README]] and should be generated from this page, recent [[log]], [[profile/error-patterns]], [[profile/weak-points]], [[vocabulary/vocabulary-review]], and available source notes.
+This page is the current execution control panel for the next daily study page. It should follow the broader direction in [[study-plans/monthly-plan]] and [[study-plans/weekly-plan]], then choose the next small set of tasks from recent evidence.
+
+Daily execution pages live in [[study-plans/daily/README]] and should be generated from this page, recent [[log]], [[profile/error-patterns]], [[profile/weak-points]], [[vocabulary/vocabulary-review]], and available source notes.
 
 ## Current study rule
 
@@ -32,6 +34,8 @@ Default output mix:
 
 Before creating or updating `wiki/study-plans/daily/YYYY-MM-DD.md`, read or consider:
 
+- [[study-plans/monthly-plan]] — current month-level direction.
+- [[study-plans/weekly-plan]] — current week-level focus.
 - [[log]] — latest completion and unresolved problems.
 - [[study-plans/daily/README]] — recent daily pages and the daily page format.
 - [[profile/current-level]] — difficulty control.
