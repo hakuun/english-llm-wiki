@@ -1,5 +1,9 @@
 # English LLM Wiki Log
 
+## [2026-05-27] maintenance | Clarified monthly, weekly, and active-learning roles
+
+Updated `wiki/study-plans/monthly-plan.md` and `wiki/study-plans/weekly-plan.md` from placeholders into current 2026-05 planning pages. Clarified `wiki/active-learning.md` as the execution control panel for the next daily page, aligned `wiki/study-plans/daily-routine.md` with review-first guided A2/A2-B1 study, and updated the main index.
+
 ## [2026-05-27] maintenance | Unified daily study pages under study-plans
 
 Integrated the previous `wiki/daily/` guided-page system and `wiki/study-plans/daily-plan-*` files into `wiki/study-plans/daily/`. The new daily directory now holds the template, README, and dated pages for 2026-05-25 through 2026-05-27. Updated the main index, workflow pages, reading article index, source-notes index, and Oxford grammar source note processing table so daily study has one official entry point.
