@@ -28,6 +28,7 @@ This is the main index for the English learning wiki.
 - [[study-plans/daily/2026-05-25]] — First reading-first daily session.
 - [[study-plans/daily/2026-05-26]] — Review-first daily session with work-experience expressions.
 - [[study-plans/daily/2026-05-27]] — Review-first guided session with plural nouns and place prepositions.
+- [[study-plans/daily/2026-05-28]] — Review-first guided session with `spend/by + doing` and A2 email reading.
 
 ## Assessment
 

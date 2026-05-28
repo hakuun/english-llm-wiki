@@ -1,5 +1,9 @@
 # English LLM Wiki Log
 
+## [2026-05-28] study-plan | Daily guided A2 email page
+
+Created `wiki/study-plans/daily/2026-05-28.md` as a 30-minute review-first page. It repairs `spend/by + doing` and `on / in / at`, uses the British Council A2 `An email from a friend` material for short input, and keeps output guided with optional challenge writing.
+
 ## [2026-05-27] daily-study | Completed guided A2 work-page
 
 Corrected `wiki/study-plans/daily/2026-05-27.md` after completion. Reading comprehension was accurate, and the learner completed warm-up, listen-read, vocabulary, grammar imitation, and 4-sentence output. Updated active vocabulary and error tracking; tomorrow should review `spend/spent + time + doing`, `by + doing`, and `on / in` surface/container prepositions before adding much new input.
