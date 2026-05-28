@@ -71,7 +71,7 @@ Examples:
 - Learner: I can improve my English by hard learn every day.
 - Corrected: I can improve my English by studying hard every day.
 Practice focus: Make 5 daily-life sentences with `spend/spent + time + doing` and 3 study sentences with `by + doing`.
-Last seen: 2026-05-27
+Last seen: 2026-05-28
 Status: active
 
 ## Error: Place prepositions on / in / at
@@ -85,6 +85,19 @@ Examples:
 - Corrected: The notebook is on the desk.
 Practice focus: Use real objects to make short sentences with `on the desk`, `in the box`, `in my notebook`, `in Changsha`, and `at work`.
 Last seen: 2026-05-27
+Status: active
+
+## Error: Countable and uncountable nouns
+
+Pattern: The learner may use plural-count words or plural nouns with uncountable nouns, and may miss plural nouns when English needs a general plural.
+Correction: Use `a lot of + uncountable noun` and singular verb for uncountable nouns; use plural nouns for repeated/general countable things.
+Examples:
+- Learner: There are many dirt on my glasses.
+- Corrected: There is a lot of dirt on my glasses.
+- Learner: I can improve my English by writing sentence.
+- Corrected: I can improve my English by writing sentences.
+Practice focus: Practice `a lot of time`, `a lot of work`, `a lot of dirt`, and short sentences with plural countable nouns.
+Last seen: 2026-05-28
 Status: active
 
 ## Initial priority areas to watch
