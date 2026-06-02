@@ -47,6 +47,8 @@ Expected actions:
 7. Append a short entry to [[log]].
 8. State tomorrow's likely review focus.
 
+If the daily page contains `## UI completion submission`, use that section as the learner's completion evidence.
+
 If the learner's answers are only in chat, use the chat answers as the completion evidence.
 
 ## 我新添加了一些资料

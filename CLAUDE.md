@@ -184,6 +184,7 @@ Stable rules:
 - Guided output is preferred; blank free writing should only be optional or very small.
 - Each daily page should repair only 1-2 priority errors and keep the task small enough to finish.
 - English corrections should be clear, explained in Chinese, and focused on the most important errors.
+- If a daily page contains `## UI completion submission`, use that section as the learner's completion evidence for correction.
 - Track only repeated, high-value, or blocking personal errors in `wiki/profile/error-patterns.md`.
 - Weekly and monthly reviews must be evidence-based, not motivational summaries.
 - Update `wiki/log.md` after major study, ingest, review, assessment, or maintenance events.
