@@ -1,5 +1,9 @@
 # English LLM Wiki Log
 
+## [2026-06-02] study-plan | Daily guided A2 airport notice page
+
+Created `wiki/study-plans/daily/2026-06-02.md` as a 30-minute review-first page after a short break. It repairs `spend/spent + time + doing`, `a lot of + uncountable noun`, and `looking forward to seeing you`, then uses the British Council A2 `An airport notice` material to practice travel rules with `must / can / cannot`.
+
 ## [2026-05-28] daily-study | Completed A2 email reading practice
 
 Corrected `wiki/study-plans/daily/2026-05-28.md` after completion. Reading comprehension was mostly accurate and `by + doing` improved, but `spend + time + doing` still needs review. Added `looking forward to`, `dirt`, `because`, and `get lost` to active vocabulary tracking; tomorrow should review `spend/spent + time + doing`, `a lot of + uncountable noun`, and `looking forward to seeing you`.
