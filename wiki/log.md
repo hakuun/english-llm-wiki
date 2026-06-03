@@ -1,5 +1,9 @@
 # English LLM Wiki Log
 
+## [2026-06-02] daily-study | Completed A2 airport notice reading
+
+Corrected `wiki/study-plans/daily/2026-06-02.md` after completion. Reading comprehension was mostly accurate (5/6) with one detail omission. `spend + time + doing` improved significantly — 3/3 correct, upgraded from weak to review. Two priority errors to address tomorrow: (1) new pattern — modal verb + gerund (`can only taking` → `can only take`), and (2) `weigh` (verb) vs `weight` (noun) confusion. `Cannot` vs `must` meaning distinction also needs practice. Updated vocabulary-review with 7 new/reviewed words and added modal-verb error pattern to profile.
+
 ## [2026-06-02] study-plan | Daily guided A2 airport notice page
 
 Created `wiki/study-plans/daily/2026-06-02.md` as a 30-minute review-first page after a short break. It repairs `spend/spent + time + doing`, `a lot of + uncountable noun`, and `looking forward to seeing you`, then uses the British Council A2 `An airport notice` material to practice travel rules with `must / can / cannot`.
