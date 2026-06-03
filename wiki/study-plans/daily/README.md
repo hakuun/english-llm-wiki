@@ -25,6 +25,7 @@ Use this folder as the single home for daily guided study pages.
 - [[study-plans/daily/2026-05-27]] — Review-first guided session with plural nouns and place prepositions.
 - [[study-plans/daily/2026-05-28]] — Review-first guided session with `spend/by + doing` and A2 email reading.
 - [[study-plans/daily/2026-06-02]] — Review-first guided session with airport rules, `spend + doing`, and `must/can/cannot`.
+- [[study-plans/daily/2026-06-03]] — Review-first guided session repairing modal verb + base form, `weigh` vs `weight`, with Bangkok transport reading.
 
 ## Learner input rule
 
