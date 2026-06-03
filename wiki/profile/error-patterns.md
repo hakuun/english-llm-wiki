@@ -71,8 +71,8 @@ Examples:
 - Learner: I can improve my English by hard learn every day.
 - Corrected: I can improve my English by studying hard every day.
 Practice focus: Make 5 daily-life sentences with `spend/spent + time + doing` and 3 study sentences with `by + doing`.
-Last seen: 2026-05-28
-Status: active
+Last seen: 2026-06-02
+Status: improving — 2026-06-02 warm-up and grammar practice 3/3 correct on `spend + doing`.
 
 ## Error: Place prepositions on / in / at
 
@@ -97,7 +97,20 @@ Examples:
 - Learner: I can improve my English by writing sentence.
 - Corrected: I can improve my English by writing sentences.
 Practice focus: Practice `a lot of time`, `a lot of work`, `a lot of dirt`, and short sentences with plural countable nouns.
-Last seen: 2026-05-28
+Last seen: 2026-06-02
+Status: active — 2026-06-02 small output: `watching short video` → `watching short videos`
+
+## Error: Modal verb + base form
+
+Pattern: The learner may use a gerund (-ing) or infinitive after a modal verb (`can`, `must`, `should`, `will`, `cannot`).
+Correction: Modal verbs are always followed by the base form of the verb (no -ing, no to).
+Examples:
+- Learner: Passengers can only taking one suitcase.
+- Corrected: Passengers can only take one suitcase.
+- Learner: You must to go now.
+- Corrected: You must go now.
+Practice focus: Make 5 sentences with `can / must / cannot + base verb` using travel or daily-life rules.
+Last seen: 2026-06-02
 Status: active
 
 ## Initial priority areas to watch

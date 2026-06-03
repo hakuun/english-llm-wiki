@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "956b91226ecb91e1",
+        "id": "7ae1c568efbe2763",
         "type": "tabs",
         "children": [
           {
-            "id": "be146d625136f5ef",
+            "id": "14669b6f7f35e432",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiki/study-plans/daily/2026-05-28.md",
+                "file": "wiki/study-plans/daily/2026-06-02.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-05-28"
+              "title": "2026-06-02"
             }
           }
         ]
@@ -183,10 +183,14 @@
       "bases:新建数据库": false
     }
   },
-  "active": "be146d625136f5ef",
+  "active": "14669b6f7f35e432",
   "lastOpenFiles": [
-    "wiki/study-plans/daily/2026-05-27.md",
+    "wiki/log.md.tmp.17276.50713153eadb",
+    "wiki/profile/weak-points.md.tmp.17276.6785aac23fb3",
+    "wiki/profile/error-patterns.md.tmp.17276.7abba71cc815",
     "wiki/study-plans/daily/2026-05-28.md",
+    "wiki/profile/error-patterns.md.tmp.17276.1a477a101737",
+    "wiki/study-plans/daily/2026-05-27.md",
     "wiki/log.md.tmp.11952.60315e42a1a0",
     "wiki/profile/error-patterns.md.tmp.11952.51177d1503b9",
     "wiki/vocabulary/vocabulary-review.md.tmp.11952.63da12dd02e8",
@@ -196,13 +200,11 @@
     "wiki/study-plans/daily/2026-05-26.md",
     "wiki/profile/weak-points.md.tmp.17616.778228981c5d",
     "wiki/vocabulary/vocabulary-review.md.tmp.17616.2ff8418c357d",
-    "wiki/study-plans/daily/2026-05-27.md.tmp.17616.22c93864ccab",
     "raw/inbox/A conference programme.md",
     "raw/inbox/A message to a new friend.md",
     "raw/inbox/A travel guide.md",
     "raw/inbox/An email from a friend.md",
     "raw/sources/reading/A message to a new friend.md",
-    "raw/inbox/American_Oxford_5000_by_CEFR_level.pdf",
     "raw/inbox/An airport notice.md",
     "raw/inbox/A flyer for a gym.md"
   ]

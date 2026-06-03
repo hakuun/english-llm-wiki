@@ -36,6 +36,7 @@ Evidence:
 Next action:
 
 - Keep `improve` and `spend` in [[vocabulary/vocabulary-review]] until the learner can use them correctly in guided and small-output tasks.
+- 2026-06-02 更新：`spend + time + doing` 连续 3 题全对，已从 weak 升级为 review。明天快速巩固 1 题即可，重点转向新出现的情态动词 + 原形。
 
 ### 3. Grammar accuracy for A2-B1 output
 
@@ -44,6 +45,7 @@ Evidence:
 - Current watchlist includes tense choice, articles, prepositions, countable nouns, and word order.
 - 2026-05-27 daily output showed `on / in` still needs controlled practice in writing, especially surface nouns such as `paper`, `glasses`, and `desk`.
 - 2026-05-28 daily correction showed `dirt` as an uncountable noun needs focused review: `There is a lot of dirt on my glasses.`
+- 2026-06-02 daily correction: `spend + time + doing` 3/3 全对，进步明显。新出现情态动词后接 -ing 的错误：`can only taking` → `can only take`；以及 `weigh`（动词）vs `weight`（名词）的词性混淆。
 
 Next action:
 
