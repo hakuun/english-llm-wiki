@@ -1,5 +1,9 @@
 # English LLM Wiki Log
 
+## [2026-06-03] study-plan | Daily guided modal-verb + base form repair page
+
+Created `wiki/study-plans/daily/2026-06-03.md` as a 30-minute review-first page. Main focus: repairing yesterday's new modal verb + base form error (`can only taking` → `can only take`), plus `weigh` vs `weight` confusion and `cannot` vs `must` distinction. Uses a short B1 British Council travel guide extract ("How to get around Bangkok") as reading input, with D-level modal-verb grammar drills. Quick check on `spend + doing` to confirm improvement.
+
 ## [2026-06-02] daily-study | Completed A2 airport notice reading
 
 Corrected `wiki/study-plans/daily/2026-06-02.md` after completion. Reading comprehension was mostly accurate (5/6) with one detail omission. `spend + time + doing` improved significantly — 3/3 correct, upgraded from weak to review. Two priority errors to address tomorrow: (1) new pattern — modal verb + gerund (`can only taking` → `can only take`), and (2) `weigh` (verb) vs `weight` (noun) confusion. `Cannot` vs `must` meaning distinction also needs practice. Updated vocabulary-review with 7 new/reviewed words and added modal-verb error pattern to profile.
