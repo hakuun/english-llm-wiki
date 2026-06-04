@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "7ae1c568efbe2763",
+        "id": "3f5bc1bdd1781f0b",
         "type": "tabs",
         "children": [
           {
-            "id": "14669b6f7f35e432",
+            "id": "0349423c73851a17",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiki/study-plans/daily/2026-06-02.md",
+                "file": "wiki/study-plans/daily/2026-06-03.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-06-02"
+              "title": "2026-06-03"
             }
           }
         ]
@@ -183,8 +183,17 @@
       "bases:新建数据库": false
     }
   },
-  "active": "14669b6f7f35e432",
+  "active": "0349423c73851a17",
   "lastOpenFiles": [
+    "wiki/study-plans/daily/2026-06-03.md.tmp.12440.a111ec0b2b59",
+    "wiki/log.md.tmp.12440.03fce8ceb038",
+    "wiki/profile/weak-points.md.tmp.12440.722eb64fbd3d",
+    "wiki/vocabulary/vocabulary-review.md.tmp.12440.da7db5ddf74b",
+    "wiki/profile/error-patterns.md.tmp.12440.84835a4f2b15",
+    "wiki/study-plans/daily/2026-06-03.md.tmp.12440.2f3a134d689c",
+    "wiki/source-notes/british-council-a2-b1-reading-pack.md",
+    "wiki/study-plans/daily/2026-06-03.md",
+    "wiki/study-plans/daily/2026-06-02.md",
     "wiki/log.md.tmp.17276.50713153eadb",
     "wiki/profile/weak-points.md.tmp.17276.6785aac23fb3",
     "wiki/profile/error-patterns.md.tmp.17276.7abba71cc815",
@@ -192,14 +201,8 @@
     "wiki/profile/error-patterns.md.tmp.17276.1a477a101737",
     "wiki/study-plans/daily/2026-05-27.md",
     "wiki/log.md.tmp.11952.60315e42a1a0",
-    "wiki/profile/error-patterns.md.tmp.11952.51177d1503b9",
-    "wiki/vocabulary/vocabulary-review.md.tmp.11952.63da12dd02e8",
-    "wiki/study-plans/daily/2026-05-28.md.tmp.11952.33c3316bc854",
-    "wiki/study-plans/daily/2026-05-28.md.tmp.11952.8c87f823bbb8",
     "wiki/study-plans/daily/2026-05-25.md",
     "wiki/study-plans/daily/2026-05-26.md",
-    "wiki/profile/weak-points.md.tmp.17616.778228981c5d",
-    "wiki/vocabulary/vocabulary-review.md.tmp.17616.2ff8418c357d",
     "raw/inbox/A conference programme.md",
     "raw/inbox/A message to a new friend.md",
     "raw/inbox/A travel guide.md",
