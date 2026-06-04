@@ -1,5 +1,9 @@
 # English LLM Wiki Log
 
+## [2026-06-04] daily-study | Corrected 2026-06-03 daily page
+
+Corrected `wiki/study-plans/daily/2026-06-03.md` after completion. Good progress on the modal-verb + base form error — 7/7 correct, now resolved. However two new error patterns emerged as consecutive-day repeats: (1) `weigh` (v.) vs `weight` (n.) confusion — 5 mistakes across 2 days, added as formal error pattern with related pairs (high/height, long/length); (2) `cannot` vs `must` meaning reversal — learner wrote "must" for prohibition rules on both days. Output task was off-topic (wrote daily commands instead of travel tips) and showed the `If you ____, you will have to ____.` pattern isn't mastered yet. Added 5 new vocabulary items (traffic, get around, stuck, catch a boat, public transport) and promoted `fit` to review after 2 consecutive correct days. Tomorrow's review focus: weigh/weight pair practice and cannot/must two-column contrast.
+
 ## [2026-06-03] study-plan | Daily guided modal-verb + base form repair page
 
 Created `wiki/study-plans/daily/2026-06-03.md` as a 30-minute review-first page. Main focus: repairing yesterday's new modal verb + base form error (`can only taking` → `can only take`), plus `weigh` vs `weight` confusion and `cannot` vs `must` distinction. Uses a short B1 British Council travel guide extract ("How to get around Bangkok") as reading input, with D-level modal-verb grammar drills. Quick check on `spend + doing` to confirm improvement.

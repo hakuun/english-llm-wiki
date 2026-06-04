@@ -109,9 +109,38 @@ Examples:
 - Corrected: Passengers can only take one suitcase.
 - Learner: You must to go now.
 - Corrected: You must go now.
-Practice focus: Make 5 sentences with `can / must / cannot + base verb` using travel or daily-life rules.
-Last seen: 2026-06-02
-Status: active
+Practice focus: Weekly quick review only; this rule is now stable.
+Last seen: 2026-06-03
+Status: **resolved** — 2026-06-03 warm-up 3/3 + grammar 4/4 = 7/7 correct on modal + base form. Downgrade to occasional review.
+
+## Error: weigh (verb) vs weight (noun) — word-class confusion
+
+Pattern: The learner confuses `weigh` (verb) and `weight` (noun), often filling `weight` into a verb slot, or choosing `weight` when `weighs` is needed.
+Correction: Before choosing, check the sentence slot: does it need a verb (action) or a noun (thing/number)?
+Examples:
+- Learner: The suitcase must weight no more than 10kg.
+- Corrected: The suitcase must **weigh** no more than 10kg.
+- Learner: My suitcase weight 12kg.
+- Corrected: My suitcase **weighs** 12kg.
+- Learner: How much does this bag weight?
+- Corrected: How much does this bag **weigh**?
+Related pairs to practice: high/height, long/length, strong/strength.
+Practice focus: Fill-in sentences that force a noun-or-verb decision before choosing weigh/weight, high/height, long/length.
+Last seen: 2026-06-03 (consecutive days: 06-02, 06-03)
+Status: **active** — 2 consecutive days of the same confusion.
+
+## Error: cannot vs must — prohibition vs obligation meaning reversal
+
+Pattern: The learner may write `must` for restriction/prohibition rules, producing the opposite meaning.
+Correction: `cannot` = prohibition (不能), `must` = obligation (必须). Airport/security rules are mostly restrictions → use `cannot`.
+Examples:
+- Learner: Liquids must be more than 100ml in your hand luggage. (液体必须超过100ml ❌)
+- Corrected: Liquids **cannot** be more than 100ml in your hand luggage. (液体不能超过100ml ✅)
+- Learner: The total weight must be more than 10kg. (总重必须超过10kg ❌)
+- Corrected: The total weight **cannot** be more than 10kg. (总重不能超过10kg ✅)
+Practice focus: Two-column table — "must do" vs "cannot do" — with airport and daily-life rules.
+Last seen: 2026-06-03 (consecutive days: 06-02, 06-03)
+Status: **active** — 2 consecutive days of the same meaning reversal.
 
 ## Initial priority areas to watch
 
