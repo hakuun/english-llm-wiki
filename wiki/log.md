@@ -1,5 +1,9 @@
 # English LLM Wiki Log
 
+## [2026-06-04] study-plan | Daily repair page — weigh/weight pair practice and cannot/must contrast
+
+Created `wiki/study-plans/daily/2026-06-04.md` as a 30-minute error-repair page with no new reading material. Main focus: (1) weigh/weight word-class confusion — redesigned explanation from a "every sentence needs a verb" angle with a "look left" rule, extended to high/height and long/length pairs; (2) cannot vs must two-column contrast with classroom/library rules. Includes quick vocabulary consolidation for traffic/get_around and a spend+doing check question. Output is guided 5 classroom rules with Chinese pre-writing step to prevent off-topic responses.
+
 ## [2026-06-04] daily-study | Corrected 2026-06-03 daily page
 
 Corrected `wiki/study-plans/daily/2026-06-03.md` after completion. Good progress on the modal-verb + base form error — 7/7 correct, now resolved. However two new error patterns emerged as consecutive-day repeats: (1) `weigh` (v.) vs `weight` (n.) confusion — 5 mistakes across 2 days, added as formal error pattern with related pairs (high/height, long/length); (2) `cannot` vs `must` meaning reversal — learner wrote "must" for prohibition rules on both days. Output task was off-topic (wrote daily commands instead of travel tips) and showed the `If you ____, you will have to ____.` pattern isn't mastered yet. Added 5 new vocabulary items (traffic, get around, stuck, catch a boat, public transport) and promoted `fit` to review after 2 consecutive correct days. Tomorrow's review focus: weigh/weight pair practice and cannot/must two-column contrast.
