@@ -177,6 +177,8 @@ The learner should not need to type long prompts for recurring study operations.
 
 Use `wiki/study-plans/command-shortcuts.md` as the operational map for recurring daily study, completion correction, source ingest, weekly review, and monthly assessment commands.
 
+Before creating a daily plan, always read `wiki/active-learning.md` — it holds the current week's input rotation, vocabulary targets, and grammar mode for the next daily page.
+
 Stable rules:
 
 - Daily study defaults to 30 minutes unless the learner says otherwise.
@@ -187,6 +189,37 @@ Stable rules:
 - Track only repeated, high-value, or blocking personal errors in `wiki/profile/error-patterns.md`.
 - Weekly and monthly reviews must be evidence-based, not motivational summaries.
 - Update `wiki/log.md` after major study, ingest, review, assessment, or maintenance events.
+
+### Input rotation (reading ↔ listening)
+
+See `wiki/listening/transcript-notes.md` for the materials table and `wiki/listening/index.md` for the recommended learning order.
+
+- Rotate daily input between reading and listening. Default rhythm: **reading : listening ≈ 2 : 1** per week (roughly 3-4 reading days, 1-2 listening days).
+- Each listening episode uses a **2-day cycle**: Day 1 = listen + read transcript + vocabulary → Day 2 = shadow + retell. Both days count as listening days.
+- Start listening with "Talking about books" (BBC Real Easy English, A2-B1, easiest). Then follow the recommended order: Animals → Cities → Debt → Food.
+- When a daily page uses listening input, keep the rest of the page structure the same (review-first, vocabulary, small output). Shadowing and retelling replace the usual output task on Day 2.
+
+### Vocabulary: CEFR-level tracking and B1 pipeline
+
+See `wiki/vocabulary/b1-word-pipeline.md` for the pipeline workflow, candidate words, and weekly targets.
+
+- Before adding a new word to active vocabulary, check its CEFR level in `wiki/vocabulary/oxford-3000-by-cefr.tsv`.
+- Prefer B1 words from the pipeline — they are the A2→B2 bridge. Add 3-5 new B1 words per daily page when suitable input provides them.
+- Add the CEFR level to the `cefr` column in `wiki/vocabulary/vocabulary-review.md` when adding any new word.
+- When a B1 pipeline candidate word appears in reading or listening, promote it to active vocabulary immediately.
+
+### Grammar: reactive repair + proactive introduction
+
+See `wiki/grammar/present-perfect-plan.md` for the lesson sequence and `wiki/grammar/priority-grammar-map.md` for the full proactive mechanism.
+
+- Grammar teaching uses two modes. **Reactive** (default): repair 1-2 errors from the previous daily page. **Proactive**: when the previous page had 0-1 errors needing repair, introduce one grammar point from the present-perfect plan instead of adding new input material.
+- One grammar point per day. Use the Oxford grammar source files as input; do not invent grammar rules.
+- The first proactive grammar lesson should be "present perfect vs past simple" (the most critical B1 bridge — see plan for lesson template).
+
+### Review cadence
+
+- **Weekly review** (`开始周学习复盘`): trigger when roughly 7 daily pages have accumulated since the last review, or when the learner asks. Update `wiki/study-plans/weekly-plan.md` and `wiki/profile/weak-points.md`. See `wiki/study-plans/command-shortcuts.md` for the full checklist.
+- **Monthly assessment** (`开始月学习评估`): trigger when roughly 30 days or 4 weekly reviews have passed. Compare evidence against `wiki/assessments/b2-can-do-checklist.md` and update `wiki/profile/current-level.md`. See `wiki/study-plans/command-shortcuts.md` for the full checklist.
 
 ## Agent behavior
 

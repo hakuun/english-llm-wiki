@@ -1,49 +1,157 @@
+---
+tags:
+  - english
+  - assessments
+  - b2
+  - checklist
+source: CEFR Companion Volume (2020)
+---
+
 # B2 Can-Do Checklist
 
-This is a practical checklist for the long-term B2 goal. It should be updated during monthly assessment.
+本清单基于 CEFR Companion Volume (2020) 的 B2 官方描述语。每条描述语标注了来源页码，用于月评估时逐项检查当前证据。
 
-## Reading
+## 听力（Listening）
 
-- [ ] Can understand the main ideas of articles on familiar general topics.
-- [ ] Can follow the structure of a short argument or explanation.
-- [ ] Can guess many unknown words from context.
-- [ ] Can read selected authentic materials with limited support.
+### 总体听力
 
-## Listening
+- [ ] 能理解个人、社交、学业或职业生活中常见话题的标准语言，无论话题是否熟悉。（总体听力理解, Ch.3）
+- [ ] 只有在极端背景噪音、结构混乱或大量习语时，理解才会受到明显影响。（总体听力理解, Ch.3）
 
-- [ ] Can understand the main ideas of clear standard speech on familiar topics.
-- [ ] Can follow short talks or videos when the topic is known.
-- [ ] Can use transcripts to close listening gaps.
-- [ ] Can understand common connected speech patterns better over time.
+### 广播和录音
 
-## Vocabulary
+- [ ] 能理解社交、职业或学术场景中标准语言的录音材料，能识别观点和态度以及信息内容。（p.52）
+- [ ] 能理解大多数标准语言形式的纪录片和其他录音/广播材料，能识别情绪和态度。（p.52）
 
-- [ ] Knows enough high-frequency words for B1 materials.
-- [ ] Is building B2 topic vocabulary.
-- [ ] Can use common collocations, not only single words.
-- [ ] Can distinguish common confusing words.
+### 电视、电影和视频
 
-## Grammar
+- [ ] 能从新闻和时事节目的论证和讨论中提取主要观点。（p.53）
+- [ ] 能理解大多数电视新闻和时事节目。（p.53）
+- [ ] 能理解纪录片、现场采访、脱口秀、戏剧和大多数标准语言或熟悉变体的电影。（p.53）
 
-- [ ] Can write mostly correct simple and compound sentences.
-- [ ] Can use common tenses with fewer repeated errors.
-- [ ] Can use articles, prepositions, and countability more accurately.
-- [ ] Can understand and use common B1-B2 sentence patterns.
+### 自评量表
 
-## Writing
+- [ ] 能理解较长的讲话和讲座，能跟上较复杂的论证——前提是主题比较熟悉。（p.177）
+- [ ] 能理解大部分电视新闻和时事节目。能理解大部分标准语言的电影。（p.177）
 
-- [ ] Can write a clear paragraph about a familiar topic.
-- [ ] Can summarize a short text in simple English.
-- [ ] Can express an opinion with reasons and examples.
-- [ ] Can revise writing after correction and reduce repeated errors.
+---
 
-## Speaking and spoken-style output
+## 阅读（Reading）
 
-- [ ] Can read aloud short texts with improving fluency.
-- [ ] Can shadow short audio clips.
-- [ ] Can retell simple content using notes.
-- [ ] Can answer familiar questions in simple English.
+### 总体阅读
 
-## Current status
+- [ ] 能比较独立地阅读，能根据不同文本和目的调整阅读风格和速度，有选择地使用参考工具。拥有较广的主动阅读词汇量，但低频习语可能有困难。（p.54）
 
-Initial checklist created. No evidence-based monthly assessment has been completed yet.
+### 信息和论证阅读
+
+- [ ] 能理解涉及当代问题的文章和报告——其中作者持有特定立场或观点。（p.57, p.177）
+- [ ] 能从自己专业领域内的高度专业化来源中获取信息、想法和观点。（p.57）
+- [ ] 能理解当代文学散文。（p.177）
+
+### 休闲阅读
+
+- [ ] 能比较独立地进行休闲阅读。（Ch.3, Reading as a leisure activity）
+
+### 策略
+
+- [ ] 能使用多种策略来实现理解——包括利用上下文线索、监控理解、处理不熟悉词汇。
+
+---
+
+## 口语产出（Speaking — Production）
+
+### 总体口语产出
+
+- [ ] 能就自己感兴趣的广泛主题做出清晰、详细的描述。（p.178）
+
+### 持续性独白：论证观点
+
+- [ ] 能系统性地展开论证，适当突出重要观点并提供相关支持细节。（pp.64-65）
+- [ ] 能解释对某个话题的立场，给出各种选择的优缺点。（p.178）
+
+### 叙述
+
+- [ ] 能叙述故事或复述书/电影的情节，并描述自己的反应。（B1→B2 过渡能力）
+
+---
+
+## 口语交互（Speaking — Interaction）
+
+### 总体口语交互
+
+- [ ] 能比较流利和自然地交互，与英语母语者的日常交流比较顺畅，不给对方带来压力。（p.179）
+
+### 讨论
+
+- [ ] 能在熟悉语境中积极参与讨论，解释并坚持自己的观点。（p.179）
+- [ ] 能跟上热烈的讨论，识别支持与反对某观点的论据。
+- [ ] 能提出并令人信服地回应复杂的论证。
+
+### 对话管理
+
+- [ ] 能发起对话、在合适的时机接话、在需要时得体地结束对话（虽然可能不够优雅）。（pp.173-174）
+- [ ] 能使用填充语争取时间组织语言，如 "That's a difficult question to answer"。
+- [ ] 能在嘈杂环境中详细理解对方用标准语言说的话。
+
+---
+
+## 写作（Writing）
+
+### 总体写作产出
+
+- [ ] 能写出清晰、详细的文字，涵盖自己感兴趣的广泛主题。（p.178）
+
+### 短文和报告
+
+- [ ] 能写短文或报告，传递信息或给出支持/反对某个观点的理由。（p.178）
+- [ ] 能写系统地展开论证的短文或报告，适当突出重要观点并提供相关支持细节。（pp.68-70）
+- [ ] 能综合和评估来自多个来源的信息和论点。（pp.68-70）
+
+### 书面交互
+
+- [ ] 能与多人书面互动，将自己的发言与他人的联系起来。
+- [ ] 能处理书面交流中的误解或分歧——前提是对方避免使用复杂语言、给予充分时间、保持合作态度。（p.179）
+
+---
+
+## 语言能力（Language Competence）
+
+### 词汇
+
+- [ ] 拥有足够的词汇量来讨论大多数与自己领域相关的话题。能变换措辞以避免频繁重复，但词汇缺口仍可能导致犹豫和迂回表达。
+- [ ] 掌握 Oxford 3000 中大部分 B1 词汇和相当一部分 B2 词汇（~587 B2 词）。
+- [ ] 能使用常见搭配，而不仅是单个词的翻译。
+
+### 语法
+
+- [ ] 语法控制较好。偶尔出现非系统性错误和小句法瑕疵，但不导致误解。
+- [ ] 能运用 B1-B2 句式（现在完成时、过去完成时、关系从句、被动语态等）。
+- [ ] 大部分时候能自我纠正错误（如果有意识地发现）。
+
+### 语言意识
+
+- [ ] 能记录自己反复犯的错误并有意识地监控。（pp.173-174）
+- [ ] 发现错误导致误解后能自行纠正。
+- [ ] 能提前规划要说什么、怎么说，考虑对听者的影响。
+
+---
+
+## 当前状态
+
+- 本清单于 2026-06-05 基于 CEFR Companion Volume (2020) B2 描述语重写。
+- 尚未完成任何证据驱动月评估。所有项目均为待检查状态。
+- 下一次月评估（约 2026-06-25）应选取 8-10 个最相关的 B2 描述语进行首次证据对照。
+
+## 使用说明
+
+每月评估时：
+1. 选取与当前阶段最相关的 8-12 条描述语。
+2. 对照最近一个月的 daily pages、写作样本、词汇数据和听力记录。
+3. 标注为 ✓（有证据支持）、~（部分达成）、或 ✗（尚未达成）。
+4. 将结果写入 [[assessments/monthly-checkpoints]] 和 [[profile/current-level]]。
+
+## 关联页面
+
+- [[standards/cefr-b2-target]] — B2 目标的完整解读和详细描述语
+- [[assessments/monthly-checkpoints]] — 月度评估记录
+- [[profile/current-level]] — 当前水平估计
