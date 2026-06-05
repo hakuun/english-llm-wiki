@@ -4,7 +4,8 @@ Track high-frequency words, collocations, confusing words, and word families tha
 
 ## Core pages
 
-- [[vocabulary/vocabulary-review]] — Active review list with level/status for guided daily practice.
+- [[vocabulary/vocabulary-review]] — Active review list with CEFR-level tracking for guided daily practice.
+- [[vocabulary/b1-word-pipeline]] — Systematic pipeline for pulling B1 words from Oxford 3000 into active study.
 - [[vocabulary/high-frequency-words]]
 - [[vocabulary/confusing-words]]
 - [[vocabulary/collocations]]
@@ -25,6 +26,8 @@ Track high-frequency words, collocations, confusing words, and word families tha
 ## Current vocabulary method
 
 1. Learn words from reading/listening context first.
-2. Add CEFR level only when useful for prioritization.
-3. Prefer chunks and word families over isolated translation.
-4. Review 10-15 active B1/B2 words per week, not hundreds of passive list items.
+2. Check CEFR level in `oxford-3000-by-cefr.tsv` before adding to active vocabulary.
+3. Prefer B1 words from the [[vocabulary/b1-word-pipeline]] — they are the A2→B2 bridge.
+4. Prefer chunks and word families over isolated translation.
+5. Review 10-15 active B1/B2 words per week, not hundreds of passive list items.
+6. Add 3-5 new B1 words per daily page when suitable material provides them.

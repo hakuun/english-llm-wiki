@@ -4,6 +4,7 @@ This folder stores notes extracted from processed source materials.
 
 ## Source notes
 
+- [[source-notes/cefr-companion-volume-b2]] — CEFR Companion Volume (2020) B2 descriptor extraction: A-level standard, processing method, extracted page references, and study use.
 - [[source-notes/oxford-3000-by-cefr]] — A1-B2 Oxford 3000 vocabulary reference and extracted TSV note.
 - [[source-notes/oxford-5000-american-by-cefr]] — B2-C1 Oxford 5000 vocabulary reference and extraction-quality note.
 - [[source-notes/oxford-grammar-core-a1-b2]] — Oxford grammar bundle grouped into A1-A2 foundation, B1 bridge, and B2 extension.

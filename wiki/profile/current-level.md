@@ -30,10 +30,10 @@ Weaknesses:
 
 ## Evidence still needed
 
-- Can the learner understand short A2 graded texts?
-- Can the learner understand slow audio with a transcript?
-- Can the learner write a short paragraph after reading a simple text?
-- How many high-frequency B1 words are already familiar?
+- Can the learner understand short A2 graded texts? ✅ 已通过 4 篇 A2-B1 阅读 daily pages 收集证据
+- Can the learner understand slow audio with a transcript? ← **听力系统已建立**（5 篇 BBC，A2-B2），等待首次听力 daily page
+- Can the learner write a short paragraph after reading a simple text? ← 部分收集（guided sentences 多次正确），待收集短文样本
+- How many high-frequency B1 words are already familiar? ← **B1 管道已建立**，active vocabulary 现在带有 CEFR 等级追踪
 
 ## Current working assumption
 

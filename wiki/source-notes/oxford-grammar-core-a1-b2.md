@@ -37,13 +37,15 @@
 
 ## Recommended study action
 
-每次只学一个小点，用 5-8 个自己的句子练习。优先顺序：
+前摄语法已启动——现在完成时是第一个推进单元。详见 [[grammar/present-perfect-plan]]。
 
-1. possessive adjectives + `it's` vs `its`
-2. `some/any`, `much/many`, `a few/a little`
-3. present perfect simple: `have/has + past participle`
-4. present perfect vs past simple
-5. `for/since`, `just/already/yet`
+每次只学一个小点，用 5-8 个自己的句子练习。当前优先顺序：
+
+1. ~~present perfect simple: `have/has + past participle`~~ → 进入前摄轨道
+2. ~~present perfect vs past simple~~ → 进入前摄轨道
+3. ~~`for/since`, `just/already/yet`~~ → 进入前摄轨道
+4. possessive adjectives + `it's` vs `its`
+5. `some/any`, `much/many`, `a few/a little`
 6. past perfect simple
 7. perfect continuous contrasts
 

@@ -52,16 +52,20 @@ Use this section to hold candidates for the next daily page.
 
 ### Input candidates
 
-- Reuse one short A2-B1 source note, or create one from a suitable source.
+- **Reading**: Reuse one short A2-B1 source note, or create one from a suitable source.
+- **Listening** (new — 2-day cycle): Use one BBC episode from [[listening/transcript-notes]]. Day 1 = listen + read transcript + vocabulary. Day 2 = shadow + retell. Start with "Talking about books" (A2-B1, easiest).
 
 ### Vocabulary candidates
 
-- Choose 3-6 words or chunks from [[vocabulary/vocabulary-review]].
+- Prefer B1 words from the [[vocabulary/b1-word-pipeline]].
+- Check CEFR level in `wiki/vocabulary/oxford-3000-by-cefr.tsv` before adding to active vocabulary.
+- Choose 3-5 words or chunks from [[vocabulary/vocabulary-review]].
 - Prefer words marked `weak` or `active`.
 
 ### Error-focus candidates
 
 - Choose 1-2 items from [[profile/error-patterns]] or [[profile/weak-points]].
+- **When daily errors are light (0-1 items)**: introduce one proactive grammar point from [[grammar/present-perfect-plan]] instead of adding new reading/listening material.
 
 ### Output candidates
 
