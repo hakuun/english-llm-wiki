@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiki/study-plans/daily/2026-06-05.md",
-                "mode": "source",
-                "source": false
+                "file": "raw/inbox/Real Easy English  Talking about the beach.md",
+                "mode": "preview",
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "2026-06-05"
+              "title": "Real Easy English  Talking about the beach"
             }
           }
         ]
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "5a2246c4d03d41b5",
@@ -186,6 +185,28 @@
   },
   "active": "0349423c73851a17",
   "lastOpenFiles": [
+    "raw/inbox/Real Easy English  Talking about fruit.md",
+    "raw/inbox/Real Easy English  Talking about books.md",
+    "raw/inbox/Real Easy English  Talking about the beach.md",
+    "raw/inbox/6 Minute English  Are saunas good for you.md",
+    "raw/inbox/6 Minute English  How reading shapes your brain.md",
+    "raw/inbox/6 Minute English  Living with debt.md",
+    "raw/inbox/6 Minute English  The future of food.md",
+    "raw/inbox/A short story extract.md",
+    "raw/inbox/Study skills tips.md",
+    "raw/inbox/Professional profile summaries.md",
+    "raw/inbox/The legend of fairies.md",
+    "raw/inbox/The Martian a book review.md",
+    "raw/inbox/Digital habits across generations.md",
+    "raw/inbox/An email request for help.md",
+    "raw/inbox/How to spot fake news.md",
+    "raw/inbox/English course prospectus.md",
+    "raw/inbox/Choosing a conference venue.md",
+    "raw/inbox/An invitation to a job interview.md",
+    "raw/inbox/An end of term report.md",
+    "raw/inbox/6 Minute English  Should we eat ultra-processed food.md",
+    "raw/inbox/6 Minute English  Making cities feel quieter.md",
+    "wiki/study-plans/daily/2026-06-05.md",
     "wiki/log.md.tmp.22832.a3c04d07b5e5",
     "wiki/profile/weak-points.md.tmp.22832.6a9269ed9209",
     "wiki/profile/weak-points.md.tmp.22832.09cd19e2c556",
@@ -198,19 +219,7 @@
     "wiki/study-plans/daily/2026-06-03.md",
     "wiki/study-plans/daily/README.md.tmp.12440.dee7203a0aa0",
     "wiki/study-plans/daily/2026-06-04.md.tmp.12440.9c980462c5d0",
-    "wiki/study-plans/daily/2026-06-03.md.tmp.12440.a111ec0b2b59",
     "wiki/source-notes/british-council-a2-b1-reading-pack.md",
-    "wiki/study-plans/daily/2026-06-02.md",
-    "wiki/study-plans/daily/2026-05-28.md",
-    "wiki/study-plans/daily/2026-05-27.md",
-    "wiki/study-plans/daily/2026-05-25.md",
-    "wiki/study-plans/daily/2026-05-26.md",
-    "raw/inbox/A conference programme.md",
-    "raw/inbox/A message to a new friend.md",
-    "raw/inbox/A travel guide.md",
-    "raw/inbox/An email from a friend.md",
-    "raw/sources/reading/A message to a new friend.md",
-    "raw/inbox/An airport notice.md",
-    "raw/inbox/A flyer for a gym.md"
+    "wiki/study-plans/daily/2026-06-02.md"
   ]
 }

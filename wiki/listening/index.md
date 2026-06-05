@@ -15,17 +15,20 @@ tags:
 
 ## 当前听力材料
 
-共 **5 份** BBC Learning English 材料，均为 B 级来源，带完整 transcript 和音频下载链接：
+共 **8 份** BBC Learning English 材料，均为 B 级来源，带完整 transcript 和音频下载链接：
 
 | # | Title | Level | Topic |
 |---|-------|-------|-------|
 | 1 | [[source-notes/bbc-real-easy-english-talking-about-books\|Talking about books]] | A2-B1 | Books and reading habits |
 | 2 | [[source-notes/bbc-6min-why-animals-black-and-white\|Why are some animals black and white?]] | B1-B2 | Animal biology, evolution |
 | 3 | [[source-notes/bbc-6min-making-cities-feel-quieter\|Making cities feel quieter]] | B1-B2 | Urban noise, soundscaping |
-| 4 | [[source-notes/bbc-6min-the-future-of-food\|The future of food]] | B1-B2 | Food security, climate change |
+| 4 | [[source-notes/bbc-6min-should-we-eat-ultra-processed-food\|Should we eat ultra-processed food?]] | B1-B2 | Food, health, nutrition |
 | 5 | [[source-notes/bbc-6min-living-with-debt\|Living with debt]] | B1-B2 | Personal finance, debt |
+| 6 | [[source-notes/bbc-6min-the-future-of-food\|The future of food]] | B1-B2 | Food security, climate change |
+| 7 | [[source-notes/bbc-6min-are-saunas-good-for-you\|Are saunas good for you?]] | B1-B2 | Health, sauna culture |
+| 8 | [[source-notes/bbc-6min-how-reading-shapes-your-brain\|How reading shapes your brain]] | B1-B2 | Neuroscience, reading |
 
-**建议学习顺序**：1 → 2 → 3 → 5 → 4（从最简单到最抽象）
+**建议学习顺序**：1 → 2 → 3 → 4 → 5 → 6 → 7 → 8（从最具体到最抽象/学术）
 
 ## B2 听力目标
 
