@@ -156,8 +156,8 @@ Examples:
 - Corrected: This bag **weighs** too much.
 Memory trick: **名词 -s = 复数，动词 -s = 单数**（he/she/it 才加）。`does` 已经带了 -s，后面的动词不再加。
 Practice focus: weigh/weighs contrast exercises with explicit "check the subject: is it he/she/it/a thing, or does it follow does/can/must?"
-Last seen: 2026-06-04
-Status: **active** — first exposed on 2026-06-04 during weigh/weight practice. The underlying word-class confusion is improving, but the -s agreement rule is a newly exposed gap. 4 errors in one session (2× missing -s on 3rd-person subject, 2× adding -s after does).
+Last seen: 2026-06-05
+Status: **improving** — 2026-06-05: 16/16 on controlled -s exercises (weigh/weighs, work/live/speak, like/want/need), output 4 sentences all correct on 三单-s. The rule is now understood; next step is consolidating in real reading/writing. Learner asked a sharp question ("My suitcases 不也是 it 吗？") showing they're internalizing the rule rather than memorizing.
 
 ## Initial priority areas to watch
 

@@ -12,21 +12,21 @@ This page summarizes current learning weaknesses from daily pages, vocabulary re
 
 ## Current weak points
 
-### 1. 词性混淆（weigh/weight, high/height 等名/动/形配对）→ 进步中，新问题暴露
+### 1. 词性混淆（weigh/weight, high/height 等名/动/形配对）→ 进步中，三单 -s 子问题已修复
 
 Evidence:
 
 - 2026-06-02：Vocabulary Q2 把 `weigh`（动词）填成 `weight`（名词）；Grammar 中再次混淆。
 - 2026-06-03：Warm-up Q4 选 C（weight）而非 A（weighs）；Grammar Part 2 Q1 填 weight 而非 weighs，Q3 填 weight 而非 weigh。连续两天共犯 5 次 weigh/weight 混淆。
 - 2026-06-04：**明显进步** — 4 个动词空位全部填了动词（weigh/weighs），没有再填 weight。Part B high/height 和 long/length 4/4 全对。**「先判词性再选词」的习惯正在形成。**
-- 但在 weigh/weight 练习中暴露了一个更深层的语法问题：**第三人称单数主谓一致**（什么时候用 weigh vs weighs）。4 处错误全是 -s 问题：My suitcase weigh → weighs（2 次）；does it weighs → weigh（2 次）。
-- [[profile/error-patterns]] 已将三单主谓一致单独记录为新错误模式。
+- 但在 weigh/weight 练习中暴露了一个更深层的语法问题：**第三人称单数主谓一致**（什么时候用 weigh vs weighs）。4 处错误全是 -s 问题。
+- 2026-06-05：**三单 -s 基本掌握** — 16/16 练习全对（weigh/weighs 判断 6/6 + 扩展到 work/live/speak/like/want/need 10/10），输出 4 句三单全部正确。学习者提出了很好的追问"My suitcases 不也是 it 吗"，说明在理解规则而非死记。`[[profile/error-patterns]]` 已标记为 improving。
 
 Next action:
 
 - weigh/weight 区分继续轻量跟踪，不再作为每日重点。
-- **新重点**：第三人称单数 -s vs 原形（does/can/must 后面）的对比练习。
-- 高/长配对 Part B 4/4 全对，这部分可以降低频率。
+- **三单 -s 降级**：明天用实际阅读材料巩固（在短文中找三单动词），不再单独练语法规则。
+- 高/长配对已降低频率。
 
 ### 2. cannot vs must 意思反转 ✅ 已修复
 
@@ -41,25 +41,19 @@ Next action:
 
 - 每周抽查 1 题即可。不再需要每日重点练习。
 
-### 3. 输出跑题 → 已改善，词汇准确性是新关注点
+### 3. 输出跑题 → 已修复，新暴露的是小问题
 
 Evidence:
 
 - 2026-06-03 输出任务要求写"旅行提示"，但 4 句话全部跑题。
-- 2026-06-04：**跑题问题已修复** — 5 条教室/图书馆规则全部切题。句型（must/cannot + 原形）5/5 正确。
-- 但新问题暴露：5 句中 5 个词汇错误，集中在形近/义近混淆：
-  - quit vs quiet（拼写差一个 e）
-  - clear vs clean（中文都含"清"，英文分工不同）
-  - run away vs run around（短语动词意思差很远）
-  - out sound（缺动词，不熟悉 play sound out loud）
-  - classroom 拼错为 calssroom
-- 这些不是语法问题，是词汇库存还小造成的正常现象。
+- 2026-06-04：**跑题问题已修复** — 5 条教室/图书馆规则全部切题。句型（must/cannot + 原形）5/5 正确。但暴露了词汇混淆（quit/quiet, clear/clean 等）。
+- 2026-06-05：**跑题已不是问题** — 4 句三单句子全部切题。语法核心（三单 -s）全部正确。新暴露的小问题：① 形容词 vs 副词（nice → well，首次出现）；② 冠词缺失（a medical company，旧模式）；③ hope + 宾语 + 名词的 Chinglish 结构（首次出现）。这些都是正常的小规模暴露，不急着立专项练习。
 
 Next action:
 
 - 继续用 guided sentence frames + 中文预写保证切题。
-- 关注形近词混淆对，挑 1-2 对在后续 daily 页面中轻量回顾。
-- 可数名词复数偶尔出现但频率下降，继续观察。
+- 观察 nice→well 和 hope 结构是否再次出现，若连续两天再处理。
+- 冠词问题已在 error-patterns 跟踪中。
 
 ### 4. Sentence accuracy in short personal writing
 
