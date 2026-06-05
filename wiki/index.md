@@ -48,7 +48,7 @@ This is the main index for the English learning wiki.
 - [[grammar/present-perfect-plan]] — First proactive grammar unit: present perfect 7-step learning sequence.
 - [[grammar/priority-grammar-map]] — Ordered A1-B2 grammar route with reactive and proactive learning modes.
 - [[reading/index]] — Reading path and article notes.
-- [[listening/index]] — Listening system: 5 BBC episodes (A2-B2), shadowing, retelling, and B2 listening goals.
+- [[listening/index]] — Listening system: 8 BBC episodes (A2-B2), shadowing, retelling, and B2 listening goals.
 - [[listening/transcript-notes]] — All listening materials with audio links, levels, and 2-day study cycle.
 - [[listening/shadowing-and-retelling]] — Shadowing method, pronunciation tips for Chinese speakers, and retelling templates.
 - [[writing/index]] — Writing prompts, corrected writing, and sentence patterns.
@@ -68,3 +68,7 @@ This is the main index for the English learning wiki.
 - [[source-notes/bbc-6min-making-cities-feel-quieter]] — BBC B1-B2 listening: urban noise and soundscaping.
 - [[source-notes/bbc-6min-the-future-of-food]] — BBC B1-B2 listening: food security and climate change.
 - [[source-notes/bbc-6min-living-with-debt]] — BBC B1-B2 listening: personal finance and debt.
+- [[source-notes/bbc-6min-should-we-eat-ultra-processed-food]] — BBC B1-B2 listening: ultra-processed food and health.
+- [[source-notes/bbc-6min-are-saunas-good-for-you]] — BBC B1-B2 listening: sauna culture and health evidence.
+- [[source-notes/bbc-6min-how-reading-shapes-your-brain]] — BBC B1-B2 listening: neuroscience of reading and brain plasticity.
+- [[source-notes/british-council-b1-reading-pack-2]] — British Council A2-B1 reading pack 2 (12 texts: workplace, academic, media, literary, cultural).

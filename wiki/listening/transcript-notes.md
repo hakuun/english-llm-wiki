@@ -18,17 +18,23 @@ tags:
 | 3 | Making cities feel quieter | BBC 6 Minute English | B1-B2 | Urban noise, soundscaping | [MP3](https://downloads.bbc.co.uk/learningenglish/features/6min/260521_6_minute_english_making_cities_feel_quieter_download.mp3) | [[source-notes/bbc-6min-making-cities-feel-quieter]] | ⬜ Not started |
 | 4 | The future of food | BBC 6 Minute English | B1-B2 | Food security, climate change | [MP3](https://downloads.bbc.co.uk/learningenglish/features/6min/260409_6_minute_english_the_future_of_food_download.mp3) | [[source-notes/bbc-6min-the-future-of-food]] | ⬜ Not started |
 | 5 | Living with debt | BBC 6 Minute English | B1-B2 | Personal finance, debt | [MP3](https://downloads.bbc.co.uk/learningenglish/features/6min/260528_6_minute_english_living_with_debt_download.mp3) | [[source-notes/bbc-6min-living-with-debt]] | ⬜ Not started |
+| 6 | Should we eat ultra-processed food? | BBC 6 Minute English | B1-B2 | Food, health, nutrition | [MP3](https://downloads.bbc.co.uk/learningenglish/features/6min/260430_6_minute_english_should_we_eat_ultra_processed_food_download.mp3) | [[source-notes/bbc-6min-should-we-eat-ultra-processed-food]] | ⬜ Not started |
+| 7 | Are saunas good for you? | BBC 6 Minute English | B1-B2 | Health, sauna culture | [MP3](https://downloads.bbc.co.uk/learningenglish/features/6min/260402_6_minute_english_saunas_download.mp3) | [[source-notes/bbc-6min-are-saunas-good-for-you]] | ⬜ Not started |
+| 8 | How reading shapes your brain | BBC 6 Minute English | B1-B2 | Neuroscience, reading | [MP3](https://downloads.bbc.co.uk/learningenglish/features/6min/260514_6_minute_english_how_reading_shapes_your_brain_download.mp3) | [[source-notes/bbc-6min-how-reading-shapes-your-brain]] | ⬜ Not started |
 
 ## 建议学习顺序
 
 ```
 最简单 → 最难
 
-1. Talking about books     (A2-B1)  ← 从这里开始！
-2. Animals black and white  (B1-B2)  ← 具体话题，画面感强
-3. Making cities quieter    (B1-B2)  ← 半抽象，感官词汇丰富
-4. Living with debt         (B1-B2)  ← 社交话题，习语集中
-5. The future of food       (B1-B2)  ← 最抽象，涉及政策/环境
+1. Talking about books       (A2-B1)  ← 从这里开始！
+2. Animals black and white    (B1-B2)  ← 具体话题，画面感强
+3. Making cities quieter      (B1-B2)  ← 半抽象，感官词汇丰富
+4. Ultra-processed food       (B1-B2)  ← 具体话题，生活词汇 ← NEW
+5. Living with debt           (B1-B2)  ← 社交话题，习语集中
+6. The future of food         (B1-B2)  ← 最抽象，涉及政策/环境
+7. Are saunas good for you?   (B1-B2)  ← 健康习语，学术数据 ← NEW
+8. How reading shapes brain   (B1-B2)  ← 最学术，神经科学词汇 ← NEW
 ```
 
 ## 学习方法：2 天循环

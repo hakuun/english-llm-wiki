@@ -1,5 +1,5 @@
 
-<audio id="audio" controls="" preload="none">
+<audio id="audio" controls="true" preload="none">
       <source id="mp3" src="https://downloads.bbc.co.uk/learningenglish/realeasyenglish/260403_REE_books_download.mp3">
 </audio>
 ### Introduction

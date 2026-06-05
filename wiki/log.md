@@ -1,5 +1,23 @@
 # English LLM Wiki Log
 
+## [2026-06-05] ingest | 15 new raw/inbox materials processed
+
+Processed 15 newly added `raw/inbox/` materials. Created 4 new source notes and updated listening, reading, and source-note indexes.
+
+**BBC 6 Minute English (3 new, B-level listening, B1-B2)**:
+- "Should we eat ultra-processed food?" — food, health, convenience; easiest of the new 3, concrete topic with daily-life vocabulary (from scratch, guilty pleasure, once in a while). Assigned position #4 in learning order.
+- "Are saunas good for you?" — sauna culture, health evidence, Finnish data; 2 useful idioms (not all it's cracked up to be, turn your nose up at) + academic expression (observational data). Position #7.
+- "How reading shapes your brain" — neuroscience of reading, brain plasticity, Chinese vs English reading; most academic of all 8 BBC materials. Position #8 (last).
+
+**British Council reading (12 new, A2-B1)**:
+- Created `[[source-notes/british-council-b1-reading-pack-2]]` covering 12 texts: workplace email, job interview invitation, end-of-term report, course prospectus, study tips, fake news detection, digital habits across generations, conference venue comparison, professional CV profiles, short story extract, book review (The Martian), and cultural history (the legend of fairies).
+- Organized by difficulty: 6 A2-level texts for immediate use, 6 B1-level texts for later study.
+- Added grammar notes on literary past tense, comparison structures, and condition + advice patterns.
+
+**Wiki updates**: `[[listening/transcript-notes]]` (materials table now 8 episodes, updated learning order), `[[listening/index]]` (count 5→8, revised order), `[[reading/index]]` (added pack 2), `[[source-notes/index]]` (4 new entries). Raw sources remain untouched.
+
+Total wiki listening materials: 8 BBC episodes (1 A2-B1 + 7 B1-B2). Total reading materials: 18 British Council texts across 2 packs + individual source notes.
+
 ## [2026-06-05] maintenance | Updated CLAUDE.md with automatic workflow rules
 
 Updated `CLAUDE.md` Workflow principles section to make the four new systems automatic when creating daily plans. Added four subsections: (1) **Input rotation** — reading:listening ≈ 2:1 per week, 2-day listening cycle, start with "Talking about books"; (2) **CEFR vocabulary tracking and B1 pipeline** — check CEFR level in Oxford 3000 TSV before adding words, prefer B1 pipeline words, add 3-5 B1 words per daily page; (3) **Reactive + proactive grammar** — reactive repair as default, proactive introduction when errors are light (0-1 items), first proactive lesson = present perfect vs past simple; (4) **Review cadence** — weekly review trigger at ~7 pages, monthly assessment trigger at ~30 days. Also added explicit instruction to read `wiki/active-learning.md` before creating any daily plan. This ensures future agents will automatically incorporate listening, B1 vocabulary, proactive grammar, and review triggers without needing the user to remember to ask.
