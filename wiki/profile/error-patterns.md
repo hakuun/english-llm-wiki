@@ -115,23 +115,21 @@ Status: **resolved** — 2026-06-03 warm-up 3/3 + grammar 4/4 = 7/7 correct on m
 
 ## Error: weigh (verb) vs weight (noun) — word-class confusion
 
-Pattern: The learner confuses `weigh` (verb) and `weight` (noun), often filling `weight` into a verb slot, or choosing `weight` when `weighs` is needed.
+Pattern: The learner confused `weigh` (verb) and `weight` (noun), often filling `weight` into a verb slot.
 Correction: Before choosing, check the sentence slot: does it need a verb (action) or a noun (thing/number)?
 Examples:
 - Learner: The suitcase must weight no more than 10kg.
 - Corrected: The suitcase must **weigh** no more than 10kg.
 - Learner: My suitcase weight 12kg.
 - Corrected: My suitcase **weighs** 12kg.
-- Learner: How much does this bag weight?
-- Corrected: How much does this bag **weigh**?
 Related pairs to practice: high/height, long/length, strong/strength.
 Practice focus: Fill-in sentences that force a noun-or-verb decision before choosing weigh/weight, high/height, long/length.
-Last seen: 2026-06-03 (consecutive days: 06-02, 06-03)
-Status: **active** — 2 consecutive days of the same confusion.
+Last seen: 2026-06-04
+Status: **improving** — 2026-06-04: the learner correctly chose verb forms (weigh/weighs) for all 4 verb slots, no longer filling `weight` into verb positions. The "check word class first" habit is forming. However a **new sub-issue** emerged: third-person singular -s agreement (weigh vs weighs) and base form after `does`. Tracked separately under [[#Error: Third-person singular subject-verb agreement]].
 
 ## Error: cannot vs must — prohibition vs obligation meaning reversal
 
-Pattern: The learner may write `must` for restriction/prohibition rules, producing the opposite meaning.
+Pattern: The learner wrote `must` for restriction/prohibition rules, producing the opposite meaning.
 Correction: `cannot` = prohibition (不能), `must` = obligation (必须). Airport/security rules are mostly restrictions → use `cannot`.
 Examples:
 - Learner: Liquids must be more than 100ml in your hand luggage. (液体必须超过100ml ❌)
@@ -139,8 +137,27 @@ Examples:
 - Learner: The total weight must be more than 10kg. (总重必须超过10kg ❌)
 - Corrected: The total weight **cannot** be more than 10kg. (总重不能超过10kg ✅)
 Practice focus: Two-column table — "must do" vs "cannot do" — with airport and daily-life rules.
-Last seen: 2026-06-03 (consecutive days: 06-02, 06-03)
-Status: **active** — 2 consecutive days of the same meaning reversal.
+Last seen: 2026-06-04
+Status: **resolved** — 2026-06-04 Part B 6/6 correct after two-column contrast exercise. Downgrade to weekly spot check only.
+
+## Error: Third-person singular subject-verb agreement
+
+Pattern: The learner may use the base form where third-person singular -s is needed, or add -s after auxiliary `does` where the base form is required.
+Correction:
+- `he / she / it / singular noun` + verb with **-s**: The bag weighs 5kg. My suitcase weighs 10kg.
+- `does` + base form (no -s): Does it weigh 5kg? How much does this bag weigh?
+- `can / must / will` + base form (no -s): You must weigh your suitcase.
+Examples:
+- Learner: My suitcase weigh 10kg.
+- Corrected: My suitcase **weighs** 10kg.
+- Learner: How much does it weighs?
+- Corrected: How much does it **weigh**?
+- Learner: This bag weigh too much.
+- Corrected: This bag **weighs** too much.
+Memory trick: **名词 -s = 复数，动词 -s = 单数**（he/she/it 才加）。`does` 已经带了 -s，后面的动词不再加。
+Practice focus: weigh/weighs contrast exercises with explicit "check the subject: is it he/she/it/a thing, or does it follow does/can/must?"
+Last seen: 2026-06-04
+Status: **active** — first exposed on 2026-06-04 during weigh/weight practice. The underlying word-class confusion is improving, but the -s agreement rule is a newly exposed gap. 4 errors in one session (2× missing -s on 3rd-person subject, 2× adding -s after does).
 
 ## Initial priority areas to watch
 

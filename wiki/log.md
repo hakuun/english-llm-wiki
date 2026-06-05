@@ -1,5 +1,9 @@
 # English LLM Wiki Log
 
+## [2026-06-05] daily-study | Corrected 2026-06-04 daily repair page
+
+Corrected `wiki/study-plans/daily/2026-06-04.md` after completion. Key findings: (1) **weigh/weight word-class confusion is improving** — learner correctly chose verb forms for all 4 verb slots, the "check word class first" habit is forming. Part B high/height and long/length were 4/4 perfect. (2) **New issue exposed: third-person singular -s agreement** — 4 errors all from weigh vs weighs (missing -s on 3rd-person subjects, adding -s after `does`). Added as a separate error pattern. (3) **cannot vs must is resolved** — Part B 6/6 correct after the two-column contrast exercise, downgraded to weekly spot check. (4) **`traffic` and `get around` remain unmastered** (0/4 across two days), need a method change. (5) **Output was on-topic** (classroom/library rules) with correct must/cannot + base form in all 5 sentences, but 5 vocabulary errors clustered around confusable pairs (quit/quiet, clear/clean, run away/run around). (6) **`spend + doing` upgraded to mastered** (5/5 across 3 consecutive days). Tomorrow's focus: third-person singular -s agreement, traffic/get_around with new method, and light review of 2 confusable word pairs.
+
 ## [2026-06-04] study-plan | Daily repair page — weigh/weight pair practice and cannot/must contrast
 
 Created `wiki/study-plans/daily/2026-06-04.md` as a 30-minute error-repair page with no new reading material. Main focus: (1) weigh/weight word-class confusion — redesigned explanation from a "every sentence needs a verb" angle with a "look left" rule, extended to high/height and long/length pairs; (2) cannot vs must two-column contrast with classroom/library rules. Includes quick vocabulary consolidation for traffic/get_around and a spend+doing check question. Output is guided 5 classroom rules with Chinese pre-writing step to prevent off-topic responses.
