@@ -8,10 +8,9 @@ Examples:
 - take notes
 - reach a goal
 
-## From British Council A2-B1 readings
+## From daily study
 
-- `give feedback`
-- `deal with change`
+- `recommend ... to someone` — I recommend this book to you.
 - `get around the city`
 - `pay extra`
 - `pass security`

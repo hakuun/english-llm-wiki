@@ -51,6 +51,10 @@ The learner does not need to assign exact scores. The daily page asks for `hard 
 | stuck | 被困住的，堵住的 | B1* | stuck in traffic jams | You can spend hours stuck in traffic. | 1 | review | 2026-06-03 | 2026-06-08 |
 | catch (a boat) | 乘坐（船） | A1 | catch an express boat | Catch an express boat along the river. | 2 | review | 2026-06-03 | 2026-06-08 |
 | public transport | 公共交通 | A2 | near public transport | The Skytrain is good public transport. | 2 | review | 2026-06-03 | 2026-06-10 |
+| **recommend** | 推荐，建议 | A2 | recommend ... to sb | I recommend this book to you. | 3 | active | 2026-06-06 | 2026-06-09 |
+| **term** | 学期 | A2 | this term | We have three exams at the end of this term. | 3 | active | 2026-06-06 | 2026-06-09 |
+| **mark** | 分数（名词） | A2 | my math mark | My math mark was 85. | 2 | active | 2026-06-06 | 2026-06-09 |
+| **practice** | 练习（名词） | A1 | more practice | The teacher says I need more speaking practice. | 3 | review | 2026-06-06 | 2026-06-09 |
 
 ## Review Vocabulary
 

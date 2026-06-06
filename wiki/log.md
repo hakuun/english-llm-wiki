@@ -1,5 +1,33 @@
 # English LLM Wiki Log
 
+## [2026-06-06] vocabulary | Added to me vs for me distinction
+
+Created `[[vocabulary/confusing-words]]` entry for `to me` vs `for me` — a preposition distinction triggered by today's `recommend a book to me` correction. Core rule: transfer verbs (give, tell, send, recommend, explain) use **to** for the receiver; benefit/substitution verbs (buy, cook, do, sign) use **for** for the beneficiary. Includes verb lists, side-by-side contrast sentences, a common learner mistake example, and 5 fill-in practice questions. Also added `recommend ... to someone` to `[[vocabulary/collocations]]`.
+
+## [2026-06-06] daily-study | Completed A2 reading consolidation — 三单 -s hunting in real text
+
+Corrected `wiki/study-plans/daily/2026-06-06.md` after completion. Key findings:
+
+1. **三单 -s consolidation successful** — 三单 hunting Part A/B/C 全部正确（7/7），输出 3 句三单全部正确。唯一失误是 Warm-up Q2 把 `He can speaks` 错判为 ✓（应为 can speak），同一天的情态动词+原形判断全部正确，说明是 warm-up quick check 大意而非规则不明。三单 -s 可以降级为偶尔抽查。
+
+2. 🔴 **hope + clause Chinglish 结构 — 连续两天重复！** — 昨天输出 `She hopes every one health`，今天 Warm-up Q5 又把 `I hope you success` 判为 ✓。这是直接的 Chinese→English 结构翻译（希望某人某事），但英文必须用 `hope (that) + 完整从句`。已升级为 `[[profile/error-patterns]]` 正式错误模式（active）。明天必须专门练 2-3 题 Chinglish 改错。
+
+3. **新见 mark/marked 词性混淆** — Vocabulary Q3 填了 `marked`（动词过去式/形容词）而非 `mark`（名词=分数）。与 weigh/weight 同类问题。先观察。
+
+4. **recommend 句型不熟** — 造句 Q2 `I recommend you listening podcast` 结构错误（应为 `I recommend (that) you listen to podcasts`）。选词填空正确，但产出性句型还需练。
+
+5. **冠词缺失连续两天** — 昨天 `a medical company`，今天 `a restaurant` 和 `podcasts`（写成了单数无冠词的 podcast）。
+
+**4 个新词入表**：recommend (A2, L3 active), term (A2, L3 active), mark (A2, L2 active), practice (A1, L3 review)。全部 CEFR 等级经 Oxford 3000 验证。
+
+**Wiki updates**：`[[vocabulary/vocabulary-review]]`（+4 词），`[[profile/error-patterns]]`（+hope 模式），`[[profile/weak-points]]`（更新 #1 三单-s 巩固完成 + hope 升级）。
+
+**Tomorrow (2026-06-07)**：listening Day 1 — BBC Real Easy English "Talking about books" + hope 结构修复（2-3 题） + can + base form 轻量抽查（1 题） + 冠词轻量练习（2-3 题）。三单 -s 无需再练。
+
+## [2026-06-06] study-plan | Daily A2 reading consolidation — 三单 -s hunting in real text
+
+Created `wiki/study-plans/daily/2026-06-06.md` as a 30-minute reading day. Main focus: (1) **consolidate 三单 -s in real reading** — use British Council A2 "An end of term report" for 三单 -s hunting (find third-person verbs vs modal + base form in authentic text); (2) **light review of 3 minor output issues** from yesterday (nice→well adj/adv, a medical company article, hope + clause structure); (3) **4 new vocabulary** from reading: recommend (A2), term (A2), mark (A2), practice (A1) — all Oxford 3000 verified CEFR levels; (4) **guided output** — 3 sentences with third-person singular subjects. No proactive grammar today (3 minor issues > 1 trigger threshold, and 三单 -s consolidation takes priority). Sources: B-level British Council A2 reading.
+
 ## [2026-06-05] ingest | 15 new raw/inbox materials processed
 
 Processed 15 newly added `raw/inbox/` materials. Created 4 new source notes and updated listening, reading, and source-note indexes.
