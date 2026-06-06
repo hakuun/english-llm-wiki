@@ -111,7 +111,30 @@ Examples:
 - Corrected: You must go now.
 Practice focus: Weekly quick review only; this rule is now stable.
 Last seen: 2026-06-03
-Status: **resolved** — 2026-06-03 warm-up 3/3 + grammar 4/4 = 7/7 correct on modal + base form. Downgrade to occasional review.
+Status: **resolved** — 2026-06-03 warm-up 3/3 + grammar 4/4 = 7/7 correct on modal + base form. Downgrade to occasional review. 2026-06-06 warm-up: learner miscalled `He can speaks` as ✓ (correct answer: can speak). Likely a quick-check oversight — light spot check recommended.
+
+## Error: hope + clause (Chinglish structure: hope sb + noun)
+
+Pattern: The learner writes `hope + person + noun`, which is a direct Chinese→English translation (希望某人某事). English requires `hope + (that) + full clause (subject + verb)`.
+
+Correction: After `hope`, there must be a complete mini-sentence with a subject AND a verb. Never use `hope + someone + noun`.
+
+Examples:
+- Learner: She hopes every one health.
+- Corrected: She hopes everyone **stays** healthy.
+- Learner: I hope you success.
+- Corrected: I hope you **succeed**.
+- Learner: I hope you happy.
+- Corrected: I hope you **are** happy.
+
+Memory trick: **hope 后面跟一个完整的小句子（有主语 + 动词），不能跟"主语 + 名词"。**
+
+Related note: This is a **Chinglish sentence-structure error**, not a vocabulary error. The learner knows the individual words but translates the Chinese sentence structure directly.
+
+Practice focus: Chinglish correction exercise — 3 incorrect Chinese-style hope sentences for the learner to rewrite with a full clause.
+
+Last seen: 2026-06-06
+Status: **active** — repeated on 2 consecutive days (2026-06-05 output `She hopes every one health`, 2026-06-06 warm-up Q5 `I hope you success` was marked ✓).
 
 ## Error: weigh (verb) vs weight (noun) — word-class confusion
 

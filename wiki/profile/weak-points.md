@@ -21,11 +21,13 @@ Evidence:
 - 2026-06-04：**明显进步** — 4 个动词空位全部填了动词（weigh/weighs），没有再填 weight。Part B high/height 和 long/length 4/4 全对。**「先判词性再选词」的习惯正在形成。**
 - 但在 weigh/weight 练习中暴露了一个更深层的语法问题：**第三人称单数主谓一致**（什么时候用 weigh vs weighs）。4 处错误全是 -s 问题。
 - 2026-06-05：**三单 -s 基本掌握** — 16/16 练习全对（weigh/weighs 判断 6/6 + 扩展到 work/live/speak/like/want/need 10/10），输出 4 句三单全部正确。学习者提出了很好的追问"My suitcases 不也是 it 吗"，说明在理解规则而非死记。`[[profile/error-patterns]]` 已标记为 improving。
+- 2026-06-06：**三单 -s 在真实阅读中巩固** — 三单 hunting 全部正确（Part A 辨认三单动词 2/2，Part B 情态动词后原形判断 3/3，Part C 自己找例子 2/2）。输出 3 句三单全部正确。唯一的失误是 Warm-up Q2 把 `He can speaks` 判为 ✓（应该是 can speak）。这是 warm-up quick check 的大意，不像是规则不理解 — 同一天的 Part B 情态动词+原形判断全部正确。但今天首次出现了 **mark/marked 词性混淆**（和 weigh/weight 同类问题），值得注意。
 
 Next action:
 
 - weigh/weight 区分继续轻量跟踪，不再作为每日重点。
-- **三单 -s 降级**：明天用实际阅读材料巩固（在短文中找三单动词），不再单独练语法规则。
+- **三单 -s 已完成真实阅读巩固**，降级为偶尔抽查即可。
+- 今天新出现 mark/marked 词性混淆，先观察一两天，如果重复出现再立专项。
 - 高/长配对已降低频率。
 
 ### 2. cannot vs must 意思反转 ✅ 已修复
@@ -41,18 +43,20 @@ Next action:
 
 - 每周抽查 1 题即可。不再需要每日重点练习。
 
-### 3. 输出跑题 → 已修复，新暴露的是小问题
+### 3. 输出跑题 → 已修复，新暴露的是小问题 + hope 结构重复
 
 Evidence:
 
 - 2026-06-03 输出任务要求写"旅行提示"，但 4 句话全部跑题。
 - 2026-06-04：**跑题问题已修复** — 5 条教室/图书馆规则全部切题。句型（must/cannot + 原形）5/5 正确。但暴露了词汇混淆（quit/quiet, clear/clean 等）。
-- 2026-06-05：**跑题已不是问题** — 4 句三单句子全部切题。语法核心（三单 -s）全部正确。新暴露的小问题：① 形容词 vs 副词（nice → well，首次出现）；② 冠词缺失（a medical company，旧模式）；③ hope + 宾语 + 名词的 Chinglish 结构（首次出现）。这些都是正常的小规模暴露，不急着立专项练习。
+- 2026-06-05：**跑题已不是问题** — 4 句三单句子全部切题。语法核心（三单 -s）全部正确。新暴露的小问题：① 形容词 vs 副词（nice → well，首次出现）；② 冠词缺失（a medical company，旧模式）；③ hope + 宾语 + 名词的 Chinglish 结构（首次出现）。
+- 2026-06-06：**hope + 从句 Chinglish 结构已连续两天出现** — 今日 Warm-up Q5 把 `I hope you success.` 判为正确。昨天输出 `She hopes every one health.` 是同一种错误。已升级为 `[[profile/error-patterns]]` 正式错误模式（active）。同时新出现 mark/marked 词性混淆（类似 weigh/weight 问题）。
 
 Next action:
 
+- **明天必须修复 hope + 从句结构**（2-3 题 Chinglish 改错）。
 - 继续用 guided sentence frames + 中文预写保证切题。
-- 观察 nice→well 和 hope 结构是否再次出现，若连续两天再处理。
+- mark/marked 词性混淆先观察一天，如果明天再出现则立专项。
 - 冠词问题已在 error-patterns 跟踪中。
 
 ### 4. Sentence accuracy in short personal writing
