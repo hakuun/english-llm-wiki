@@ -43,21 +43,33 @@ Next action:
 
 - 每周抽查 1 题即可。不再需要每日重点练习。
 
-### 3. 输出跑题 → 已修复，新暴露的是小问题 + hope 结构重复
+### 3. 输出跑题 → 已修复 ✅
 
 Evidence:
 
-- 2026-06-03 输出任务要求写"旅行提示"，但 4 句话全部跑题。
-- 2026-06-04：**跑题问题已修复** — 5 条教室/图书馆规则全部切题。句型（must/cannot + 原形）5/5 正确。但暴露了词汇混淆（quit/quiet, clear/clean 等）。
-- 2026-06-05：**跑题已不是问题** — 4 句三单句子全部切题。语法核心（三单 -s）全部正确。新暴露的小问题：① 形容词 vs 副词（nice → well，首次出现）；② 冠词缺失（a medical company，旧模式）；③ hope + 宾语 + 名词的 Chinglish 结构（首次出现）。
-- 2026-06-06：**hope + 从句 Chinglish 结构已连续两天出现** — 今日 Warm-up Q5 把 `I hope you success.` 判为正确。昨天输出 `She hopes every one health.` 是同一种错误。已升级为 `[[profile/error-patterns]]` 正式错误模式（active）。同时新出现 mark/marked 词性混淆（类似 weigh/weight 问题）。
+- 2026-06-03：输出跑题。
+- 2026-06-04：已修复，guided sentence frames + 中文预写有效。
+- 2026-06-05 ~ 2026-06-07：输出持续切题。
 
-Next action:
+Next action: 保持 guided output 模式即可，不需要特别关注。
 
-- **明天必须修复 hope + 从句结构**（2-3 题 Chinglish 改错）。
-- 继续用 guided sentence frames + 中文预写保证切题。
-- mark/marked 词性混淆先观察一天，如果明天再出现则立专项。
-- 冠词问题已在 error-patterns 跟踪中。
+### 3b. hope + clause Chinglish → 已修复 ✅
+
+Evidence:
+
+- 2026-06-05：首次出现（`She hopes every one health`）。
+- 2026-06-06：连续第二天（`I hope you success` 判为正确）。升级为 error-pattern active。
+- 2026-06-07：**3/3 改错题全部用了从句结构！** Q1 succeed ✅, Q2 become ❌（动词形式，不是结构问题）, Q3 is ✅。连续两天的 Chinglish 模式被打破。
+
+Next action: hope 降为 1 题抽查。新暴露的 become 不规则动词（becomed→become）属于词汇问题，不紧急。
+
+### 3c. 听力理解 — 新阶段起步
+
+Evidence:
+
+- 2026-06-07：第一次听力练习（BBC Real Easy English, A2-B1）。第一遍不看文本能抓大意但细节偏差多。自评"看着 transcript 能懂，但不看就听不懂"。
+
+Next action: 按 2 天循环继续听力训练。明天 Day 2 shadowing + retelling。
 
 ### 4. Sentence accuracy in short personal writing
 

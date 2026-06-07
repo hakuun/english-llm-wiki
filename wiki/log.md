@@ -1,5 +1,29 @@
 # English LLM Wiki Log
 
+## [2026-06-07] daily-study | Completed listening Day 1 — BBC "Talking about books"
+
+Corrected `wiki/study-plans/daily/2026-06-07.md` after completion. Key findings:
+
+1. 🎉 **hope + clause Chinglish 模式已被打破！** — 3/3 改错题全部用了从句结构（Q1 succeed ✅, Q2 become ⚠️, Q3 is ✅）。Q2 的错误是 become 不规则动词形式（becomed→become），不是 hope 结构问题。连续两天的 `hope sb + noun` 模式正式修复。hope 错误模式降为 improving，下次仅需 1 题抽查。
+
+2. 🎉 **can + 原形** 抽查通过，冠词 a/an 2/2 正确 — 昨天的两个轻量抽查全部通过。
+
+3. 🎧 **第一次听力练习正常起步** — 第一遍不看文本能抓大意（"讨论读书类型和习惯"），但细节偏差多：Becca 喜欢 poems/short stories 被误解为"真实短故事"，travelling to and from work（通勤）被误解为"工作或旅行"。看 transcript 能懂说明阅读能力没问题，差距在听力解码速度 — 这是正常 A2-B1 听力起跑线。学习者自评"看着 transcript 能懂，但不看就听不懂"，符合预期。
+
+4. **新暴露 3 个语法小点**：① become - became - become 不规则动词（首次暴露，写了 becomed）；② need + to do（need read → need to read）；③ like + doing / like to do（like read → like reading）。都不是紧急修复项，明天轻量练习。
+
+5. **novel 拼写重复 4 次**（noval）— 和昨天 resetrant 同类问题，是持续性轻度拼写困难。
+
+6. **4 个新词入表**：fiction (A2, L3 active), poem (B1 ⭐, L3 active), relaxed (B1 ⭐, L3 active), prefer (A1, L3 active)。全部 CEFR 等级经 Oxford 3000 验证。B1 词累计：6 个（weigh, dirt, security, stuck, poem, relaxed）。选词填空 4/4 全部正确。
+
+**Wiki updates**：`[[vocabulary/vocabulary-review]]`（+4 词），`[[profile/error-patterns]]`（hope 降为 improving），`[[profile/weak-points]]`（更新 hope 状态 + 听力起步记录），`[[listening/transcript-notes]]`（更新进度）。
+
+**Tomorrow (2026-06-08)**：listening Day 2 — shadowing + retelling "Talking about books" + hope 轻量抽查（1 题）+ become/need to/like doing 轻量练习（各 1 题）。
+
+## [2026-06-07] study-plan | Daily listening Day 1 — BBC "Talking about books"
+
+Created `wiki/study-plans/daily/2026-06-07.md` as a 30-minute listening Day 1. Main elements: (1) 🎧 **first-ever listening Day 1** using BBC Real Easy English "Talking about books" (A2-B1, ~6 min) with the 3-step cycle — listen without transcript → read transcript → listen with transcript; (2) 🔴 **hope + clause repair** — 3 Chinglish correction items, this is a consecutive 2-day error; (3) 🟡 **can + base form** light spot check — 1 item (yesterday's careless miscall); (4) 🟡 **article a/an** light practice — 2 fill-in items (consecutive 2-day pattern); (5) **4 new vocabulary** from listening — fiction (A2), poem (B1 ⭐), relaxed (B1 ⭐), prefer (A1), with CEFR levels all verified in Oxford 3000 TSV. Output is a choice of guided fill-in (Option A), 4 sentences about reading with new vocabulary (Option B), or 3 sentences about personal reading habits (Option C). Sources: B-level BBC Real Easy English.
+
 ## [2026-06-06] vocabulary | Added to me vs for me distinction
 
 Created `[[vocabulary/confusing-words]]` entry for `to me` vs `for me` — a preposition distinction triggered by today's `recommend a book to me` correction. Core rule: transfer verbs (give, tell, send, recommend, explain) use **to** for the receiver; benefit/substitution verbs (buy, cook, do, sign) use **for** for the beneficiary. Includes verb lists, side-by-side contrast sentences, a common learner mistake example, and 5 fill-in practice questions. Also added `recommend ... to someone` to `[[vocabulary/collocations]]`.
