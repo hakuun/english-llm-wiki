@@ -13,7 +13,7 @@ tags:
 
 | # | Title | Source | Level | Topic | Audio | Source Note | Status |
 |---|-------|--------|-------|-------|-------|-------------|--------|
-| 1 | Talking about books | BBC Real Easy English | A2-B1 | Books, reading habits | [MP3](https://downloads.bbc.co.uk/learningenglish/realeasyenglish/260403_REE_books_download.mp3) | [[source-notes/bbc-real-easy-english-talking-about-books]] | ⬜ Not started |
+| 1 | Talking about books | BBC Real Easy English | A2-B1 | Books, reading habits | [MP3](https://downloads.bbc.co.uk/learningenglish/realeasyenglish/260403_REE_books_download.mp3) | [[source-notes/bbc-real-easy-english-talking-about-books]] | 🔄 Day 1 done (06-07) |
 | 2 | Why are some animals black and white? | BBC 6 Minute English | B1-B2 | Animal biology, evolution | [MP3](https://downloads.bbc.co.uk/learningenglish/features/6min/260305_6_minute_english_why_are_some_animals_black_and_white_download.mp3) | [[source-notes/bbc-6min-why-animals-black-and-white]] | ⬜ Not started |
 | 3 | Making cities feel quieter | BBC 6 Minute English | B1-B2 | Urban noise, soundscaping | [MP3](https://downloads.bbc.co.uk/learningenglish/features/6min/260521_6_minute_english_making_cities_feel_quieter_download.mp3) | [[source-notes/bbc-6min-making-cities-feel-quieter]] | ⬜ Not started |
 | 4 | The future of food | BBC 6 Minute English | B1-B2 | Food security, climate change | [MP3](https://downloads.bbc.co.uk/learningenglish/features/6min/260409_6_minute_english_the_future_of_food_download.mp3) | [[source-notes/bbc-6min-the-future-of-food]] | ⬜ Not started |
@@ -57,7 +57,7 @@ tags:
 
 | Date | Episode | Action | Notes |
 |------|---------|--------|-------|
-| 2026-06-05 | — | System setup | 5 BBC episodes ingested, listening system created |
+| 2026-06-07 | Talking about books | Day 1 completed | 第一遍不看文本能抓大意但有细节偏差；看 transcript 能懂 → 听力解码速度是正常起跑线。学 4 新词（fiction A2, poem B1, relaxed B1, prefer A1）。 |
 
 ## 关联页面
 

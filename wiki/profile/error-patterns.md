@@ -133,8 +133,8 @@ Related note: This is a **Chinglish sentence-structure error**, not a vocabulary
 
 Practice focus: Chinglish correction exercise — 3 incorrect Chinese-style hope sentences for the learner to rewrite with a full clause.
 
-Last seen: 2026-06-06
-Status: **active** — repeated on 2 consecutive days (2026-06-05 output `She hopes every one health`, 2026-06-06 warm-up Q5 `I hope you success` was marked ✓).
+Last seen: 2026-06-07
+Status: **improving** — 2026-06-07 3 题 Chinglish 改错全部用了从句结构（3/3），连续两天的 `hope sb + noun` 模式已被打破。Q2 的 become 形式错误（becomed→become）属于不规则动词词汇问题，不是 hope 结构问题。下次仅需 1 题抽查。
 
 ## Error: weigh (verb) vs weight (noun) — word-class confusion
 

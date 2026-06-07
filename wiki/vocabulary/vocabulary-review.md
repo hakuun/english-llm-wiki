@@ -55,6 +55,10 @@ The learner does not need to assign exact scores. The daily page asks for `hard 
 | **term** | 学期 | A2 | this term | We have three exams at the end of this term. | 3 | active | 2026-06-06 | 2026-06-09 |
 | **mark** | 分数（名词） | A2 | my math mark | My math mark was 85. | 2 | active | 2026-06-06 | 2026-06-09 |
 | **practice** | 练习（名词） | A1 | more practice | The teacher says I need more speaking practice. | 3 | review | 2026-06-06 | 2026-06-09 |
+| **fiction** | 小说（虚构类） | A2 | fiction books | I like reading fiction. | 3 | active | 2026-06-07 | 2026-06-10 |
+| **poem** | 诗，诗歌 | **B1** ⭐ | short poems | She usually writes poems. | 3 | active | 2026-06-07 | 2026-06-10 |
+| **relaxed** | 放松的，轻松的 | **B1** ⭐ | feel relaxed | I feel relaxed when I read at home. | 3 | active | 2026-06-07 | 2026-06-10 |
+| **prefer** | 更喜欢 | A1 | prefer ... to ... | I prefer reading to watching TV. | 3 | active | 2026-06-07 | 2026-06-10 |
 
 ## Review Vocabulary
 
