@@ -1,5 +1,29 @@
 # English LLM Wiki Log
 
+## [2026-06-08] daily-study | Completed listening Day 2 — shadowing + retelling "Talking about books"
+
+Corrected `wiki/study-plans/daily/2026-06-08.md` after completion. Key findings:
+
+1. 🎉 **hope + clause → resolved!** — Warm-up Q1 自由产出从句结构（`I hope the team get victory`），连续 3 天从句结构正确。从识别不出错误（06-06）→ 改错正确（06-07）→ 自由产出正确（06-08），仅用 3 天。error-pattern 从 active → resolved，降为每月抽查。搭配 `get victory` 略有中文痕迹，属于词汇搭配问题不影响结构判断。
+
+2. 🎧 **第一篇听力 2 天循环完成** — Day 2 跟读自评"有些地方跟不上"（autobiography/biography 长词），复述内容覆盖主要信息（Neil 喜欢 novels/biographies，Becca 喜欢 poems，都喜欢安静环境读书）。表达问题集中在拼写和语法细节，不是内容理解 → 和 Day 1 听力表现一致。
+
+3. **4 个拼写错误持续主题** — `envmotion` ×2 → `environment`, `relaxt` → `relaxed`, `stroy` → `stories`, `musican` → `musician`。加上之前的 noval ×4（06-07）和 resetrant（06-06），确认是**自由输出时拼写检索不稳定**的系统性弱项。这些词在控制练习中都写对了。属于 A2-B1 正常发展阶段，不单独出拼写练习，在批改中持续纠正。
+
+4. **2 个新语法小点首次暴露**：① `reads serious` → `reads seriously`（形容词 vs 副词，首次）；② `let them relaxed` → `makes them feel relaxed`（中文"让"直译结构，首次）。都先观察，不立专项。
+
+5. **B1 词 relaxed 拼写回退** — 昨天控制练习正确，今天自由输出拼错 `relaxt`。level 3→2，继续 active。
+
+6. **stuck 词义遗忘** — 5 个到期词中唯一忘了的，status 从 review → active，下次重新激活。
+
+**Wiki updates**：`[[vocabulary/vocabulary-review]]`（weigh/traffic/get around → review, stuck → active, relaxed 3→2），`[[profile/error-patterns]]`（hope → resolved），`[[profile/weak-points]]`（hope 已修复 + 听力 Day 2 完成 + 拼写持续主题 + let/adj 新观察），`[[listening/transcript-notes]]`（Day 2 完成，第一篇 ✅）。
+
+**Tomorrow (2026-06-09)**：📖 reading day + proactive grammar — present perfect vs past simple（≤1 个结构性错误触发 proactive grammar）。第一篇听力已闭环，下次听力日进入 Animals black and white (B1-B2)。
+
+## [2026-06-08] study-plan | Daily listening Day 2 — shadowing + retelling "Talking about books"
+
+Created `wiki/study-plans/daily/2026-06-08.md` as a 30-minute listening Day 2. Main elements: (1) 🎧 **跟读（shadowing）** — 词汇复述段（fiction/novel/biography/autobiography/poems），4 步跟读法（听 2 遍 → 看文本跟读 3-5 遍 → 不看文本跟读 1 遍）；(2) 🗣️ **复述（retelling）** — 中文引导问题串联 Neil 和 Becca 的读书习惯，3-5 句英文输出；(3) 🟢 **hope + clause 轻量抽查** — 1 题确认巩固；(4) 🟡 **become 不规则动词 / need to do / like doing** — 各 1 题轻量练习；(5) 🔄 **到期词汇回顾** — weigh, traffic, get around, stuck, catch a boat 快速认读。今天不引入新材料（Day 2 继续同一篇听力），也不触发 proactive grammar（跟读+复述已经是新技能训练）。Sources: B-level BBC Real Easy English.
+
 ## [2026-06-07] daily-study | Completed listening Day 1 — BBC "Talking about books"
 
 Corrected `wiki/study-plans/daily/2026-06-07.md` after completion. Key findings:

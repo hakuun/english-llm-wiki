@@ -133,8 +133,8 @@ Related note: This is a **Chinglish sentence-structure error**, not a vocabulary
 
 Practice focus: Chinglish correction exercise — 3 incorrect Chinese-style hope sentences for the learner to rewrite with a full clause.
 
-Last seen: 2026-06-07
-Status: **improving** — 2026-06-07 3 题 Chinglish 改错全部用了从句结构（3/3），连续两天的 `hope sb + noun` 模式已被打破。Q2 的 become 形式错误（becomed→become）属于不规则动词词汇问题，不是 hope 结构问题。下次仅需 1 题抽查。
+Last seen: 2026-06-08
+Status: **resolved** — 2026-06-07: 3/3 用了从句结构（但 Q2 become 动词形式错，属于词汇问题）。2026-06-08: 自由输出 `I hope the team get victory` — 自己产出了从句结构（主语 the team + 动词 get），搭配 `get victory` 略有中文痕迹但不影响结构正确性。连续 3 天使用从句结构，Chinglish `hope sb + noun` 模式已彻底打破。降为每月抽查 1 次。
 
 ## Error: weigh (verb) vs weight (noun) — word-class confusion
 
