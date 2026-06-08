@@ -29,6 +29,8 @@ Use this folder as the single home for daily guided study pages.
 - [[study-plans/daily/2026-06-04]] — Error-repair session: weigh/weight + noun/verb pairs, cannot vs must two-column contrast, classroom rules output.
 - [[study-plans/daily/2026-06-05]] — Third-person singular -s agreement repair page: 16/16 correct, rule mastered in controlled practice.
 - [[study-plans/daily/2026-06-06]] — Reading consolidation: A2 end-of-term report, 三单 -s hunting in real text, vocabulary from reading (recommend, term, mark, practice).
+- [[study-plans/daily/2026-06-07]] — Listening Day 1: BBC "Talking about books," hope + clause repair, first-ever guided listening practice.
+- [[study-plans/daily/2026-06-08]] — Listening Day 2: Shadowing + retelling "Talking about books," light review of hope/become/need to/like doing.
 
 ## Learner input rule
 

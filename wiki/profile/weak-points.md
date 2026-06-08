@@ -53,23 +53,25 @@ Evidence:
 
 Next action: 保持 guided output 模式即可，不需要特别关注。
 
-### 3b. hope + clause Chinglish → 已修复 ✅
+### 3b. hope + clause Chinglish → ✅ 已修复
 
 Evidence:
 
 - 2026-06-05：首次出现（`She hopes every one health`）。
 - 2026-06-06：连续第二天（`I hope you success` 判为正确）。升级为 error-pattern active。
-- 2026-06-07：**3/3 改错题全部用了从句结构！** Q1 succeed ✅, Q2 become ❌（动词形式，不是结构问题）, Q3 is ✅。连续两天的 Chinglish 模式被打破。
+- 2026-06-07：3/3 改错题全部用了从句结构！Q1 succeed ✅, Q2 become ⚠️（动词形式，不是结构问题）, Q3 is ✅。连续两天的 Chinglish 模式被打破。
+- 2026-06-08：自由输出 `I hope the team get victory` — 自己产出了从句结构（主语 + 动词）。搭配略显中文痕迹但结构正确。**连续 3 天从句结构，Chinglish 模式已彻底消除。**
 
-Next action: hope 降为 1 题抽查。新暴露的 become 不规则动词（becomed→become）属于词汇问题，不紧急。
+Next action: hope 降为每月抽查 1 次。error-pattern 已标记为 resolved。
 
-### 3c. 听力理解 — 新阶段起步
+### 3c. 听力理解与跟读 — 2 天循环正常起步
 
 Evidence:
 
 - 2026-06-07：第一次听力练习（BBC Real Easy English, A2-B1）。第一遍不看文本能抓大意但细节偏差多。自评"看着 transcript 能懂，但不看就听不懂"。
+- 2026-06-08：Day 2 跟读 + 复述完成。跟读自评"有些地方跟不上"（主要是 autobiography、biography 等长词）。复述内容覆盖主要信息，用简单英语写出了 Neil 和 Becca 的阅读偏好。表达问题集中在拼写和语法细节（不是内容理解）。
 
-Next action: 按 2 天循环继续听力训练。明天 Day 2 shadowing + retelling。
+Next action: "Talking about books" 2 天循环完成 ✅。下次听力日按推荐顺序进入下一篇：Animals black and white (B1-B2)。
 
 ### 4. Sentence accuracy in short personal writing
 
@@ -77,11 +79,25 @@ Evidence:
 
 - [[profile/current-level]] records capitalization, sentence-boundary, tense, plural, and natural-expression issues from the first self-introduction.
 - [[profile/error-patterns]] contains several active recurring patterns.
+- 2026-06-08：自由输出中暴露了新问题 — `reads serious` → `reads seriously`（形容词 vs 副词，首次暴露），`let them relaxed` → `makes them feel relaxed`（中文"让"直译，首次暴露）。
 
 Next action:
 
 - Daily pages should use guided sentence frames before free output.
 - Keep free writing optional or short.
+- 观察 `let + adj` 结构是否重复出现（类似 hope 的 Chinglish 模式）。
+
+### 4b. 产出性拼写困难 — 持续主题
+
+Evidence:
+
+- 2026-06-06：`resetrant` → `restaurant`
+- 2026-06-07：`noval` ×4 → `novel`, `fition` → `fiction`, `usualy` → `usually`
+- 2026-06-08：`envmotion` ×2 → `environment`, `relaxt` → `relaxed`, `stroy` → `stories`, `musican` → `musician`
+
+这些词在控制练习（选词填空）中都写对了，问题出在**自由输出时拼写检索不稳定**。属于 A2-B1 正常发展阶段。
+
+Next action: 在每次输出批改中持续纠正，不单独出拼写练习题。跟读和阅读中自然遇到这些词会逐渐稳定拼写。
 
 ### 5. Verb patterns and goal expressions
 
