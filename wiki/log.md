@@ -1,5 +1,27 @@
 # English LLM Wiki Log
 
+## [2026-06-09] daily-study | Completed first proactive grammar — present perfect vs past simple (6.5/8, 81%)
+
+Corrected `wiki/study-plans/daily/2026-06-09.md` after completion. Key findings:
+
+1. ⭐ **第一节前摄语法课完成** — present perfect vs past simple — 6.5/8 (81%)。Part A 时间信号词判断 4/4 完美（since/for → 现在完成时，last year/in 2023 → 一般过去时）。Part B 改错 1.5/2（Q5 知道用过去时但写了 seen 而不是 saw）。Part C 判断 1/2（Q7 `I have started...last month` 判错为对 — 全世界最常见的现在完成时错误）。
+
+2. 🔴 **现在完成时 + 具体时间混用** — Q7 是今天最重要的错误。规则很清楚（具体时间 = 一般过去时），但在判断正误时仍然认为 `I have started...last month` 是对的。需要在下次巩固。
+
+3. 🟡 **过去式 vs 过去分词混淆** — Q5 思路完全正确（yesterday → 一般过去时），但改正时写了 `seen`（过去分词）而非 `saw`（过去式）。学习者自评"不知道过去分词怎么写"——已在批改中解答不规则动词的三个形式。
+
+4. 🟡 **want to do 结构缺失** — 第二次出现（06-07 `need read` → `need to read`，今天 `want improve` → `want to improve`）。同一个结构问题，已加入 weak-points 观察。
+
+5. 🟢 **其他轻量问题**：`get married` 搭配（`I married last year` → `I got married`），looking forward to 缺 be 动词，Xinjiang 冠词和拼写。
+
+6. 🟢 学习者提出的两个问题已在批改中解答：① have vs has 选择（只有 he/she/it 用 has）；② 过去分词怎么写（规则动词 +ed，不规则逐个积累）。
+
+7. **输出时态选择表现好** — 3 句中有 2 句时态选择正确（Q1 have learned ✅, Q3 have never been ✅），Q2 时态对但搭配需修正（get married）。
+
+**Wiki updates**：`[[vocabulary/vocabulary-review]]`（8 词更新：recommend/mark/improve/material → review, term/looking forward to → active 2, stuck 1→2, relaxed 保持），`[[profile/weak-points]]`（新增 want to do 重复 + 现在完成时第一课完成），`[[grammar/present-perfect-plan]]`（进度表记录第一课）。
+
+**Tomorrow (2026-06-10)**：📖 阅读日 + 现在完成时轻量复习（2 题巩固 Q7 型错误 + have/has 选择）。回到 A2 短阅读材料。同时 warm-up 加入 want to do 结构 1 题。
+
 ## [2026-06-09] study-plan | Reading day + first proactive grammar — present perfect vs past simple
 
 Created `wiki/study-plans/daily/2026-06-09.md` as a 30-minute proactive grammar day. Main elements: (1) ⭐ **第一节前摄语法课 — present perfect vs past simple** — 3 条核心规则 + 8 道 guided practice + 3 句自我输出，这是 B1 最关键的语法桥梁； (2) 🟡 轻量回顾 — adj vs adv（reads serious→seriously）和 make+feel+adj（let them relaxed→makes them feel relaxed），各 1 题建立意识； (3) 🔄 stuck 重新激活 + relaxed 拼写提醒（各 1 题）； (4) 🔄 到期词汇快速回顾 — recommend, term, mark, looking forward to, improve, material 共 6 词。今天不引入新阅读材料（proactive grammar 替代新输入），输出融入语法练习（3 句用现在完成时描述自己经历）。Sources: A-level Oxford grammar.

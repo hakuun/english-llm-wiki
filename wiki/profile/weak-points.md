@@ -117,12 +117,42 @@ Evidence:
 
 - Current watchlist: tense choice, articles, prepositions, countable nouns, word order, weigh/weight, cannot/must.
 - ✅ 情态动词 + 原形 — 2026-06-03 7/7 全对，已修复。降为每周抽查。
+- ✅ hope + clause — 2026-06-08 正式 resolved。
 - 2026-05-28 daily correction showed `dirt` as an uncountable noun needs focused review: `There is a lot of dirt on my glasses.`
 
 Next action:
 
 - Each daily page should choose only 1-2 grammar/error focuses.
 - Avoid broad grammar study without immediate sentence practice.
+
+### 7. Proactive grammar — 现在完成时第一课完成
+
+Evidence:
+
+- 2026-06-09：第一节前摄语法课（present perfect vs past simple）。Part A 填空 4/4 ✅，Part B 改错 1.5/2，Part C 判断 1/2。总分 6.5/8 ≈ 81%。
+- **掌握得很好**：时间信号词判断（since/for → 现在完成时，last year/in 2023 → 一般过去时）— 4/4 全对。
+- **需要巩固**：现在完成时 + 具体过去时间混用（Q7: `I have started...last month` 判为正确）。这是全世界学习者最容易犯的现在完成时错误。
+- **新暴露**：过去式 vs 过去分词混淆（Q5: 知道用一般过去时，但写了 seen 而不是 saw）。对应学习者自评"不知道过去分词怎么写"。
+- 学习者自评不懂 have/has 选择 — 已在批改中解答（只有 he/she/it 用 has）。
+- 输出 3 句中有 2 句时态选择正确（Q1 have learned ✅, Q3 have never been ✅），Q2 `married` 是搭配问题而非时态问题。
+
+Next action:
+
+- 明天用 2 道改错题巩固 Q7 型错误（现在完成时 + 具体时间）。
+- 不规则动词表不需要一次记住，每次遇到积累一个。今天积累了 see-saw-seen。
+- 下次 proactive grammar 课（预计 3-5 天后）继续 present perfect #1（肯定、否定、是否疑问）巩固形式。
+
+### 7b. want to do / need to do — 不定式 to 缺失 ⚠️ 重复
+
+Evidence:
+
+- 2026-06-07：`need read` → `need to read`（首次暴露）
+- 2026-06-09：`want improve` → `want to improve`（第二次）
+- 同一个结构问题：动词 A + to + 动词 B，学习者漏掉了 to。
+
+Next action:
+
+- 明天 warm-up 加入 1 题。如果第三次还错，升级为正式 error pattern。
 
 ## Weekly review questions
 
