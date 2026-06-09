@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiki/study-plans/daily/2026-06-08.md",
+                "file": "wiki/study-plans/daily/2026-06-09.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "2026-06-08"
+              "title": "2026-06-09"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "5a2246c4d03d41b5",
@@ -185,6 +186,7 @@
   },
   "active": "0349423c73851a17",
   "lastOpenFiles": [
+    "wiki/study-plans/daily/2026-06-08.md",
     "wiki/study-plans/daily/2026-06-08.md.tmp.23992.923f51c6b0d5",
     "wiki/study-plans/daily/2026-06-08.md.tmp.23992.31865c00ac03",
     "wiki/log.md.tmp.23992.7be0cc294116",
@@ -195,7 +197,6 @@
     "wiki/profile/weak-points.md.tmp.23992.bcf329af0dd0",
     "wiki/profile/error-patterns.md.tmp.23992.cc653a8892ad",
     "wiki/vocabulary/vocabulary-review.md.tmp.23992.604cba6efe27",
-    "wiki/vocabulary/vocabulary-review.md.tmp.23992.a96cea7361f8",
     "wiki/study-plans/daily/2026-06-07.md",
     "wiki/study-plans/daily/2026-06-06.md",
     "wiki/index.md",

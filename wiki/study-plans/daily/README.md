@@ -31,6 +31,7 @@ Use this folder as the single home for daily guided study pages.
 - [[study-plans/daily/2026-06-06]] — Reading consolidation: A2 end-of-term report, 三单 -s hunting in real text, vocabulary from reading (recommend, term, mark, practice).
 - [[study-plans/daily/2026-06-07]] — Listening Day 1: BBC "Talking about books," hope + clause repair, first-ever guided listening practice.
 - [[study-plans/daily/2026-06-08]] — Listening Day 2: Shadowing + retelling "Talking about books," light review of hope/become/need to/like doing.
+- [[study-plans/daily/2026-06-09]] — Reading day + first proactive grammar lesson: present perfect vs past simple, vocabulary review.
 
 ## Learner input rule
 
