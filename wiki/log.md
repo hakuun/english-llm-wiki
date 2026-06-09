@@ -1,5 +1,11 @@
 # English LLM Wiki Log
 
+## [2026-06-09] study-plan | Reading day + first proactive grammar — present perfect vs past simple
+
+Created `wiki/study-plans/daily/2026-06-09.md` as a 30-minute proactive grammar day. Main elements: (1) ⭐ **第一节前摄语法课 — present perfect vs past simple** — 3 条核心规则 + 8 道 guided practice + 3 句自我输出，这是 B1 最关键的语法桥梁； (2) 🟡 轻量回顾 — adj vs adv（reads serious→seriously）和 make+feel+adj（let them relaxed→makes them feel relaxed），各 1 题建立意识； (3) 🔄 stuck 重新激活 + relaxed 拼写提醒（各 1 题）； (4) 🔄 到期词汇快速回顾 — recommend, term, mark, looking forward to, improve, material 共 6 词。今天不引入新阅读材料（proactive grammar 替代新输入），输出融入语法练习（3 句用现在完成时描述自己经历）。Sources: A-level Oxford grammar.
+
+**Tomorrow (2026-06-10)**：根据今天语法练习的正确率决定 — 如果现在完成时掌握得好（≥6/8），可以回到 reading + 新词汇节奏；如果还有困难，继续 present perfect 的第 2 课（for/since 或 wh- 疑问句）。
+
 ## [2026-06-08] daily-study | Completed listening Day 2 — shadowing + retelling "Talking about books"
 
 Corrected `wiki/study-plans/daily/2026-06-08.md` after completion. Key findings:
