@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiki/study-plans/daily/2026-06-09.md",
+                "file": "wiki/study-plans/daily/2026-06-10.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "2026-06-09"
+              "title": "2026-06-10"
             }
           }
         ]
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "5a2246c4d03d41b5",
@@ -186,6 +185,8 @@
   },
   "active": "0349423c73851a17",
   "lastOpenFiles": [
+    "wiki/study-plans/daily/2026-06-09.md",
+    "wiki/study-plans/daily/2026-06-10.md",
     "wiki/study-plans/daily/2026-06-08.md",
     "wiki/study-plans/daily/2026-06-08.md.tmp.23992.923f51c6b0d5",
     "wiki/study-plans/daily/2026-06-08.md.tmp.23992.31865c00ac03",
@@ -219,8 +220,6 @@
     "raw/inbox/How to spot fake news.md",
     "raw/inbox/English course prospectus.md",
     "raw/inbox/Choosing a conference venue.md",
-    "raw/inbox/An invitation to a job interview.md",
-    "raw/inbox/An end of term report.md",
-    "raw/inbox/6 Minute English  Should we eat ultra-processed food.md"
+    "raw/inbox/An invitation to a job interview.md"
   ]
 }

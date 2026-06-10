@@ -52,7 +52,7 @@ Use this section to hold candidates for the next daily page.
 
 ### Input candidates
 
-- **Reading**: Choose one short A2-B1 text from [[source-notes/british-council-a2-b1-reading-pack]] or [[source-notes/british-council-b1-reading-pack-2]]. Prefer A2-level texts for now. **Next up**: return to reading after proactive grammar days complete (2026-06-10 or 06-11 depending on grammar mastery).
+- **Reading**: Choose one short A2-B1 text from [[source-notes/british-council-a2-b1-reading-pack]] or [[source-notes/british-council-b1-reading-pack-2]]. Prefer A2-level texts for now. **Today (06-10)**: 📖 "Study skills tips" (A2, pack 2 #5) — 已生成 daily page。Next up: "English course prospectus" (A2-B1) 或 "An email request for help" (A2-B1)，视今天难度反馈决定。
 - **Listening** (2-day cycle): ✅ "Talking about books" (A2-B1) — 2 天循环完成（06-07 ~ 06-08）。**下一个听力日**: Animals black and white (B1-B2)，按推荐顺序。
 
 ### Vocabulary candidates

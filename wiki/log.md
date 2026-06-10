@@ -1,5 +1,11 @@
 # English LLM Wiki Log
 
+## [2026-06-10] study-plan | Reading day + present perfect light review + 3 new B1 pipeline words
+
+Created `wiki/study-plans/daily/2026-06-10.md` as a 30-minute reading day. Main elements: (1) 📖 **阅读** — British Council A2 "Study skills tips"（学习技巧建议），短小、实用、高度相关（就是关于如何学好语言）；(2) 🔴 **现在完成时轻量复习** — 2 道 Q7 型改错题巩固"现在完成时 + 具体时间 = 错"这条核心规则； (3) 🟡 **want/need + to do** — 第 2 次出现，1 题建立警觉； (4) 🟡 **过去式 vs 过去分词** — 1 题 saw vs seen； (5) ⭐ **3 个新 B1 管道词** — opportunity (B1), communicate (B1), imagine (B1)，全部来自今天的阅读文本 + 全部在 B1 pipeline 候选表中（#14, #6, #11）； (6) 🔄 **4 个到期词快速回顾** — prefer, fiction, poem, practice； (7) 句型 — 祈使句（imperatives）给学习建议，3 种结构（Don't / 动词原形 / Do）。输出是写 3 条自己的英语学习建议。Sources: B-level British Council A2 reading.
+
+**Tomorrow (2026-06-11)**：根据今天完成情况决定 — 如果现在完成时 Q7 型巩固顺利（2/2），可以回到正常 reading + 新词汇节奏；如果还有困难，继续 1 题巩固 + 考虑听力日（Animals black and white）。
+
 ## [2026-06-09] daily-study | Completed first proactive grammar — present perfect vs past simple (6.5/8, 81%)
 
 Corrected `wiki/study-plans/daily/2026-06-09.md` after completion. Key findings:
