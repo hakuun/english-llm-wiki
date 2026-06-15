@@ -52,8 +52,8 @@ Use this section to hold candidates for the next daily page.
 
 ### Input candidates
 
-- **Reading**: Choose one short A2-B1 text from [[source-notes/british-council-a2-b1-reading-pack]] or [[source-notes/british-council-b1-reading-pack-2]]. Prefer A2-level texts for now. **Today (06-10)**: 📖 "Study skills tips" (A2, pack 2 #5) — 已生成 daily page。Next up: "English course prospectus" (A2-B1) 或 "An email request for help" (A2-B1)，视今天难度反馈决定。
-- **Listening** (2-day cycle): ✅ "Talking about books" (A2-B1) — 2 天循环完成（06-07 ~ 06-08）。**下一个听力日**: Animals black and white (B1-B2)，按推荐顺序。
+- **Reading**: Choose one short A2-B1 text from [[source-notes/british-council-a2-b1-reading-pack]] or [[source-notes/british-council-b1-reading-pack-2]]. Prefer A2-level texts for now. **Next up**: "English course prospectus" (A2-B1) 或 "An email request for help" (A2-B1)，视 06-12 难度反馈决定。
+- **Listening** (2-day cycle): ✅ "Talking about books" (A2-B1) — 2 天循环完成（06-07 ~ 06-08）。**当前听力日（06-12）**: 📻 "Why are some animals black and white?" (B1-B2) Day 1 — 已生成 daily page。Day 2 预计 06-13。
 
 ### Vocabulary candidates
 
@@ -66,6 +66,7 @@ Use this section to hold candidates for the next daily page.
 
 - Choose 1-2 items from [[profile/error-patterns]] or [[profile/weak-points]].
 - **When daily errors are light (0-1 items)**: introduce one proactive grammar point from [[grammar/present-perfect-plan]] instead of adding new reading/listening material.
+- **Current（06-12）**: 🔴 of + gerund（06-10 新暴露，2-3 题）+ 🟡 名词复数（1 题提醒）+ 🔄 Q7 间隔抽查（1 题）。2 个 repair items → 继续 reactive 模式。
 
 ### Output candidates
 

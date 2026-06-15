@@ -1,5 +1,57 @@
 # English LLM Wiki Log
 
+## [2026-06-12] daily-study | Completed listening Day 1 — Animals black and white + of + gerund resolved
+
+Corrected `wiki/study-plans/daily/2026-06-12.md` after completion. Key findings:
+
+1. 🎉 **of + gerund 1 天修复！** — 6/6 全部正确应用规则（making, learning, helping, swimming, learning, trying）。06-10 暴露的知识缺口仅用 1 天集中练习就闭合了。唯一的瑕疵是 swiming→swimming 拼写（首次暴露 -ing 双写规则），不影响语法判断。error-pattern 从 active → improving。
+
+2. 🎧 **第一篇 B1-B2 听力 Day 1 完成** — BBC "Why are some animals black and white?"。3 步循环全部完成。理解题 3/3 ✅（斑马条纹驱蝇、熊猫雪地伪装、多种原因无单一答案）。生词填空 5/5 ✅。学习者反馈"看了文本也有很多生词"、"比较难"——这是正常信号，B1-B2 比之前的 A2-B1 难一个台阶。但理解成绩说明实际能力足够。
+
+3. 🔄 **Q7 间隔抽查通过** — `have watched...last week` → 正确判错 + 改正为 `watched` ✅。规则保持稳定。
+
+4. 🟡 **名词复数** — Q4 `many animals` 正确 ✅。
+
+5. 🟢 **Output Option A 2/2** ✅ — learning, trying 都正确。
+
+6. **2 个新词入表**：put off (B1 短语动词, L2 active), a whole bunch of (B1, L2 active)。optical illusion/giveaway/black-and-white 暂不入表。B1 词累计：11 个。
+
+7. **新拼写子类**：-ing 双写规则（swim→swimming）。加入 weak-points 观察。
+
+**Wiki updates**：`[[vocabulary/vocabulary-review]]`（+2 新词），`[[profile/error-patterns]]`（of+gerund → improving），`[[profile/weak-points]]`（of+gerund → resolved + 新增 -ing 双写拼写 + 拼写 section 更新），`[[listening/transcript-notes]]`（待更新进度）。
+
+**Tomorrow (2026-06-13)**：听力 Day 2 — 跟读词汇复述段 + 复述 3 种动物的黑白原因 + of+gerund 1 题抽查 + -ing 拼写 30 秒抄写。
+
+## [2026-06-12] study-plan | Listening Day 1 — Animals black and white + of + gerund repair
+
+Created `wiki/study-plans/daily/2026-06-12.md` as a 30-minute listening Day 1. Main elements: (1) 🎧 **听力 Day 1** — BBC 6 Minute English "Why are some animals black and white?" (B1-B2)，3 步循环（不看文本听 → 读 transcript → 看文本再听），话题具体（斑马/熊猫/企鹅）、画面感强； (2) 🔴 **of + gerund 修复** — 3 题建立"介词后动词加 -ing"规则，这是 06-10 暴露的知识缺口； (3) 🟡 **名词复数** — 1 题轻量提醒（many animals）； (4) 🔄 **Q7 间隔抽查** — 1 题（现在完成时 + last week）； (5) **5 个听力关键词** — optical illusion, a whole bunch of, put off, giveaway, black-and-white (idiom)； (6) 实用结构 — `It turned out that...`（结果发现……）。Source: B-level BBC 6 Minute English。06-11 已跳过。
+
+**Tomorrow (2026-06-13)**：听力 Day 2 — shadowing + retelling "Animals black and white"。视今天 of + gerund 正确率决定是否追加 1 题巩固。
+
+## [2026-06-10] daily-study | Completed A2 reading — Study skills tips + present perfect Q7 consolidated
+
+Corrected `wiki/study-plans/daily/2026-06-10.md` after completion. Key findings:
+
+1. 🎉 **现在完成时 Q7 型巩固成功** — 2/2 全对，学习者正确识别并改正了 `has visited...in 2019` 和 `have bought...yesterday`。Q7 型错误（现在完成时 + 具体时间混用）已修复。
+
+2. 🎉 **want/need + to do 稳定** — Q1 `need to practice` 正确，第 3 次出现终于正确 ✅。降为每周抽查。
+
+3. 🔴 **新错误：介词 + gerund（of + doing）** — 今天最重要的发现。学习者在两个独立位置（祈使句 Q1 + 输出 Q1）犯了同一个错误：`afraid of ask` → `afraid of asking`，`afraid of speak` → `afraid of speaking`。中文没有"介词后动词加 -ing"规则，属于新的知识缺口。已加入 error-patterns（active）和 weak-points。
+
+4. 🟡 **名词复数持续** — Vocabulary Q1 `more opportunity` → `more opportunities`。与之前 `writing sentence` / `watching short video` 同类。
+
+5. 🟡 **拼写持续主题** — `wating` → `writing`，`dictionre` → `dictionary`。控制练习中正确，自由输出时拼写检索不稳定。
+
+6. 🟢 **到期词 4/4 全部记得** — prefer/fiction/poem/practice 全部正确回忆，造句 `I prefer reading fiction books.` 语法正确。4 词全部移入 review。
+
+7. 🟢 **祈使句结构基本掌握** — Q3 `Do extra practice every day.` 正确，输出 Q3 `Make notes every day.` 正确。Q1/Q2 的错误是 of + gerund 和拼写，不是祈使句结构问题。
+
+8. **3 个新 B1 词入表**：opportunity (B1 ⭐, L2 active — 复数需巩固), communicate (B1 ⭐, L3 active), imagine (B1 ⭐, L3 active)。全部来自阅读文本 + 全部在 B1 pipeline 候选表中。B1 词累计：9 个。
+
+**Wiki updates**：`[[vocabulary/vocabulary-review]]`（+3 新词 + 4 到期词状态更新），`[[profile/error-patterns]]`（+介词+gerund 新模式 + 名词复数 last_seen 更新），`[[profile/weak-points]]`（+of+gerund 新弱项 + want to do 修复 + Q7 巩固成功 + 拼写更新）。
+
+**Tomorrow (2026-06-11)**：warm-up 重点修复 of + gerund（2-3 题）。输入：上次听力 06-07~06-08，可开始新听力 Day 1（Animals black and white, B1-B2），或继续阅读日。
+
 ## [2026-06-10] study-plan | Reading day + present perfect light review + 3 new B1 pipeline words
 
 Created `wiki/study-plans/daily/2026-06-10.md` as a 30-minute reading day. Main elements: (1) 📖 **阅读** — British Council A2 "Study skills tips"（学习技巧建议），短小、实用、高度相关（就是关于如何学好语言）；(2) 🔴 **现在完成时轻量复习** — 2 道 Q7 型改错题巩固"现在完成时 + 具体时间 = 错"这条核心规则； (3) 🟡 **want/need + to do** — 第 2 次出现，1 题建立警觉； (4) 🟡 **过去式 vs 过去分词** — 1 题 saw vs seen； (5) ⭐ **3 个新 B1 管道词** — opportunity (B1), communicate (B1), imagine (B1)，全部来自今天的阅读文本 + 全部在 B1 pipeline 候选表中（#14, #6, #11）； (6) 🔄 **4 个到期词快速回顾** — prefer, fiction, poem, practice； (7) 句型 — 祈使句（imperatives）给学习建议，3 种结构（Don't / 动词原形 / Do）。输出是写 3 条自己的英语学习建议。Sources: B-level British Council A2 reading.
