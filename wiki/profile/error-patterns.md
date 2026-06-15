@@ -97,8 +97,8 @@ Examples:
 - Learner: I can improve my English by writing sentence.
 - Corrected: I can improve my English by writing sentences.
 Practice focus: Practice `a lot of time`, `a lot of work`, `a lot of dirt`, and short sentences with plural countable nouns.
-Last seen: 2026-06-02
-Status: active — 2026-06-02 small output: `watching short video` → `watching short videos`
+Last seen: 2026-06-10
+Status: active — 2026-06-10 vocabulary fill-in: `more opportunity` → `more opportunities`
 
 ## Error: Modal verb + base form
 
@@ -135,6 +135,30 @@ Practice focus: Chinglish correction exercise — 3 incorrect Chinese-style hope
 
 Last seen: 2026-06-08
 Status: **resolved** — 2026-06-07: 3/3 用了从句结构（但 Q2 become 动词形式错，属于词汇问题）。2026-06-08: 自由输出 `I hope the team get victory` — 自己产出了从句结构（主语 the team + 动词 get），搭配 `get victory` 略有中文痕迹但不影响结构正确性。连续 3 天使用从句结构，Chinglish `hope sb + noun` 模式已彻底打破。降为每月抽查 1 次。
+
+## Error: Preposition + gerund (of/for/about/in/by + doing)
+
+Pattern: The learner uses a base verb after a preposition instead of a gerund (-ing form). This is a new knowledge gap, not a careless mistake — it appeared twice independently in the same daily page.
+
+Correction: After prepositions (`of`, `for`, `about`, `in`, `by`, `at`), use the **-ing** form (gerund), not the base verb.
+
+Examples:
+- Learner: Don't be afraid of **ask** questions.
+- Corrected: Don't be afraid of **asking** questions.
+- Learner: Don't be afraid of **speak** English.
+- Corrected: Don't be afraid of **speaking** English.
+
+Memory trick: **介词后面动词要戴 -ing 帽子。** 中文没有这个规则，所以特别容易漏。
+
+Common preposition + gerund combinations to practice:
+- afraid of **doing** / good at **doing** / interested in **doing**
+- think about **doing** / by **doing** / tired of **doing**
+- for **doing** / without **doing** / before **doing**
+
+Practice focus: 3-5 fill-in-the-blank sentences choosing between base verb and gerund after common prepositions.
+
+Last seen: 2026-06-12
+Status: **improving** — 2026-06-12 warm-up + output 共 6/6 正确应用了"介词后动词加 -ing"规则（making, learning, helping, swimming, learning, trying）。仅用 1 天集中练习就从知识缺口变为稳定应用。唯一小问题是 swiming→swimming 拼写（首次暴露 -ing 双写规则），不影响语法判断。降为每周抽查 1 题。
 
 ## Error: weigh (verb) vs weight (noun) — word-class confusion
 

@@ -94,6 +94,8 @@ Evidence:
 - 2026-06-06：`resetrant` → `restaurant`
 - 2026-06-07：`noval` ×4 → `novel`, `fition` → `fiction`, `usualy` → `usually`
 - 2026-06-08：`envmotion` ×2 → `environment`, `relaxt` → `relaxed`, `stroy` → `stories`, `musican` → `musician`
+- 2026-06-10：`wating` → `writing`, `dictionre` → `dictionary`
+- 2026-06-12：`swiming` → `swimming`（首次暴露 -ing 双写规则，属拼写子类）
 
 这些词在控制练习（选词填空）中都写对了，问题出在**自由输出时拼写检索不稳定**。属于 A2-B1 正常发展阶段。
 
@@ -125,34 +127,43 @@ Next action:
 - Each daily page should choose only 1-2 grammar/error focuses.
 - Avoid broad grammar study without immediate sentence practice.
 
-### 7. Proactive grammar — 现在完成时第一课完成
+### 7. Proactive grammar — 现在完成时第一课完成 + Q7 型巩固成功
 
 Evidence:
 
 - 2026-06-09：第一节前摄语法课（present perfect vs past simple）。Part A 填空 4/4 ✅，Part B 改错 1.5/2，Part C 判断 1/2。总分 6.5/8 ≈ 81%。
 - **掌握得很好**：时间信号词判断（since/for → 现在完成时，last year/in 2023 → 一般过去时）— 4/4 全对。
-- **需要巩固**：现在完成时 + 具体过去时间混用（Q7: `I have started...last month` 判为正确）。这是全世界学习者最容易犯的现在完成时错误。
-- **新暴露**：过去式 vs 过去分词混淆（Q5: 知道用一般过去时，但写了 seen 而不是 saw）。对应学习者自评"不知道过去分词怎么写"。
-- 学习者自评不懂 have/has 选择 — 已在批改中解答（只有 he/she/it 用 has）。
-- 输出 3 句中有 2 句时态选择正确（Q1 have learned ✅, Q3 have never been ✅），Q2 `married` 是搭配问题而非时态问题。
+- **需要巩固**：现在完成时 + 具体过去时间混用（Q7: `I have started...last month` 判为正确）。
+- 2026-06-10：**Q7 型巩固 2/2 全对 ✅** — "现在完成时不能和具体时间连用"规则已内化。Q3 `has visited Beijing in 2019` → 正确判错 + 改正 ✅，Q4 `have bought...yesterday` → 正确判错 + 改正 ✅。
 
-Next action:
+Next action: 明天 1 题间隔抽查 Q7 型（间隔 1 天后抽查效果更好）。下次 proactive grammar 课（预计 2-4 天后）继续 present perfect #2（for/since 时长用法或 have you ever 疑问句）。
 
-- 明天用 2 道改错题巩固 Q7 型错误（现在完成时 + 具体时间）。
-- 不规则动词表不需要一次记住，每次遇到积累一个。今天积累了 see-saw-seen。
-- 下次 proactive grammar 课（预计 3-5 天后）继续 present perfect #1（肯定、否定、是否疑问）巩固形式。
-
-### 7b. want to do / need to do — 不定式 to 缺失 ⚠️ 重复
+### 7b. want to do / need to do — 不定式 to 缺失 → ✅ 已修复
 
 Evidence:
 
 - 2026-06-07：`need read` → `need to read`（首次暴露）
 - 2026-06-09：`want improve` → `want to improve`（第二次）
-- 同一个结构问题：动词 A + to + 动词 B，学习者漏掉了 to。
+- 2026-06-10：Q1 `need to practice` 正确 ✅ — 第 3 次出现，终于稳定。
 
-Next action:
+Next action: 降为每周抽查 1 题。
 
-- 明天 warm-up 加入 1 题。如果第三次还错，升级为正式 error pattern。
+### 7c. 介词 + gerund（of + doing）— 1 天修复 ✅
+
+Evidence:
+
+- 2026-06-10：首次暴露，`afraid of ask` → `afraid of asking`，`afraid of speak` → `afraid of speaking`。独立出现 2 次。
+- 2026-06-12：**6/6 全部正确应用规则** — warm-up Q1 making ✅, Q2 learning ✅, Q3 helping/swimming ✅（规则对，拼写 swiming→swimming 是小问题），output learning ✅, trying ✅。仅用 1 天集中练习就闭合了知识缺口。
+
+Next action: 降为每周抽查 1 题。error-pattern 已标记为 improving。
+
+### 7d. -ing 拼写双写规则（swiming → swimming）— 🟡 新观察
+
+Evidence:
+
+- 2026-06-12：`swiming` → `swimming`。首次暴露短元音+单辅音结尾动词加 -ing 时的双写规则（swim→swimming, run→running, sit→sitting, get→getting）。
+
+Next action: 不是紧急项。明天 Day 2 花 30 秒抄写 swimming, running, sitting 各 1 遍即可。观察后续是否在其他动词上重复出现。
 
 ## Weekly review questions
 

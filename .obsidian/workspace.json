@@ -13,12 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiki/study-plans/daily/2026-06-10.md",
+                "file": "wiki/study-plans/daily/2026-06-12.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "2026-06-10"
+              "title": "2026-06-12"
+            }
+          },
+          {
+            "id": "916cfaadfb87e080",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "raw/inbox/6 Minute English  Why are some animals black and white.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "6 Minute English  Why are some animals black and white"
             }
           }
         ]
@@ -78,7 +92,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 293.51103591918945
   },
   "right": {
     "id": "5a2246c4d03d41b5",
@@ -185,19 +199,22 @@
   },
   "active": "0349423c73851a17",
   "lastOpenFiles": [
+    "wiki/log.md.tmp.21512.4a3eb488fae8",
+    "wiki/profile/weak-points.md.tmp.21512.3cfa77122407",
+    "wiki/profile/weak-points.md.tmp.21512.8ab78431ddfc",
+    "wiki/vocabulary/vocabulary-review.md.tmp.21512.ea792073be86",
+    "wiki/study-plans/daily/2026-06-12.md.tmp.21512.7968dd6fae1c",
+    "wiki/study-plans/daily/2026-06-12.md.tmp.21512.47e41600fa07",
+    "wiki/study-plans/daily/2026-06-12.md.tmp.21512.4f1feb994b1f",
+    "raw/inbox/6 Minute English  Why are some animals black and white.md",
+    "wiki/study-plans/daily/2026-06-12.md",
     "wiki/study-plans/daily/2026-06-09.md",
-    "wiki/study-plans/daily/2026-06-10.md",
     "wiki/study-plans/daily/2026-06-08.md",
-    "wiki/study-plans/daily/2026-06-08.md.tmp.23992.923f51c6b0d5",
-    "wiki/study-plans/daily/2026-06-08.md.tmp.23992.31865c00ac03",
-    "wiki/log.md.tmp.23992.7be0cc294116",
-    "wiki/listening/transcript-notes.md.tmp.23992.57bbf8b10e59",
-    "wiki/listening/transcript-notes.md.tmp.23992.1ad8425b0415",
-    "wiki/profile/weak-points.md.tmp.23992.58165cbd82b5",
-    "wiki/profile/weak-points.md.tmp.23992.34acb895a8d9",
-    "wiki/profile/weak-points.md.tmp.23992.bcf329af0dd0",
-    "wiki/profile/error-patterns.md.tmp.23992.cc653a8892ad",
-    "wiki/vocabulary/vocabulary-review.md.tmp.23992.604cba6efe27",
+    "wiki/study-plans/daily/2026-06-10.md",
+    "wiki/log.md.tmp.21512.4f51c2d5fb95",
+    "wiki/active-learning.md.tmp.21512.67cfd4f2b630",
+    "wiki/active-learning.md.tmp.21512.b4847c83ba0b",
+    "wiki/study-plans/daily/2026-06-12.md.tmp.21512.df6001f88325",
     "wiki/study-plans/daily/2026-06-07.md",
     "wiki/study-plans/daily/2026-06-06.md",
     "wiki/index.md",
@@ -217,9 +234,6 @@
     "raw/inbox/The Martian a book review.md",
     "raw/inbox/Digital habits across generations.md",
     "raw/inbox/An email request for help.md",
-    "raw/inbox/How to spot fake news.md",
-    "raw/inbox/English course prospectus.md",
-    "raw/inbox/Choosing a conference venue.md",
-    "raw/inbox/An invitation to a job interview.md"
+    "raw/inbox/How to spot fake news.md"
   ]
 }
