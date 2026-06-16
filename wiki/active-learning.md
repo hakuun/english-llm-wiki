@@ -53,7 +53,7 @@ Use this section to hold candidates for the next daily page.
 ### Input candidates
 
 - **Reading**: Choose one short A2-B1 text from [[source-notes/british-council-a2-b1-reading-pack]] or [[source-notes/british-council-b1-reading-pack-2]]. Prefer A2-level texts for now. **Next up**: "English course prospectus" (A2-B1) 或 "An email request for help" (A2-B1)，视 06-12 难度反馈决定。
-- **Listening** (2-day cycle): ✅ "Talking about books" (A2-B1) — 2 天循环完成（06-07 ~ 06-08）。**当前听力日（06-12）**: 📻 "Why are some animals black and white?" (B1-B2) Day 1 — 已生成 daily page。Day 2 预计 06-13。
+- **Listening** (2-day cycle): ✅ "Talking about books" (A2-B1) — 2 天循环完成（06-07 ~ 06-08）。✅ "Why are some animals black and white?" (B1-B2) — 2 天循环完成（06-12 ~ 06-15）。**下一篇**: "Making cities feel quieter" (B1-B2) 或回到阅读日。
 
 ### Vocabulary candidates
 
@@ -66,7 +66,7 @@ Use this section to hold candidates for the next daily page.
 
 - Choose 1-2 items from [[profile/error-patterns]] or [[profile/weak-points]].
 - **When daily errors are light (0-1 items)**: introduce one proactive grammar point from [[grammar/present-perfect-plan]] instead of adding new reading/listening material.
-- **Current（06-12）**: 🔴 of + gerund（06-10 新暴露，2-3 题）+ 🟡 名词复数（1 题提醒）+ 🔄 Q7 间隔抽查（1 题）。2 个 repair items → 继续 reactive 模式。
+- **Current（06-15 完成后 → 06-16）**: 0-1 个结构性 repair items → **触发 proactive grammar**：现在完成时第 2 课（for/since 时长用法）。🆕 输出前加"主语+动词"引导步骤（复述句子结构不稳定 → 见 weak-points #8）。
 
 ### Output candidates
 

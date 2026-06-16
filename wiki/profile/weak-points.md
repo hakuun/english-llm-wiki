@@ -148,22 +148,33 @@ Evidence:
 
 Next action: 降为每周抽查 1 题。
 
-### 7c. 介词 + gerund（of + doing）— 1 天修复 ✅
+### 7c. 介词 + gerund（of + doing）— ✅ 已修复
 
 Evidence:
 
 - 2026-06-10：首次暴露，`afraid of ask` → `afraid of asking`，`afraid of speak` → `afraid of speaking`。独立出现 2 次。
 - 2026-06-12：**6/6 全部正确应用规则** — warm-up Q1 making ✅, Q2 learning ✅, Q3 helping/swimming ✅（规则对，拼写 swiming→swimming 是小问题），output learning ✅, trying ✅。仅用 1 天集中练习就闭合了知识缺口。
+- 2026-06-15：**1/1 抽查通过**（for helping ✅）。连续 2 次间隔抽查正确。
 
-Next action: 降为每周抽查 1 题。error-pattern 已标记为 improving。
+Next action: 降为每月抽查 1 次。error-pattern 已标记为 resolved。
 
-### 7d. -ing 拼写双写规则（swiming → swimming）— 🟡 新观察
+### 7d. -ing 拼写双写规则（swiming → swimming）— 🟡 观察中
 
 Evidence:
 
 - 2026-06-12：`swiming` → `swimming`。首次暴露短元音+单辅音结尾动词加 -ing 时的双写规则（swim→swimming, run→running, sit→sitting, get→getting）。
+- 2026-06-15：抄写正确（swimming, running, sitting）。造句中 `broing` → `boring`（不同规则：bore→boring，e 结尾去 e 加 -ing，不双写）。
 
-Next action: 不是紧急项。明天 Day 2 花 30 秒抄写 swimming, running, sitting 各 1 遍即可。观察后续是否在其他动词上重复出现。
+Next action: 不是紧急项。继续在批改中纠正，观察是否在更多动词上重复出现。
+
+### 8. 复述/自由输出句子结构不稳定（controlled → free production 台阶）— 🆕 新观察
+
+Evidence:
+
+- 2026-06-15 复述 Q2-Q4 全部暴露了从 controlled practice 到 free production 的差距：controlled（填空/选择）3/3 + 3/3 全对，但 free production（自己造句）出现句子骨架缺失——Q2 多余的 be 动词（`are prevent` → `prevent`），Q3 缺少主语+动词框架（词串无句法），Q4 缺主语（`Dont have` → `they don't have`）。
+- 这不是词汇问题——学习者知道这些英文词。问题是**组装句子的过程**：从"想说的内容词"到"完整的英文句子"之间的过渡不稳定。
+
+Next action: 明天开始在输出题之前加一步「先写主语 + 动词」的引导。每次写句子前先回答"主语是谁？动词是什么？"两个问题。观察 2-3 次 daily page 后是否有改善。
 
 ## Weekly review questions
 

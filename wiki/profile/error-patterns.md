@@ -157,8 +157,8 @@ Common preposition + gerund combinations to practice:
 
 Practice focus: 3-5 fill-in-the-blank sentences choosing between base verb and gerund after common prepositions.
 
-Last seen: 2026-06-12
-Status: **improving** — 2026-06-12 warm-up + output 共 6/6 正确应用了"介词后动词加 -ing"规则（making, learning, helping, swimming, learning, trying）。仅用 1 天集中练习就从知识缺口变为稳定应用。唯一小问题是 swiming→swimming 拼写（首次暴露 -ing 双写规则），不影响语法判断。降为每周抽查 1 题。
+Last seen: 2026-06-15
+Status: **resolved** — 2026-06-12 6/6 全对 + 2026-06-15 1/1 抽查通过（for helping ✅）。连续 2 次间隔抽查正确，规则已内化。降为每月抽查 1 次。
 
 ## Error: weigh (verb) vs weight (noun) — word-class confusion
 
