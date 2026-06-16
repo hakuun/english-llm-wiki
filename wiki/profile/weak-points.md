@@ -138,15 +138,16 @@ Evidence:
 
 Next action: 明天 1 题间隔抽查 Q7 型（间隔 1 天后抽查效果更好）。下次 proactive grammar 课（预计 2-4 天后）继续 present perfect #2（for/since 时长用法或 have you ever 疑问句）。
 
-### 7b. want to do / need to do — 不定式 to 缺失 → ✅ 已修复
+### 7b. want to do / need to do — 不定式 to 缺失 → 🔴 回退！
 
 Evidence:
 
 - 2026-06-07：`need read` → `need to read`（首次暴露）
 - 2026-06-09：`want improve` → `want to improve`（第二次）
-- 2026-06-10：Q1 `need to practice` 正确 ✅ — 第 3 次出现，终于稳定。
+- 2026-06-10：Q1 `need to practice` 正确 ✅ — 第 3 次出现正确
+- 2026-06-16：`want get around` → `want to get around` ❌ — **第 4 次回退！** 时隔 6 天再次遗漏 to。
 
-Next action: 降为每周抽查 1 题。
+Next action: 06-10 的正确只是单次正确，不是稳定。重新激活为 active error pattern。明天起每周 1-2 题抽查，直到连续 3 次正确。`[[profile/error-patterns]]` 已新增独立条目。
 
 ### 7c. 介词 + gerund（of + doing）— ✅ 已修复
 
@@ -167,7 +168,15 @@ Evidence:
 
 Next action: 不是紧急项。继续在批改中纠正，观察是否在更多动词上重复出现。
 
-### 8. 复述/自由输出句子结构不稳定（controlled → free production 台阶）— 🆕 新观察
+### 7e. 不规则动词过去分词拼写/形式 — 🆕 新观察
+
+Evidence:
+
+- 2026-06-16：第二节现在完成时课（for/since）。for/since 概念判断 4/4 全对 ✅，但 Part B 填空和 Output 中暴露了不规则动词过去分词的缺口：`writed` → written, `eated` → eaten, `konwed` → known。学习者自评"不知道动词的过去分词怎么写"——准确。规则动词过去分词（lived, stayed, been）正确。
+
+Next action: 不单独做不规则动词表。在每次 daily page 输出中自然遇到时纠正 + 提醒 3 形。如果同一动词重复出错再做轻量巩固。
+
+### 8. 复述/自由输出句子结构不稳定（controlled → free production 台阶）— 🆕 新观察（controlled → free production 台阶）— 🆕 新观察
 
 Evidence:
 

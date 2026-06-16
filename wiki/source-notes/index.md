@@ -23,6 +23,17 @@ This folder stores notes extracted from processed source materials.
 - [[source-notes/bbc-6min-are-saunas-good-for-you]] — B1-B2 6 Minute English: sauna culture and health evidence.
 - [[source-notes/bbc-6min-how-reading-shapes-your-brain]] — B1-B2 6 Minute English: neuroscience of reading and brain plasticity.
 
+### BBC Real Easy English (A1-A2)
+
+- [[source-notes/bbc-real-easy-english-talking-about-fruit]] — A1-A2 Real Easy English: fruit vocabulary, food preferences.
+- [[source-notes/bbc-real-easy-english-talking-about-the-beach]] — A1-A2 Real Easy English: beach activities, sandy vs pebbly beaches.
+
+### YouTube: Listening Time by Connor (Polyglossa)
+
+- [[source-notes/listening-time-podcast-episode-1]] — A2-B1 podcast intro episode: format, learning method (repetition-based), and host background.
+- [[source-notes/listening-time-a1-practice-pack]] — A1 listening pack (4 videos): Language Learning, Weather, Social Media Apps, Homes.
+- [[source-notes/listening-time-a2-practice-pack]] — A2 listening pack (4 videos): Travel, Sports, Seasons, Clothes and Fashion.
+
 ## Material selection guide
 
 - [[source-notes/authoritative-materials-map]] — How to find, judge, and use authoritative English learning materials; this is a guide, not a processed source note.

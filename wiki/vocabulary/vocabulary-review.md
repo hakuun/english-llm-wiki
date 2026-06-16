@@ -35,7 +35,7 @@ The learner does not need to assign exact scores. The daily page asks for `hard 
 
 | word | meaning | cefr | phrase | example | level | status | last_seen | next_review |
 |---|---|---|---|---|---|---|---|
-| improve | 提高，改善 | A1 | improve my English | I want to improve my English. | 3 | review | 2026-06-09 | 2026-06-16 |
+| improve | 提高，改善 | A1 | improve my English | I want to improve my English. | 3 | review | 2026-06-16 | 2026-06-23 |
 | material | 材料 | A2 | learning materials | These materials are useful. | 3 | review | 2026-06-09 | 2026-06-16 |
 | since | 自从 | A2 | since 2020 | I have been working since 2020. | 2 | active | 2026-05-26 | 2026-06-03 |
 | get lost | 迷路 | A1/A2 | if you get lost | Call me if you get lost. | 3 | review | 2026-05-28 | 2026-06-05 |
@@ -47,11 +47,11 @@ The learner does not need to assign exact scores. The daily page asks for `hard 
 | pay extra | 额外付费 | A1 | will have to pay extra | If your bag is too heavy, you will have to pay extra. | 3 | review | 2026-06-02 | 2026-06-09 |
 | security | 安检 | B1 | pass security | You can buy liquids after you pass security. | 3 | review | 2026-06-02 | 2026-06-09 |
 | **traffic** | 交通 | A1 | traffic can be a nightmare | Bangkok's traffic can be a nightmare. | 2 | review | 2026-06-15 | 2026-06-22 |
-| **get around** | 出行，四处走动 | A1 | ways to get around | There are two better ways to get around. | 2 | review | 2026-06-05 | 2026-06-15 |
+| **get around** | 出行，四处走动 | A1 | ways to get around | I want to get around now, because I have stayed at home all day. | 2 | active | 2026-06-16 | 2026-06-20 |
 | stuck | 被困住的，堵住的 | B1* | stuck in traffic jams | You can spend hours stuck in traffic. | 2 | active | 2026-06-09 | 2026-06-12 |
 | catch (a boat) | 乘坐（船） | A1 | catch an express boat | Catch an express boat along the river. | 2 | review | 2026-06-03 | 2026-06-15 |
 | public transport | 公共交通 | A2 | near public transport | The Skytrain is good public transport. | 2 | review | 2026-06-03 | 2026-06-10 |
-| **recommend** | 推荐，建议 | A2 | recommend ... to sb | I recommend this book to you. | 3 | review | 2026-06-09 | 2026-06-16 |
+| **recommend** | 推荐，建议 | A2 | recommend ... to sb | I recommend this book to you. | 3 | review | 2026-06-16 | 2026-06-23 |
 | **term** | 学期 | A2 | this term | We have three exams at the end of this term. | 2 | active | 2026-06-09 | 2026-06-12 |
 | **mark** | 分数（名词） | A2 | my math mark | My math mark was 85. | 2 | review | 2026-06-09 | 2026-06-16 |
 | **practice** | 练习（名词） | A1 | more practice | The teacher says I need more speaking practice. | 3 | review | 2026-06-10 | 2026-06-17 |
@@ -64,6 +64,7 @@ The learner does not need to assign exact scores. The daily page asks for `hard 
 | **imagine** | 想象 | B1 ⭐ | imagine yourself doing | Imagine yourself speaking in the language. | 3 | active | 2026-06-10 | 2026-06-13 |
 | **put off** | 使失去兴趣，使反感 | B1 | put someone off | I've played so many interesting games that boring ones put me off. | 3 | active | 2026-06-15 | 2026-06-20 |
 | **a whole bunch of** | 很多，大量 | B1 | a whole bunch of tests | I have played a whole bunch of interesting games. | 3 | active | 2026-06-15 | 2026-06-20 |
+| **accident** | 事故，意外 | A2 ⭐ | car accident / by accident | I haven't played tennis since my accident. | 3 | active | 2026-06-16 | 2026-06-21 |
 
 ## Review Vocabulary
 

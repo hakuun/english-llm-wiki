@@ -21,21 +21,34 @@ tags:
 | 6 | Should we eat ultra-processed food? | BBC 6 Minute English | B1-B2 | Food, health, nutrition | [MP3](https://downloads.bbc.co.uk/learningenglish/features/6min/260430_6_minute_english_should_we_eat_ultra_processed_food_download.mp3) | [[source-notes/bbc-6min-should-we-eat-ultra-processed-food]] | ⬜ Not started |
 | 7 | Are saunas good for you? | BBC 6 Minute English | B1-B2 | Health, sauna culture | [MP3](https://downloads.bbc.co.uk/learningenglish/features/6min/260402_6_minute_english_saunas_download.mp3) | [[source-notes/bbc-6min-are-saunas-good-for-you]] | ⬜ Not started |
 | 8 | How reading shapes your brain | BBC 6 Minute English | B1-B2 | Neuroscience, reading | [MP3](https://downloads.bbc.co.uk/learningenglish/features/6min/260514_6_minute_english_how_reading_shapes_your_brain_download.mp3) | [[source-notes/bbc-6min-how-reading-shapes-your-brain]] | ⬜ Not started |
+| 9 | Talking about fruit | BBC Real Easy English | A1-A2 | Fruit, taste, food | [MP3](https://downloads.bbc.co.uk/learningenglish/realeasyenglish/260508_REE_fruit__download.mp3) | [[source-notes/bbc-real-easy-english-talking-about-fruit]] | 🆕 Ready |
+| 10 | Talking about the beach | BBC Real Easy English | A1-A2 | Beach, travel, memories | [MP3](https://downloads.bbc.co.uk/learningenglish/realeasyenglish/260529_REE_the_beach_download.mp3) | [[source-notes/bbc-real-easy-english-talking-about-the-beach]] | 🆕 Ready |
+| C1 | Listening Time podcast ep.1 | YouTube (Polyglossa) | A2-B1 | Podcast introduction, learning method | — | [[source-notes/listening-time-podcast-episode-1]] | 🆕 未来材料 |
+| C2 | A1 Practice Pack (4 videos) | YouTube (Polyglossa) | A1 | Language, Weather, Social Media, Homes | — | [[source-notes/listening-time-a1-practice-pack]] | 🆕 热身材料 |
+| C3 | A2 Practice Pack (4 videos) | YouTube (Polyglossa) | A2 | Travel, Sports, Seasons, Clothes | — | [[source-notes/listening-time-a2-practice-pack]] | 🆕 缓冲材料 |
 
 ## 建议学习顺序
 
 ```
-最简单 → 最难
+BBC 主线（A1-A2 → B1-B2，2 天循环）：
+1. Talking about books       (A2-B1)  ✅ 完成
+2. Talking about fruit       (A1-A2)  🆕 轻松桥梁
+3. Talking about the beach   (A1-A2)  🆕 轻松桥梁
+4. Animals black and white   (B1-B2)  ✅ 完成
+5. Making cities quieter     (B1-B2)  ← 下一篇
+6. Ultra-processed food      (B1-B2)
+7. Living with debt          (B1-B2)
+8. The future of food        (B1-B2)
+9. Are saunas good for you?  (B1-B2)
+10. How reading shapes brain (B1-B2)
 
-1. Talking about books       (A2-B1)  ← 从这里开始！
-2. Animals black and white    (B1-B2)  ← 具体话题，画面感强
-3. Making cities quieter      (B1-B2)  ← 半抽象，感官词汇丰富
-4. Ultra-processed food       (B1-B2)  ← 具体话题，生活词汇 ← NEW
-5. Living with debt           (B1-B2)  ← 社交话题，习语集中
-6. The future of food         (B1-B2)  ← 最抽象，涉及政策/环境
-7. Are saunas good for you?   (B1-B2)  ← 健康习语，学术数据 ← NEW
-8. How reading shapes brain   (B1-B2)  ← 最学术，神经科学词汇 ← NEW
+YouTube 补充（C 级，单次使用，不占完整循环）：
+A1. A1 Practice Pack           ← 听力热身（5 min）
+A2. A2 Practice Pack           ← BBC 之间的轻松缓冲（5 min）
+Pod. Listening Time podcast     ← 未来 B1 阶段使用
 ```
+
+注：#2 和 #3（Talking about fruit / beach）比 #1（Talking about books）更简单，可作为完成 6 Minute English 困难集之后的"轻松回弹"材料，也可以在学习初期做听力热身。不要因为标记为 A1-A2 就跳过——它们对建立听力信心和口语表达非常有用。
 
 ## 学习方法：2 天循环
 

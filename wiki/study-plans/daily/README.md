@@ -33,6 +33,7 @@ Use this folder as the single home for daily guided study pages.
 - [[study-plans/daily/2026-06-08]] — Listening Day 2: Shadowing + retelling "Talking about books," light review of hope/become/need to/like doing.
 - [[study-plans/daily/2026-06-09]] — Reading day + first proactive grammar lesson: present perfect vs past simple, vocabulary review.
 - [[study-plans/daily/2026-06-15]] — Listening Day 2: shadowing + retelling "Why are some animals black and white?" + of + gerund spot check.
+- [[study-plans/daily/2026-06-16]] — Proactive grammar #2: present perfect for/since + sentence scaffolding.
 
 ## Learner input rule
 

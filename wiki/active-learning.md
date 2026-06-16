@@ -54,6 +54,9 @@ Use this section to hold candidates for the next daily page.
 
 - **Reading**: Choose one short A2-B1 text from [[source-notes/british-council-a2-b1-reading-pack]] or [[source-notes/british-council-b1-reading-pack-2]]. Prefer A2-level texts for now. **Next up**: "English course prospectus" (A2-B1) 或 "An email request for help" (A2-B1)，视 06-12 难度反馈决定。
 - **Listening** (2-day cycle): ✅ "Talking about books" (A2-B1) — 2 天循环完成（06-07 ~ 06-08）。✅ "Why are some animals black and white?" (B1-B2) — 2 天循环完成（06-12 ~ 06-15）。**下一篇**: "Making cities feel quieter" (B1-B2) 或回到阅读日。
+- **Listening 热身/缓冲** (5 min, 不占完整循环): [[source-notes/listening-time-a1-practice-pack]] (A1) / [[source-notes/listening-time-a2-practice-pack]] (A2) — 可在 BBC 听力材料之间或阅读日作为轻松热身。
+- **Real Easy English 桥梁**: [[source-notes/bbc-real-easy-english-talking-about-fruit]] (A1-A2) / [[source-notes/bbc-real-easy-english-talking-about-the-beach]] (A1-A2) — 当 6 Minute English 偏难时用作"轻松回弹"听力材料。
+- **未来材料**: [[source-notes/listening-time-podcast-episode-1]] (A2-B1, ~25 min) — B1 听力基础扎实后开始定期使用。
 
 ### Vocabulary candidates
 
@@ -66,7 +69,7 @@ Use this section to hold candidates for the next daily page.
 
 - Choose 1-2 items from [[profile/error-patterns]] or [[profile/weak-points]].
 - **When daily errors are light (0-1 items)**: introduce one proactive grammar point from [[grammar/present-perfect-plan]] instead of adding new reading/listening material.
-- **Current（06-15 完成后 → 06-16）**: 0-1 个结构性 repair items → **触发 proactive grammar**：现在完成时第 2 课（for/since 时长用法）。🆕 输出前加"主语+动词"引导步骤（复述句子结构不稳定 → 见 weak-points #8）。
+- **Current（06-16 完成后 → 06-17）**: 🔴 want to do 回退（1 题修复）+ 🔄 for/since 间隔抽查（1 题）+ 📝 不规则动词提醒（write→written, eat→eaten, know→known）。1-2 个 repair items → **reactive 模式**，回到 📖 阅读日。
 
 ### Output candidates
 

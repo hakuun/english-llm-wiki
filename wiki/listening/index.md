@@ -15,20 +15,34 @@ tags:
 
 ## 当前听力材料
 
-共 **8 份** BBC Learning English 材料，均为 B 级来源，带完整 transcript 和音频下载链接：
+共 **15 份**材料（10 份 BBC B 级 + 5 份 YouTube C 级）：
+
+### BBC Learning English（B 级，带完整 transcript 和音频）
 
 | # | Title | Level | Topic |
 |---|-------|-------|-------|
-| 1 | [[source-notes/bbc-real-easy-english-talking-about-books\|Talking about books]] | A2-B1 | Books and reading habits |
-| 2 | [[source-notes/bbc-6min-why-animals-black-and-white\|Why are some animals black and white?]] | B1-B2 | Animal biology, evolution |
-| 3 | [[source-notes/bbc-6min-making-cities-feel-quieter\|Making cities feel quieter]] | B1-B2 | Urban noise, soundscaping |
-| 4 | [[source-notes/bbc-6min-should-we-eat-ultra-processed-food\|Should we eat ultra-processed food?]] | B1-B2 | Food, health, nutrition |
-| 5 | [[source-notes/bbc-6min-living-with-debt\|Living with debt]] | B1-B2 | Personal finance, debt |
-| 6 | [[source-notes/bbc-6min-the-future-of-food\|The future of food]] | B1-B2 | Food security, climate change |
-| 7 | [[source-notes/bbc-6min-are-saunas-good-for-you\|Are saunas good for you?]] | B1-B2 | Health, sauna culture |
-| 8 | [[source-notes/bbc-6min-how-reading-shapes-your-brain\|How reading shapes your brain]] | B1-B2 | Neuroscience, reading |
+| 1 | [[source-notes/bbc-real-easy-english-talking-about-books\|Talking about books]] ✅ | A2-B1 | Books and reading habits |
+| 2 | [[source-notes/bbc-real-easy-english-talking-about-fruit\|Talking about fruit]] 🆕 | A1-A2 | Fruit, taste, food preferences |
+| 3 | [[source-notes/bbc-real-easy-english-talking-about-the-beach\|Talking about the beach]] 🆕 | A1-A2 | Beach activities, travel, memories |
+| 4 | [[source-notes/bbc-6min-why-animals-black-and-white\|Why are some animals black and white?]] | B1-B2 | Animal biology, evolution |
+| 5 | [[source-notes/bbc-6min-making-cities-feel-quieter\|Making cities feel quieter]] | B1-B2 | Urban noise, soundscaping |
+| 6 | [[source-notes/bbc-6min-should-we-eat-ultra-processed-food\|Should we eat ultra-processed food?]] | B1-B2 | Food, health, nutrition |
+| 7 | [[source-notes/bbc-6min-living-with-debt\|Living with debt]] | B1-B2 | Personal finance, debt |
+| 8 | [[source-notes/bbc-6min-the-future-of-food\|The future of food]] | B1-B2 | Food security, climate change |
+| 9 | [[source-notes/bbc-6min-are-saunas-good-for-you\|Are saunas good for you?]] | B1-B2 | Health, sauna culture |
+| 10 | [[source-notes/bbc-6min-how-reading-shapes-your-brain\|How reading shapes your brain]] | B1-B2 | Neuroscience, reading |
 
-**建议学习顺序**：1 → 2 → 3 → 4 → 5 → 6 → 7 → 8（从最具体到最抽象/学术）
+**BBC 建议学习顺序**：1 → 2/3 → 4 → 5 → 6 → 7 → 8 → 9 → 10（从最具体到最抽象/学术，#2 和 #3 是 A1-A2 轻松桥梁）
+
+### YouTube: Listening Time by Connor（C 级，auto-generated transcript）
+
+| # | Title | Level | Topic |
+|---|-------|-------|-------|
+| 11 | [[source-notes/listening-time-podcast-episode-1\|Listening Time podcast ep.1]] 🆕 | A2-B1 | Podcast intro, learning method |
+| 12 | [[source-notes/listening-time-a1-practice-pack\|A1 Practice Pack (4 videos)]] 🆕 | A1 | Language, Weather, Social Media, Homes |
+| 13 | [[source-notes/listening-time-a2-practice-pack\|A2 Practice Pack (4 videos)]] 🆕 | A2 | Travel, Sports, Seasons, Clothes |
+
+**C 级用途**：听力热身、轻松补充、不占用完整 2 天循环。A1 包适合建立听力信心，A2 包适合 BBC 材料之间的缓冲。
 
 ## B2 听力目标
 
@@ -39,7 +53,9 @@ tags:
 ## 当前状态
 
 - 2026-06-05：听力系统建立，5 份 BBC 材料已摄入，相关 wiki 页面已填充。
-- 尚未开始任何听力学习。建议下一次 daily page 包含第一篇听力（Talking about books）。
+- 2026-06-16：新增 2 份 BBC Real Easy English + 9 份 YouTube Listening Time 材料（1 集播客 + 8 个 A1/A2 视频），听力库扩至 15 份材料。
+- Talking about books（2 天循环完成 ✅）、Why are some animals black and white?（2 天循环完成 ✅）。
+- 下一篇 BBC 听力：Making cities feel quieter。
 
 ## 听力学习节奏建议
 

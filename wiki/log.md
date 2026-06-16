@@ -1,5 +1,59 @@
 # English LLM Wiki Log
 
+## [2026-06-16] ingest | 新资料摄入：11 份听力材料（BBC Real Easy English ×2 + YouTube Listening Time ×9）
+
+检查 `raw/inbox/`，识别出 11 份新听力材料（另外已有 source note 的材料无需重复摄入：7 份 BBC 6 Minute English、1 份 Real Easy English、18 份 British Council 阅读文件已涵盖在 2 个阅读 pack 中；Oxford PDF 和 CEFR 标准已摄入；grammar 源文件已分组摄入）。
+
+### 新增摄入
+
+**BBC Real Easy English（B 级，A1-A2，2 份）**：
+- `[[source-notes/bbc-real-easy-english-talking-about-fruit]]` — 水果话题，sour/ripe/juicy/dried fruit，2 天循环适用。
+- `[[source-notes/bbc-real-easy-english-talking-about-the-beach]]` — 海滩话题，sunbathe/cool down/pebble/sandy beach/picnic，与 present perfect 语法配合。
+
+**YouTube Listening Time（C 级，A1-B1，3 个 source note 覆盖 9 个文件）**：
+- `[[source-notes/listening-time-podcast-episode-1]]` — 播客介绍集（~25 min），A2-B1，无脚本自然口语。Connor 的"重复听"学习方法值得采纳。分类为 **未来材料**（太长，不适合 30 分钟 daily）。
+- `[[source-notes/listening-time-a1-practice-pack]]` — A1 包（4 视频 × ~5 min）：Language Learning, Weather, Social Media, Homes。分类为 **听力热身**。
+- `[[source-notes/listening-time-a2-practice-pack]]` — A2 包（4 视频 × ~5 min）：Travel, Sports, Seasons, Clothes。分类为 **BBC 之间的轻松缓冲**。
+
+### Wiki 更新
+- `source-notes/index.md`：新增 5 个 source note 入口，分为 BBC Real Easy English 和 YouTube Listening Time 两个板块。
+- `listening/index.md`：材料表从 8 份扩至 15 份，新增 BBC 建议顺序（含 #2/3 桥梁），YouTube 材料标记为 C 级补充。
+- `listening/transcript-notes.md`：材料追踪表新增 #9-10 BBC + #C1-C3 YouTube，学习顺序更新。
+- `active-learning.md`：Input candidates 新增"听力热身/缓冲""Real Easy English 桥梁""未来材料"三个选项。
+
+### 未摄入（已有 source note）
+- 7 份 BBC 6 Minute English（已有 8 个 source note，全部覆盖）
+- 18 份 British Council 阅读文件（已由 2 个 reading pack source note 覆盖）
+- Oxford 3000/5000 PDF（已有 source note）
+- CEFR Companion Volume（已有 source note）
+- `raw/sources/grammar/` 下全部 grammar 文件（已由 oxford-grammar-core-a1-b2 覆盖）
+
+## [2026-06-16] daily-study | Completed proactive grammar #2 — for/since concept mastered, irregular verbs exposed
+
+Corrected `wiki/study-plans/daily/2026-06-16.md` after completion. Key findings:
+
+1. ⭐ **for/since 规则完全掌握！** — Part A 选择 4/4 (100%) ✅，Part C 改错正确 ✅（`since five years` → `for five years`），Part D 翻译满分 ✅（`I have been a front-end developer since 2020.`）。学习者清楚地知道：for + 时间段（period），since + 时间点（point）。这是今天最重要的成果——第二节现在完成时课的核心目标已达成。
+
+2. 🔑 **瓶颈转移：不规则动词过去分词** — 今天最清晰的信号。Part B 填空 1.5/3 + Output 中暴露：规则动词过去分词正确（lived ✅, been ✅, stayed ✅），但不规则动词出错（writed→written, eated→eaten, konwed→known）。学习者自评"不知道动词的过去分词怎么写"——完全准确。**语法规则不是问题，词汇形式是下一阶段的重点。** 加入 weak-points #7e 观察。
+
+3. 🔴 **want to do 回退！** — `want get around` → `want to get around`。06-10 正确过一次后被误判为 resolved，06-16 时隔 6 天再次遗漏。第 4 次出现（06-07/06-09/06-10✅/06-16❌）。error-patterns 新增独立条目（active），weak-points #7b 从 resolved 重新激活。明天起每周 1-2 题抽查，直到连续 3 次正确。
+
+4. 🟡 **新暴露：物主代词 they → their** — `zebras use they stripes` → `their stripes`。和 weigh/weight, mark/marked 同类的词性混淆。首次暴露，先观察。
+
+5. 🟢 **句子骨架引导有效！** — 06-15 发现 free production 句子结构不稳定，06-16 加入「主语+动词」步骤后：句1 结构 100% 正确（have written code since 2019 — 只是 written 形式问题），句2 主语+动词找对了（时态和搭配需修）。scaffolding 方法初步有效，继续使用。
+
+6. **1 个新词入表**：accident (A2 ⭐, L3 active — 来自 Oxford 源例句)。3 个到期词更新：improve/recommend → review 延期，get around → active (L2)。B1 词稳定在 11 个。
+
+**Wiki updates**：`[[vocabulary/vocabulary-review]]`（+1 新词 + 3 词状态更新），`[[profile/error-patterns]]`（新增 want/need + to do 独立条目），`[[profile/weak-points]]`（#7b want to do 回退 + #7e 不规则动词新观察），`[[grammar/present-perfect-plan]]`（待更新进度表），`[[active-learning]]`（更新为 reactive 模式）。
+
+**Tomorrow (2026-06-17)**：📖 阅读日 — 1-2 个结构性 repair items（want to do + for/since 抽查）→ reactive 模式。新阅读材料：British Council A2-B1 "English course prospectus" 或 "An email request for help"。
+
+## [2026-06-16] study-plan | Proactive grammar #2 — present perfect for/since + sentence scaffolding
+
+Created `wiki/study-plans/daily/2026-06-16.md` as a 30-minute proactive grammar day. Main elements: (1) ⭐ **Proactive grammar #2** — 现在完成时 + for/since 时长用法，3 条核心规则（for + 时间段 / since + 时间点 / How long 问句）+ 关键区分（现在完成时 + for = 还在持续 vs 一般过去时 + for = 已结束）；(2) 🆕 **句子骨架热身** — 写句子前先写"主语是谁？动词是什么？"，1 题 guided scaffolding（06-15 复述句子结构不稳定的直接回应）；(3) 🟡 **boring 拼写对比** — boring（去 e）vs swimming（双写），避免把 boring 写成 broing 或 borring；(4) 🔄 **3 个到期词回顾** — improve, recommend, get around；(5) **1 个新 A2 词入表候选** — accident（来自 Oxford 源例句）；(6) Output — 3 句写自己的经历（现在完成时 + for/since / 一般过去时 + for / 现在完成时否定），每句先走"主语+动词"步骤。Source: A-level Oxford grammar。0-1 个结构性 repair items（of+gerund resolved，句子结构是发展阶段）→ 触发 proactive grammar。
+
+**Tomorrow (2026-06-17)**：📖 阅读日 — 视今天 for/since 掌握情况决定：如果 ≥80%，进入 A2-B1 阅读 + 新 B1 词汇；如果 <80%，1 题巩固 + 阅读。
+
 ## [2026-06-15] daily-study | Completed listening Day 2 — shadowing + retelling "Animals black and white"
 
 Corrected `wiki/study-plans/daily/2026-06-15.md` after completion. Key findings:
