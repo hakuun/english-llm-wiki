@@ -1,5 +1,31 @@
 # English LLM Wiki Log
 
+## [2026-06-15] daily-study | Completed listening Day 2 — shadowing + retelling "Animals black and white"
+
+Corrected `wiki/study-plans/daily/2026-06-15.md` after completion. Key findings:
+
+1. 🎉 **of + gerund → resolved!** — 连续第 2 次抽查通过（06-12 6/6 → 06-15 1/1 for helping ✅）。规则稳定内化，降为每月抽查。error-pattern 从 improving → resolved。
+
+2. 🎧 **第一篇 B1-B2 听力 2 天循环完成！** — Day 2 跟读 4 步全部完成 ✅，自评 optical illusion 有些跟不上（6 音节长词组，正常）。复述 3 题内容全部正确 ✅（斑马驱蝇、熊猫伪装、无唯一答案）。"Why are some animals black and white?" 完整闭环。
+
+3. 🔑 **新发现：controlled → free production 台阶** — 今天最重要的发现。Controlled practice 表现优秀（填空 3/3，Option A 3/3），但 free production（复述自造句）出现句子骨架缺失：Q2 多余 be（`are prevent` → `prevent`），Q3 缺少主语+动词框架（内容词堆积），Q4 缺主语（`Dont have` → `they don't have`）。这是 A2→B1 的正常发展阶段——词汇够了，组装句子的过程还不稳定。解决方案：输出前先确认"主语是谁？动词是什么？"。已加入 weak-points #8 观察。
+
+4. 🟢 **多项稳定信号**：① stripes 复数正确（06-10 的 `more opportunity` 错误已修复）；② put off 分离用法正确（`put me off`，不是 `put off me`）；③ 现在完成时自发使用正确（造句 `I have played...` 自己选对了时态）；④ Option A 3/3 全对——简单任务已经完全稳定；⑤ 到期词造句中用对了 put off 和 a whole bunch of（虽然自评"模糊"），两个词升级到 L3。
+
+5. 🟡 **拼写持续**：`broing` → `boring`（和 wating→writing, swiming→swimming 同类，但规则不同——bore 去 e 加 -ing，不双写 r）。
+
+6. **2 词升级**：put off (L2→L3), a whole bunch of (L2→L3)。2 词延期：weigh, traffic (next_review → 06-22)。B1 词稳定在 11 个。
+
+**Wiki updates**：`[[vocabulary/vocabulary-review]]`（4 词状态更新），`[[profile/error-patterns]]`（of+gerund → resolved），`[[profile/weak-points]]`（#7c resolved + #8 新句子结构观察 + #7d 更新），`[[active-learning]]`（待更新）。
+
+**Tomorrow (2026-06-16)**：📖 阅读日 — 0-1 个结构性 repair items → 触发 **proactive grammar**：现在完成时第 2 课（for/since 时长用法）。新阅读材料从 British Council A2-B1 选。输出前加"主语+动词"引导步骤。
+
+## [2026-06-15] study-plan | Listening Day 2 — shadowing + retelling "Animals black and white"
+
+Created `wiki/study-plans/daily/2026-06-15.md` as a 30-minute listening Day 2. Main elements: (1) 🎧 **跟读（shadowing）** — 词汇复述段（optical illusion ~ black-and-white, ~30 秒），4 步跟读法（听 2 遍 → 看文本跟读 3-5 遍 → 不看文本跟读 1-2 遍 → 自己朗读 1 遍）；(2) 🗣️ **复述（retelling）** — 3 个引导问题：斑马为什么黑白？熊猫为什么黑白？科学家的结论是什么？附带英文提示词表；(3) 🔄 **of + gerund 轻量抽查** — 1 题确认（06-12 已 6/6 闭合）；(4) 🟡 **-ing 双写拼写提醒** — swimming, running, sitting 各抄 1 遍（30 秒）；(5) 🔄 **4 个到期词回顾** — put off, a whole bunch of, weigh, traffic（15 日到期）；(6) 生词填空 + 输出选择（Option A/B/C）。06-13 和 06-14 无 daily page（3 天间隔），warm-up 加入 06-12 简要回顾。0-1 个结构性 repair items → 下次可触发 proactive grammar。
+
+**Tomorrow (2026-06-16)**：📖 阅读日 — 回到 reading，根据今天 of + gerund 正确率 + 复述表现决定是否触发 proactive grammar（present perfect #2 for/since）。
+
 ## [2026-06-12] daily-study | Completed listening Day 1 — Animals black and white + of + gerund resolved
 
 Corrected `wiki/study-plans/daily/2026-06-12.md` after completion. Key findings:

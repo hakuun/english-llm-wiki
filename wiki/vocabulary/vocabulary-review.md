@@ -41,12 +41,12 @@ The learner does not need to assign exact scores. The daily page asks for `hard 
 | get lost | 迷路 | A1/A2 | if you get lost | Call me if you get lost. | 3 | review | 2026-05-28 | 2026-06-05 |
 | looking forward to | 期待 | A2 | looking forward to seeing you | I'm looking forward to seeing you. | 2 | active | 2026-06-09 | 2026-06-12 |
 | dirt | 灰尘，污垢 | B1 | a lot of dirt | There is a lot of dirt on my glasses. | 3 | review | 2026-06-02 | 2026-06-09 |
-| **weigh** | 重，有……重量 | B1 | weigh no more than | My suitcase weighs 10kg. | 3 | review | 2026-06-05 | 2026-06-15 |
+| **weigh** | 重，有……重量 | B1 | weigh no more than | My suitcase weighs 10kg. | 3 | review | 2026-06-15 | 2026-06-22 |
 | **fit** | 放得下，适合 | A2 | fit under the seat | A small bag can fit under the seat. | 3 | review | 2026-06-03 | 2026-06-10 |
 | hand luggage | 手提行李 | B1/− | take as hand luggage | Passengers can only take one bag as hand luggage. | 2 | review | 2026-06-02 | 2026-06-09 |
 | pay extra | 额外付费 | A1 | will have to pay extra | If your bag is too heavy, you will have to pay extra. | 3 | review | 2026-06-02 | 2026-06-09 |
 | security | 安检 | B1 | pass security | You can buy liquids after you pass security. | 3 | review | 2026-06-02 | 2026-06-09 |
-| **traffic** | 交通 | A1 | traffic can be a nightmare | Bangkok's traffic can be a nightmare. | 2 | review | 2026-06-05 | 2026-06-15 |
+| **traffic** | 交通 | A1 | traffic can be a nightmare | Bangkok's traffic can be a nightmare. | 2 | review | 2026-06-15 | 2026-06-22 |
 | **get around** | 出行，四处走动 | A1 | ways to get around | There are two better ways to get around. | 2 | review | 2026-06-05 | 2026-06-15 |
 | stuck | 被困住的，堵住的 | B1* | stuck in traffic jams | You can spend hours stuck in traffic. | 2 | active | 2026-06-09 | 2026-06-12 |
 | catch (a boat) | 乘坐（船） | A1 | catch an express boat | Catch an express boat along the river. | 2 | review | 2026-06-03 | 2026-06-15 |
@@ -62,8 +62,8 @@ The learner does not need to assign exact scores. The daily page asks for `hard 
 | **opportunity** | 机会 | B1 ⭐ | look for opportunities | A good language learner always looks for opportunities to talk with other students. | 2 | active | 2026-06-10 | 2026-06-13 |
 | **communicate** | 交流 | B1 ⭐ | communicate with | People use language to communicate with other people. | 3 | active | 2026-06-10 | 2026-06-13 |
 | **imagine** | 想象 | B1 ⭐ | imagine yourself doing | Imagine yourself speaking in the language. | 3 | active | 2026-06-10 | 2026-06-13 |
-| **put off** | 使失去兴趣，使反感 | B1 | put someone off | The loud noise put me off my reading. | 2 | active | 2026-06-12 | 2026-06-15 |
-| **a whole bunch of** | 很多，大量 | B1 | a whole bunch of tests | I did a whole bunch of exercises. | 2 | active | 2026-06-12 | 2026-06-15 |
+| **put off** | 使失去兴趣，使反感 | B1 | put someone off | I've played so many interesting games that boring ones put me off. | 3 | active | 2026-06-15 | 2026-06-20 |
+| **a whole bunch of** | 很多，大量 | B1 | a whole bunch of tests | I have played a whole bunch of interesting games. | 3 | active | 2026-06-15 | 2026-06-20 |
 
 ## Review Vocabulary
 

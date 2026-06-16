@@ -8,17 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0349423c73851a17",
+            "id": "b26e4ac073a5b8a9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiki/study-plans/daily/2026-06-12.md",
+                "file": "raw/inbox/A2 English Listening Practice - Clothes and Fashion.md",
                 "mode": "source",
-                "source": true
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-06-12"
+              "title": "A2 English Listening Practice - Clothes and Fashion"
             }
           },
           {
@@ -197,24 +197,35 @@
       "bases:新建数据库": false
     }
   },
-  "active": "0349423c73851a17",
+  "active": "b26e4ac073a5b8a9",
   "lastOpenFiles": [
-    "wiki/log.md.tmp.21512.4a3eb488fae8",
-    "wiki/profile/weak-points.md.tmp.21512.3cfa77122407",
-    "wiki/profile/weak-points.md.tmp.21512.8ab78431ddfc",
-    "wiki/vocabulary/vocabulary-review.md.tmp.21512.ea792073be86",
-    "wiki/study-plans/daily/2026-06-12.md.tmp.21512.7968dd6fae1c",
-    "wiki/study-plans/daily/2026-06-12.md.tmp.21512.47e41600fa07",
-    "wiki/study-plans/daily/2026-06-12.md.tmp.21512.4f1feb994b1f",
+    "raw/inbox/A2 English Listening Practice - Seasons.md",
+    "raw/inbox/A2 English Listening Practice - Clothes and Fashion.md",
+    "raw/inbox/A2 English Listening Practice - Sports.md",
+    "raw/inbox/A2 English Listening Practice - Travel.md",
+    "raw/inbox/A1 English Listening Practice - Social Media Apps.md",
+    "raw/inbox/A1 English Listening Practice - Language Learning.md",
+    "raw/inbox/A1 English Listening Practice - Homes.md",
+    "raw/inbox/Listening time podcast - episode 1.md",
+    "raw/inbox/A1 English Listening Practice - Weather.md",
+    "raw/inbox/A1 English Listening Practice - New Year's Resolutions.md",
+    "raw/inbox/A1 English Listening Practice - Cooking.md",
+    "wiki/active-learning.md.tmp.17244.82e02044018c",
+    "wiki/active-learning.md.tmp.17244.181e776b987f",
+    "wiki/log.md.tmp.17244.dbcf610c6186",
+    "wiki/profile/weak-points.md.tmp.17244.260afe3ab0a4",
+    "wiki/profile/weak-points.md.tmp.17244.4cb5214d3632",
+    "wiki/profile/error-patterns.md.tmp.17244.53f568bd7cd6",
+    "wiki/vocabulary/vocabulary-review.md.tmp.17244.066d765acc6e",
+    "wiki/vocabulary/vocabulary-review.md.tmp.17244.e967dbaf4325",
+    "wiki/vocabulary/vocabulary-review.md.tmp.17244.54bdd7dc4d9f",
+    "wiki/study-plans/daily/2026-06-15.md.tmp.17244.9ca617464e97",
+    "wiki/study-plans/daily/2026-06-15.md",
     "raw/inbox/6 Minute English  Why are some animals black and white.md",
     "wiki/study-plans/daily/2026-06-12.md",
     "wiki/study-plans/daily/2026-06-09.md",
     "wiki/study-plans/daily/2026-06-08.md",
     "wiki/study-plans/daily/2026-06-10.md",
-    "wiki/log.md.tmp.21512.4f51c2d5fb95",
-    "wiki/active-learning.md.tmp.21512.67cfd4f2b630",
-    "wiki/active-learning.md.tmp.21512.b4847c83ba0b",
-    "wiki/study-plans/daily/2026-06-12.md.tmp.21512.df6001f88325",
     "wiki/study-plans/daily/2026-06-07.md",
     "wiki/study-plans/daily/2026-06-06.md",
     "wiki/index.md",
@@ -223,17 +234,6 @@
     "raw/inbox/Real Easy English  Talking about the beach.md",
     "raw/inbox/Real Easy English  Talking about fruit.md",
     "raw/inbox/Real Easy English  Talking about books.md",
-    "raw/inbox/6 Minute English  Are saunas good for you.md",
-    "raw/inbox/6 Minute English  How reading shapes your brain.md",
-    "raw/inbox/6 Minute English  Living with debt.md",
-    "raw/inbox/6 Minute English  The future of food.md",
-    "raw/inbox/A short story extract.md",
-    "raw/inbox/Study skills tips.md",
-    "raw/inbox/Professional profile summaries.md",
-    "raw/inbox/The legend of fairies.md",
-    "raw/inbox/The Martian a book review.md",
-    "raw/inbox/Digital habits across generations.md",
-    "raw/inbox/An email request for help.md",
-    "raw/inbox/How to spot fake news.md"
+    "raw/inbox/6 Minute English  Are saunas good for you.md"
   ]
 }
