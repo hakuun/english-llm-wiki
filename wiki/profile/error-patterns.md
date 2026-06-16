@@ -206,6 +206,27 @@ Practice focus: weigh/weighs contrast exercises with explicit "check the subject
 Last seen: 2026-06-05
 Status: **improving** — 2026-06-05: 16/16 on controlled -s exercises (weigh/weighs, work/live/speak, like/want/need), output 4 sentences all correct on 三单-s. The rule is now understood; next step is consolidating in real reading/writing. Learner asked a sharp question ("My suitcases 不也是 it 吗？") showing they're internalizing the rule rather than memorizing.
 
+## Error: want / need / try + to do — 不定式 to 缺失
+
+Pattern: The learner writes `want do` / `need do` / `try do` without the required `to` before the infinitive. This is a Chinese L1 transfer error — Chinese doesn't have an equivalent of `to` in this position.
+
+Correction: `want` / `need` / `try` must be followed by `to + base verb`.
+
+Examples:
+- Learner: I want get around now.
+- Corrected: I want **to** get around now.
+- Learner: I need practice my English every day.
+- Corrected: I need **to** practice my English every day.
+- Learner: I want improve my English.
+- Corrected: I want **to** improve my English.
+
+Memory trick: **want/need/try 后面要戴 to 帽子再发动词。** 中文没有这个 to，但英文必须有。
+
+Practice focus: 1-2 fill-in or correction items per daily page until stable.
+
+Last seen: 2026-06-16
+Status: **active** — 2026-06-07 首次暴露（need read），06-09 第二次（want improve），06-10 第三次正确（need to practice ✅ → 误判为 resolved），06-16 第四次回退（want get ❌）。已重新激活。需要继续每周抽查 1-2 次直到连续 3 次正确。
+
 ## Initial priority areas to watch
 
 - Subject-verb agreement.
