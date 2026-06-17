@@ -1,5 +1,35 @@
 # English LLM Wiki Log
 
+## [2026-06-17] daily-study | Completed reading day — want to do 核心修复成功 + for/since 稳定 + 3 个 B1 新词
+
+Corrected `wiki/study-plans/daily/2026-06-17.md` after completion. Key findings:
+
+1. 🎉 **want to do 核心修复成功！** — Warm-up 改错题正确识别了 `wants improve` 缺少 to，改正中加上了 to ✅。第 5 次出现（06-07/09/10✅/16❌/17✅）。这是第 1 次连续正确，还需要 2 次连续正确。⚠️ 小问题是改正时把 `wants` 误删为 `want`（三单 -s）。
+
+2. ✅ **for/since 连续 2 次正确！** — 06-16 4/4 + 06-17 1/1。学习者虽然自评"有点犹豫"，但实际做对了（`last month` → since）。规则已稳定，降频为每周抽查。
+
+3. 🆕 **`appreciate + 名词` 结构问题** — Q1 和 Option B 句 1 都暴露了 `appreciate + 人 + 动词` 的结构混搭（`I would appreciate your help me finish...`）。这是中英文动宾结构差异——和之前已修复的 hope + 名词同类型。推荐简单方案：`I would appreciate it if you could...`。先观察，如果再出现再立为独立 error pattern。加入 weak-points #9 观察。
+
+4. 🟢 **句子骨架引导连续有效** — 06-16 + 06-17 连续 2 天用了「主语+动词」步骤。句 1 主语/动词判断正确 ✅，句 2 结构完整 ✅，句 3 现在完成时 + since 结构 100% 正确 ✅。Option A 填空 4/4 全对。free production 句子结构稳定性明显提高。
+
+5. 📖 **阅读理解 3/3 ✅** — "An email request for help" 难度刚好。到期词 4/4 全部记得。新词填空 3/3 全对（launch, packaging, appreciate）。
+
+6. **3 个 B1 新词入表**：launch (B1, L3), packaging (B1, L3), appreciate (B1, L2 — 自由输出有结构错误)。B1 词数量：11 → 14 (+3)。
+
+7. **拼写**：mintues→minutes, applacations→applications（自由输出拼写检索问题，和之前同类）。
+
+**Wiki updates**：`[[vocabulary/vocabulary-review]]`（+3 新词 + 4 到期词延期），`[[profile/error-patterns]]`（want/need + to do → improving），`[[profile/weak-points]]`（#7b improving, #7e 观察, #8 有效, #9 新观察 appreciate 结构），`[[active-learning]]`（明天 → proactive grammar #3）。
+
+**Tomorrow (2026-06-18)**：⭐ **Proactive grammar #3** — 0-1 个 repair items 触发前摄语法。建议 "have been vs have gone"（直击 06-16 `I never gone HK` 混淆）或 "Have you ever...?" 经历问句。
+
+## [2026-06-17] study-plan | 📖 阅读日 — 职场邮件 "An email request for help" + want to do 修复 + for/since 抽查
+
+Created `wiki/study-plans/daily/2026-06-17.md` as a 30-minute reactive reading day. Main elements: (1) 📖 **新阅读** — "An email request for help"（A2-B1 British Council 职场邮件），Sarah 请 James 帮忙看产品包装设计； (2) 🔴 **want to do 修复** — 1 题改错（06-16 回退后重建警觉）； (3) 🔄 **for/since 间隔抽查** — 1 题（06-16 概念 100%，隔 1 天确认）； (4) 📝 **不规则动词小抄** — write→written, eat→eaten, know→known 快速扫一眼； (5) 🔄 **4 个到期词回顾** — practice, fiction, poem, prefer（距上次复习 7 天）； (6) 🆕 **3 个 B1 新词候选** — launch, packaging, appreciate（来自阅读原文）； (7) 🔑 **句子模仿** — I would appreciate… / It shouldn't take longer than… 两个礼貌请求句型； (8) Output — 选 Option A 填空 / B 仿写 / C 微邮件。2 个 structural repair items → reactive 模式，不触发 proactive grammar。
+
+Source: B-level British Council LearnEnglish. Pattern: reactive reading day.
+
+**Tomorrow (2026-06-18)**: 视今天 want to do 和 for/since 修复情况决定。如果 want to do 再次正确 + for/since 保持 → 可能触发 proactive grammar（现在完成时 #3）。如果仍有错误 → 继续 reactive 修复。
+
 ## [2026-06-16] ingest | 新资料摄入：11 份听力材料（BBC Real Easy English ×2 + YouTube Listening Time ×9）
 
 检查 `raw/inbox/`，识别出 11 份新听力材料（另外已有 source note 的材料无需重复摄入：7 份 BBC 6 Minute English、1 份 Real Easy English、18 份 British Council 阅读文件已涵盖在 2 个阅读 pack 中；Oxford PDF 和 CEFR 标准已摄入；grammar 源文件已分组摄入）。
