@@ -138,7 +138,7 @@ Evidence:
 
 Next action: 明天 1 题间隔抽查 Q7 型（间隔 1 天后抽查效果更好）。下次 proactive grammar 课（预计 2-4 天后）继续 present perfect #2（for/since 时长用法或 have you ever 疑问句）。
 
-### 7b. want to do / need to do — 不定式 to 缺失 → 🔴 回退！
+### 7b. want to do / need to do — 不定式 to 缺失 → 🟡 improving（to 已修复，继续观察）
 
 Evidence:
 
@@ -146,8 +146,9 @@ Evidence:
 - 2026-06-09：`want improve` → `want to improve`（第二次）
 - 2026-06-10：Q1 `need to practice` 正确 ✅ — 第 3 次出现正确
 - 2026-06-16：`want get around` → `want to get around` ❌ — **第 4 次回退！** 时隔 6 天再次遗漏 to。
+- 2026-06-17：`He wants improve` → 正确识别缺 to ✅，改为 `He want to improve`（to 加了 ✅，但误删了 wants 的 -s ⚠️）。核心错误（缺 to）已修复——第 1 次连续正确。
 
-Next action: 06-10 的正确只是单次正确，不是稳定。重新激活为 active error pattern。明天起每周 1-2 题抽查，直到连续 3 次正确。`[[profile/error-patterns]]` 已新增独立条目。
+Next action: 每周 1-2 题抽查继续，直到连续 3 次正确。三单 -s 误删是次要问题，不影响 to-pattern 评估。`[[profile/error-patterns]]` 状态已更新为 improving。
 
 ### 7c. 介词 + gerund（of + doing）— ✅ 已修复
 
@@ -168,22 +169,37 @@ Evidence:
 
 Next action: 不是紧急项。继续在批改中纠正，观察是否在更多动词上重复出现。
 
-### 7e. 不规则动词过去分词拼写/形式 — 🆕 新观察
+### 7e. 不规则动词过去分词拼写/形式 — 🟡 观察中（规则动词掌握良好）
 
 Evidence:
 
-- 2026-06-16：第二节现在完成时课（for/since）。for/since 概念判断 4/4 全对 ✅，但 Part B 填空和 Output 中暴露了不规则动词过去分词的缺口：`writed` → written, `eated` → eaten, `konwed` → known。学习者自评"不知道动词的过去分词怎么写"——准确。规则动词过去分词（lived, stayed, been）正确。
+- 2026-06-16：第二节现在完成时课。不规则动词：`writed` → written, `eated` → eaten, `konwed` → known。规则动词（lived, stayed, been）正确。
+- 2026-06-17：输出句 3 `have launched` — 规则动词过去分词（launched）正确 ✅。学习者知道现在完成时需要 have + 过去分词。
+- 2026-06-17 Stuck points：学习者再次自评"不规则动词的过去分词不会写"——诚实且准确。
 
-Next action: 不单独做不规则动词表。在每次 daily page 输出中自然遇到时纠正 + 提醒 3 形。如果同一动词重复出错再做轻量巩固。
+Next action: 继续每天不规则动词小抄（瞄一眼 3 个动词的 3 种形式）。如果同一动词重复出错再做轻量巩固。
 
-### 8. 复述/自由输出句子结构不稳定（controlled → free production 台阶）— 🆕 新观察（controlled → free production 台阶）— 🆕 新观察
+### 8. 复述/自由输出句子结构不稳定（controlled → free production 台阶）— 🟢 句子骨架引导有效！
 
 Evidence:
 
-- 2026-06-15 复述 Q2-Q4 全部暴露了从 controlled practice 到 free production 的差距：controlled（填空/选择）3/3 + 3/3 全对，但 free production（自己造句）出现句子骨架缺失——Q2 多余的 be 动词（`are prevent` → `prevent`），Q3 缺少主语+动词框架（词串无句法），Q4 缺主语（`Dont have` → `they don't have`）。
-- 这不是词汇问题——学习者知道这些英文词。问题是**组装句子的过程**：从"想说的内容词"到"完整的英文句子"之间的过渡不稳定。
+- 2026-06-15 复述：free production 句子骨架缺失。
+- 2026-06-16：首次加入「主语+动词」步骤。句 1 结构 100% 正确（have written code since 2019），句 2 主语+动词找对了。
+- 2026-06-17：Option B 仿写 3 句全部用了「主语+动词」步骤。句 1 主语/动词正确（I/appreciate），句 2 结构完整正确，句 3 现在完成时 + since 结构 100% 正确。**连续 2 天使用 scaffolding 后，句子结构稳定性明显提高。**
 
-Next action: 明天开始在输出题之前加一步「先写主语 + 动词」的引导。每次写句子前先回答"主语是谁？动词是什么？"两个问题。观察 2-3 次 daily page 后是否有改善。
+Next action: 继续在输出题中使用「主语+动词」引导步骤。如果接下来 2-3 次 daily page 句子结构持续稳定，可以将 scaffolding 从必做改为可选（只在学习者需要时使用）。
+
+### 9. 🆕 appreciate 后接名词 vs 人+动词结构 — 新观察（Chinglish 结构类）
+
+Evidence:
+
+- 2026-06-17：Q1 `I would appreciate your help me finish English homework.` → 应为 `your help with...` 或 `it if you could help me with...`。Option B 句 1 同样问题：`I would appreciate your help me find job.` → 同上。独立出现 2 次同一天。
+
+这和已修复的 `hope + 名词` Chinglish 模式类似——中文的"感激你帮我"可以直接接"你帮我"，但英文 `appreciate` 后面只能接名词短语，不能直接接人+动词。
+
+推荐简单方案：`I would appreciate it if you could...`（用 `it` 占位 + `if` 从句），比 `appreciate + 名词` 更容易用。
+
+Next action: 先观察，如果明天再次出现再立为独立 error pattern。下次输出中给一个轻量提醒即可。
 
 ## Weekly review questions
 

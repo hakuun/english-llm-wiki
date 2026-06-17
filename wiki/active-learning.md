@@ -70,6 +70,8 @@ Use this section to hold candidates for the next daily page.
 - Choose 1-2 items from [[profile/error-patterns]] or [[profile/weak-points]].
 - **When daily errors are light (0-1 items)**: introduce one proactive grammar point from [[grammar/present-perfect-plan]] instead of adding new reading/listening material.
 - **Current（06-16 完成后 → 06-17）**: 🔴 want to do 回退（1 题修复）+ 🔄 for/since 间隔抽查（1 题）+ 📝 不规则动词提醒（write→written, eat→eaten, know→known）。1-2 个 repair items → **reactive 模式**，回到 📖 阅读日。
+- **06-17 计划已生成**: `[[study-plans/daily/2026-06-17]]` — 📖 阅读日 "An email request for help"（A2-B1 职场邮件）。Repair: want to do + for/since 抽查。4 个到期词（practice, fiction, poem, prefer）。新词：launch (B1), packaging (B1), appreciate (B1)。Output: 句子模仿 + 可选微邮件写作。
+- **Current（06-17 完成后 → 06-18）**: 🎉 want to do 核心修复成功（to 加上了 ✅，第 1 次连续正确）+ for/since 连续 2 次正确 ✅ + 句子骨架引导持续有效 ✅。0-1 个 structural repair items → **触发 proactive grammar**。⭐ **建议前摄语法 #3**：have been vs have gone（直击 06-16 `I never gone HK` 混淆）或 Have you ever...? 经历问句。继续 want to do 抽查（需 3 次连续正确）+ 不规则动词小抄。
 
 ### Output candidates
 

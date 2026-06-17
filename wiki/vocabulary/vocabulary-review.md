@@ -54,17 +54,20 @@ The learner does not need to assign exact scores. The daily page asks for `hard 
 | **recommend** | 推荐，建议 | A2 | recommend ... to sb | I recommend this book to you. | 3 | review | 2026-06-16 | 2026-06-23 |
 | **term** | 学期 | A2 | this term | We have three exams at the end of this term. | 2 | active | 2026-06-09 | 2026-06-12 |
 | **mark** | 分数（名词） | A2 | my math mark | My math mark was 85. | 2 | review | 2026-06-09 | 2026-06-16 |
-| **practice** | 练习（名词） | A1 | more practice | The teacher says I need more speaking practice. | 3 | review | 2026-06-10 | 2026-06-17 |
-| **fiction** | 小说（虚构类） | A2 | fiction books | I like reading fiction. | 3 | review | 2026-06-10 | 2026-06-17 |
-| **poem** | 诗，诗歌 | **B1** ⭐ | short poems | She usually writes poems. | 3 | review | 2026-06-10 | 2026-06-17 |
+| **practice** | 练习（名词） | A1 | more practice | The teacher says I need more speaking practice. | 3 | review | 2026-06-17 | 2026-06-24 |
+| **fiction** | 小说（虚构类） | A2 | fiction books | I like reading fiction. | 3 | review | 2026-06-17 | 2026-06-24 |
+| **poem** | 诗，诗歌 | **B1** ⭐ | short poems | She usually writes poems. | 3 | review | 2026-06-17 | 2026-06-24 |
 | **relaxed** | 放松的，轻松的 | **B1** ⭐ | feel relaxed | I feel relaxed when I read at home. | 2 | active | 2026-06-09 | 2026-06-12 |
-| **prefer** | 更喜欢 | A1 | prefer ... to ... | I prefer reading to watching TV. | 3 | review | 2026-06-10 | 2026-06-17 |
+| **prefer** | 更喜欢 | A1 | prefer ... to ... | I prefer reading to watching TV. | 3 | review | 2026-06-17 | 2026-06-24 |
 | **opportunity** | 机会 | B1 ⭐ | look for opportunities | A good language learner always looks for opportunities to talk with other students. | 2 | active | 2026-06-10 | 2026-06-13 |
 | **communicate** | 交流 | B1 ⭐ | communicate with | People use language to communicate with other people. | 3 | active | 2026-06-10 | 2026-06-13 |
 | **imagine** | 想象 | B1 ⭐ | imagine yourself doing | Imagine yourself speaking in the language. | 3 | active | 2026-06-10 | 2026-06-13 |
 | **put off** | 使失去兴趣，使反感 | B1 | put someone off | I've played so many interesting games that boring ones put me off. | 3 | active | 2026-06-15 | 2026-06-20 |
 | **a whole bunch of** | 很多，大量 | B1 | a whole bunch of tests | I have played a whole bunch of interesting games. | 3 | active | 2026-06-15 | 2026-06-20 |
 | **accident** | 事故，意外 | A2 ⭐ | car accident / by accident | I haven't played tennis since my accident. | 3 | active | 2026-06-16 | 2026-06-21 |
+| **launch** | 推出，发布（产品） | **B1** ⭐ | launch a new product | I have launched three applications since January. | 3 | active | 2026-06-17 | 2026-06-22 |
+| **packaging** | 包装 | **B1** ⭐ | packaging details / packaging design | I like the packaging design of this box. | 3 | active | 2026-06-17 | 2026-06-22 |
+| **appreciate** | 感谢，重视 | **B1** ⭐ | I would appreciate it if... | I would appreciate it if you could help me. | 2 | active | 2026-06-17 | 2026-06-20 |
 
 ## Review Vocabulary
 
