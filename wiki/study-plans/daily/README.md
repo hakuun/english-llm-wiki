@@ -34,6 +34,8 @@ Use this folder as the single home for daily guided study pages.
 - [[study-plans/daily/2026-06-09]] — Reading day + first proactive grammar lesson: present perfect vs past simple, vocabulary review.
 - [[study-plans/daily/2026-06-15]] — Listening Day 2: shadowing + retelling "Why are some animals black and white?" + of + gerund spot check.
 - [[study-plans/daily/2026-06-16]] — Proactive grammar #2: present perfect for/since + sentence scaffolding.
+- [[study-plans/daily/2026-06-17]] — Reading day: A2-B1 workplace email, want to do repair, for/since spot check.
+- [[study-plans/daily/2026-06-18]] — Proactive grammar #3: have been vs have gone (present perfect lesson 3).
 
 ## Learner input rule
 

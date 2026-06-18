@@ -1,5 +1,13 @@
 # English LLM Wiki Log
 
+## [2026-06-18] study-plan | ⭐ Proactive grammar #3 — have been vs have gone（直击 gone/been 混淆）
+
+Created `wiki/study-plans/daily/2026-06-18.md` as a 30-minute proactive grammar day. Main elements: (1) ⭐ **前摄语法 #3** — have been vs have gone（Oxford A-level source, 到现在完成时第 3 课），直接解决 06-16 `I never gone Hong Kong` 的 gone/been 混淆； (2) 🔴 **want to do 抽查** — 1 题（第 2 次连续正确目标）； (3) 📝 **不规则动词小抄** — go→gone/been, do→done, get→got； (4) 🆕 **appreciate 结构轻提醒** — 15 秒扫一眼 `it if` 万能句式； (5) 🔑 **Output** — Option A 填空 / Option B 用 been/gone 写 3 句自己经历 + 复习 since/for。
+
+Source: A-level Oxford grammar. Pattern: proactive grammar day.
+
+**Tomorrow (2026-06-19)**: 视今天 want to do 和 been/gone 掌握情况决定。如果 been/gone 规则掌握良好 + want to do 第 2 次连续正确 → 回到 📖 阅读日（source-notes 下一篇阅读材料）。
+
 ## [2026-06-17] daily-study | Completed reading day — want to do 核心修复成功 + for/since 稳定 + 3 个 B1 新词
 
 Corrected `wiki/study-plans/daily/2026-06-17.md` after completion. Key findings:
