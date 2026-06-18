@@ -1,5 +1,27 @@
 # English LLM Wiki Log
 
+## [2026-06-18] daily-study | Completed proactive grammar #3 — been vs gone 8/8 + want to do 第 2 次连续正确 + Q7 型回退
+
+Corrected `wiki/study-plans/daily/2026-06-18.md` after completion. Key findings:
+
+1. 🎉 **been vs gone 规则完全掌握！** — Part C 选择 5/5 + Part D 改错 3/3 + Part A 自述正确 = controlled practice 8/8。自由输出中 been/gone 选择 3/3 全对。直击 06-16 `I never gone Hong Kong` → 今天 Part D Q2 正确改为 `I have never been to Hong Kong` ✅。
+
+2. 🎉 **want to do 连续第 2 次正确！** — 正确识别 `needs finish` 缺 to，改正中保留 needs 的 -s，比 06-17 更进一步（06-17 误删了 wants 的 -s）。再 1 次即可降为每周抽查。
+
+3. 🔴 **Q7 型回退！** — 现在完成时 + 具体时间 在自由输出中出现了 2 次：`I have been to Beijing last year`（Part E 句 1 + Option B 句 1）。06-10 修复过，时隔 8 天再次出现。明天必须专项修复。
+
+4. 📖 **Option A 填空 4/4 ✅**。自由造句（Option B）句子骨架全部正确（主语+动词、been/gone 选择、现在完成时形式），问题集中在细节：Q7 型时间冲突、listen to 缺 to、there is vs it is 混淆、拼写（sation→station, poadcast→podcast）。
+
+5. 🆕 **新观察 #10 listen + to** — `listened podcast` → `listened to a podcast`。和 appreciate 结构（06-17）同类：中英文动宾结构差异。先观察。
+
+6. 🆕 **新观察 #11 there is vs it is** — `there is very clean` → `It was very clean`。首次出现，观察中。
+
+7. 📝 **不规则动词**：go→been/gone ✅, do→done, get→got 入小抄。
+
+**Wiki updates**：`[[profile/error-patterns]]`（want/need + to do → improving, 第 2 次连续），`[[profile/weak-points]]`（#7b improving, #7 Q7 型重新激活, #10 listen+to, #11 there is vs it is），`[[grammar/present-perfect-plan]]`（#5 been/gone 完成记录），`[[active-learning]]`（明天 → reactive 阅读日 + Q7 型修复）。
+
+**Tomorrow (2026-06-19)**：🔴 Q7 型专项修复 + 📖 阅读日（"English course prospectus" A2-B1）+ 🔴 want to do 第 3 次连续正确目标。
+
 ## [2026-06-18] study-plan | ⭐ Proactive grammar #3 — have been vs have gone（直击 gone/been 混淆）
 
 Created `wiki/study-plans/daily/2026-06-18.md` as a 30-minute proactive grammar day. Main elements: (1) ⭐ **前摄语法 #3** — have been vs have gone（Oxford A-level source, 到现在完成时第 3 课），直接解决 06-16 `I never gone Hong Kong` 的 gone/been 混淆； (2) 🔴 **want to do 抽查** — 1 题（第 2 次连续正确目标）； (3) 📝 **不规则动词小抄** — go→gone/been, do→done, get→got； (4) 🆕 **appreciate 结构轻提醒** — 15 秒扫一眼 `it if` 万能句式； (5) 🔑 **Output** — Option A 填空 / Option B 用 been/gone 写 3 句自己经历 + 复习 since/for。
