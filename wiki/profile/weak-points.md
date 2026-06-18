@@ -127,7 +127,7 @@ Next action:
 - Each daily page should choose only 1-2 grammar/error focuses.
 - Avoid broad grammar study without immediate sentence practice.
 
-### 7. Proactive grammar — 现在完成时第一课完成 + Q7 型巩固成功
+### 7. Proactive grammar — 现在完成时三课完成 + Q7 型回退 🔴
 
 Evidence:
 
@@ -135,10 +135,13 @@ Evidence:
 - **掌握得很好**：时间信号词判断（since/for → 现在完成时，last year/in 2023 → 一般过去时）— 4/4 全对。
 - **需要巩固**：现在完成时 + 具体过去时间混用（Q7: `I have started...last month` 判为正确）。
 - 2026-06-10：**Q7 型巩固 2/2 全对 ✅** — "现在完成时不能和具体时间连用"规则已内化。Q3 `has visited Beijing in 2019` → 正确判错 + 改正 ✅，Q4 `have bought...yesterday` → 正确判错 + 改正 ✅。
+- 2026-06-16：第二课 for/since 完成 ✅。for/since 选择 4/4。
+- 2026-06-18：第三课 been/gone 完成 ✅。controlled 8/8。
+- 🔴 **2026-06-18：Q7 型回退！** — 自由输出中 2 次出现 `I have been to Beijing last year`。06-10 修复后时隔 8 天再次出现。说明 controlled practice OK 但 free production 不稳定。
 
-Next action: 明天 1 题间隔抽查 Q7 型（间隔 1 天后抽查效果更好）。下次 proactive grammar 课（预计 2-4 天后）继续 present perfect #2（for/since 时长用法或 have you ever 疑问句）。
+Next action: 明天 Q7 型专项修复（1 题改错 + 1 题造句，复用 06-10 的修复方法）。
 
-### 7b. want to do / need to do — 不定式 to 缺失 → 🟡 improving（to 已修复，继续观察）
+### 7b. want to do / need to do — 不定式 to 缺失 → 🟡 improving（to 已修复，连续第 2 次正确）
 
 Evidence:
 
@@ -147,8 +150,9 @@ Evidence:
 - 2026-06-10：Q1 `need to practice` 正确 ✅ — 第 3 次出现正确
 - 2026-06-16：`want get around` → `want to get around` ❌ — **第 4 次回退！** 时隔 6 天再次遗漏 to。
 - 2026-06-17：`He wants improve` → 正确识别缺 to ✅，改为 `He want to improve`（to 加了 ✅，但误删了 wants 的 -s ⚠️）。核心错误（缺 to）已修复——第 1 次连续正确。
+- 2026-06-18：`She needs finish` → `She needs to finish` ✅。to 加了 + 保留了 needs 的 -s，比 06-17 更进一步。第 2 次连续正确。
 
-Next action: 每周 1-2 题抽查继续，直到连续 3 次正确。三单 -s 误删是次要问题，不影响 to-pattern 评估。`[[profile/error-patterns]]` 状态已更新为 improving。
+Next action: 每周 1-2 题抽查继续，直到连续 3 次正确。再 1 次即可降频。`[[profile/error-patterns]]` 状态已更新为 improving。
 
 ### 7c. 介词 + gerund（of + doing）— ✅ 已修复
 
@@ -189,7 +193,7 @@ Evidence:
 
 Next action: 继续在输出题中使用「主语+动词」引导步骤。如果接下来 2-3 次 daily page 句子结构持续稳定，可以将 scaffolding 从必做改为可选（只在学习者需要时使用）。
 
-### 9. 🆕 appreciate 后接名词 vs 人+动词结构 — 新观察（Chinglish 结构类）
+### 9. 🆕 appreciate 后接名词 vs 人+动词结构 — 观察中（Chinglish 结构类）
 
 Evidence:
 
@@ -199,7 +203,28 @@ Evidence:
 
 推荐简单方案：`I would appreciate it if you could...`（用 `it` 占位 + `if` 从句），比 `appreciate + 名词` 更容易用。
 
-Next action: 先观察，如果明天再次出现再立为独立 error pattern。下次输出中给一个轻量提醒即可。
+Next action: 先观察，06-18 未出现（语法日，未使用 appreciate）。继续轻量观察。
+
+### 10. 🆕 listen + to（不及物动词 + 介词）— 新观察（中英文动宾结构差异）
+
+Evidence:
+
+- 2026-06-18：Option B 句 3 `She has listened podcast for 30 minutes.` → 应为 `listened **to a** podcast`。首次暴露。
+
+`listen` 是不及物动词，后面必须加 `to`：listen to music, listen to a podcast。这和中文"听音乐"的结构不一样——中文直接及物，英语需要介词桥梁。与 appreciate 结构（06-17）、hope + clause（已修复）属于同类中英文动宾结构差异。
+
+Next action: 先观察，如果在后续输出中重复出现再立为独立 error pattern。下次有 listen 相关的输出时给轻量提醒。
+
+### 11. 🆕 there is vs it is — 新观察（首次出现）
+
+Evidence:
+
+- 2026-06-18：Option B 句 1 `I have been to Beijing last year, there is very clean.` → 应为 `It was very clean.`。首次暴露。
+
+- `There is/are + 名词` = 某地存在某物：There is a park near my home.
+- `It is + 形容词` = 它很……：It is very clean.
+
+Next action: 首次出现，先观察。可能是自由输出时的临时表达尝试，不是系统性错误。
 
 ## Weekly review questions
 
