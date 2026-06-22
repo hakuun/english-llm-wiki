@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "661c5db9181d8482",
+        "id": "593f166d44009887",
         "type": "tabs",
         "children": [
           {
-            "id": "4c94c596b69e1f4b",
+            "id": "34e4ba9ff64bec5b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "wiki/study-plans/weekly-plan.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "weekly-plan"
+              "title": "新标签页"
             }
           }
         ]
@@ -183,12 +179,14 @@
       "bases:新建数据库": false
     }
   },
-  "active": "4c94c596b69e1f4b",
+  "active": "34e4ba9ff64bec5b",
   "lastOpenFiles": [
+    "wiki/study-plans/weekly-plan.md",
+    "wiki/study-plans/daily/2026-06-22.md",
+    "wiki/study-plans/daily/2026-06-22.md.tmp.1616.c906f481e10e",
     "wiki/study-plans/monthly-plan.md",
     "wiki/study-plans/knowledge-base-study-workflow.md",
     "wiki/study-plans/yearly-roadmap.md",
-    "wiki/study-plans/weekly-plan.md",
     "wiki/active-learning.md",
     "wiki/active-learning.md.tmp.1616.8a54ede7cedf",
     "wiki/active-learning.md.tmp.1616.a12fb3e118b1",
@@ -201,7 +199,6 @@
     "wiki/profile/weak-points.md.tmp.7040.8d9b0ebdedcb",
     "wiki/grammar/present-perfect-plan.md.tmp.7040.97a416ec0020",
     "wiki/log.md.tmp.7040.7ef2622b1ba7",
-    "wiki/study-plans/daily/2026-06-18.md.tmp.7040.bf3c5156dc08",
     "wiki/study-plans/daily/2026-06-09.md",
     "wiki/study-plans/daily/2026-06-17.md",
     "wiki/study-plans/daily/2026-06-06.md",
@@ -219,7 +216,6 @@
     "wiki/source-notes/listening-time-a1-practice-pack.md",
     "wiki/source-notes/listening-time-podcast-episode-1.md",
     "wiki/source-notes/bbc-real-easy-english-talking-about-the-beach.md",
-    "wiki/source-notes/bbc-real-easy-english-talking-about-fruit.md",
-    "wiki/roadmap.md"
+    "wiki/source-notes/bbc-real-easy-english-talking-about-fruit.md"
   ]
 }
