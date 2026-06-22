@@ -1,5 +1,37 @@
 # English LLM Wiki Log
 
+## [2026-06-22] weekly-review | 周学习复盘 — 上周 3/7 天学习，Q7 型回退 + 听力空白 + 恢复计划
+
+完成周学习复盘（覆盖 06-16 ~ 06-22）。Summary:
+
+### 完成情况
+- **学习天数**：3/7（06-16/17/18），06-19 ~ 06-22 共 4 天空白 ❌。
+- **输入分布**：语法 2 天（for/since + been/gone）+ 阅读 1 天（email request for help）+ 听力 0 天。
+
+### 核心成果
+1. 🎉 for/since 规则完全掌握（4/4 + 1/1 连续 2 次正确）
+2. 🎉 been vs gone 8/8 controlled perfect + free output 3/3 全对
+3. 🎉 want to do 连续 2 次正确（06-17 加 to + 06-18 加 to 且保留 -s），距闭合只差 1 次
+4. 🟢 句子骨架引导连续 3 天有效
+5. 📗 +3 B1 新词（launch, packaging, appreciate），B1 词累计 14 个
+
+### 核心问题
+1. 🔴 **Q7 型回退** — 现在完成时 + 具体时间混用 ×2（06-18 free output），06-10 修复后时隔 8 天再次出现。这是本周最需修复的单项。
+2. 🆕 listen + to（不及物动词 + 介词），首次暴露。
+3. 🆕 there is vs it is，首次暴露。
+4. 📊 语法密度过高（2/3 天 grammar），听力完全缺失（1 周+）。
+5. 📊 13 个词已到期或即将到期（4 天空白积压）。
+
+### 本周方向（06-23 ~ 06-29）
+- 🔴 P0: Q7 型专项修复（1-2 天，复用 06-10 方法）
+- 🔴 P1: want to do 第 3 次连续正确闭合
+- 🎧 听力重新启动（优先轻松热身材料）
+- 📖 恢复阅读节奏（"English course prospectus" A2-B1）
+- 📝 到期词分批回顾（每页 3-4 词）
+- 🎯 目标 ≥5 学习天，阅读:语法 ≥3:1
+
+**Wiki updates**：`[[study-plans/weekly-plan]]`（完整重写，上周回顾 + 本周方向）。`[[profile/weak-points]]` 内容已在上次完成时更新，本次无需额外改动。
+
 ## [2026-06-18] daily-study | Completed proactive grammar #3 — been vs gone 8/8 + want to do 第 2 次连续正确 + Q7 型回退
 
 Corrected `wiki/study-plans/daily/2026-06-18.md` after completion. Key findings:

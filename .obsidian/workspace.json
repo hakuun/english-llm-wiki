@@ -4,35 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "3f5bc1bdd1781f0b",
+        "id": "661c5db9181d8482",
         "type": "tabs",
         "children": [
           {
-            "id": "b26e4ac073a5b8a9",
+            "id": "4c94c596b69e1f4b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiki/study-plans/daily/2026-06-18.md",
+                "file": "wiki/study-plans/weekly-plan.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-06-18"
-            }
-          },
-          {
-            "id": "916cfaadfb87e080",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "raw/inbox/6 Minute English  Why are some animals black and white.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "6 Minute English  Why are some animals black and white"
+              "title": "weekly-plan"
             }
           }
         ]
@@ -197,8 +183,18 @@
       "bases:新建数据库": false
     }
   },
-  "active": "b26e4ac073a5b8a9",
+  "active": "4c94c596b69e1f4b",
   "lastOpenFiles": [
+    "wiki/study-plans/monthly-plan.md",
+    "wiki/study-plans/knowledge-base-study-workflow.md",
+    "wiki/study-plans/yearly-roadmap.md",
+    "wiki/study-plans/weekly-plan.md",
+    "wiki/active-learning.md",
+    "wiki/active-learning.md.tmp.1616.8a54ede7cedf",
+    "wiki/active-learning.md.tmp.1616.a12fb3e118b1",
+    "wiki/log.md.tmp.1616.5a5096aac628",
+    "raw/inbox/6 Minute English  Why are some animals black and white.md",
+    "wiki/study-plans/daily/2026-06-18.md",
     "wiki/active-learning.md.tmp.7040.80b4222c4a15",
     "wiki/profile/weak-points.md.tmp.7040.92b062f6b7d8",
     "wiki/profile/weak-points.md.tmp.7040.846b35d5bc62",
@@ -207,8 +203,6 @@
     "wiki/log.md.tmp.7040.7ef2622b1ba7",
     "wiki/study-plans/daily/2026-06-18.md.tmp.7040.bf3c5156dc08",
     "wiki/study-plans/daily/2026-06-09.md",
-    "wiki/study-plans/daily/2026-06-18.md",
-    "wiki/active-learning.md.tmp.7040.c75578530ce3",
     "wiki/study-plans/daily/2026-06-17.md",
     "wiki/study-plans/daily/2026-06-06.md",
     "wiki/study-plans/daily/2026-06-03.md",
@@ -220,20 +214,12 @@
     "wiki/study-plans/daily/2026-06-12.md",
     "wiki/study-plans/daily/2026-06-15.md",
     "wiki/study-plans/daily/2026-06-16.md",
-    "wiki/log.md.tmp.5824.89fa3404d4f5",
-    "wiki/active-learning.md.tmp.5824.b4d8e28633d7",
-    "wiki/profile/weak-points.md.tmp.5824.09e904972da9",
     "CLAUDE.md",
     "wiki/source-notes/listening-time-a2-practice-pack.md",
     "wiki/source-notes/listening-time-a1-practice-pack.md",
     "wiki/source-notes/listening-time-podcast-episode-1.md",
     "wiki/source-notes/bbc-real-easy-english-talking-about-the-beach.md",
     "wiki/source-notes/bbc-real-easy-english-talking-about-fruit.md",
-    "wiki/roadmap.md",
-    "raw/inbox/A2 English Listening Practice - Clothes and Fashion.md",
-    "raw/inbox/A2 English Listening Practice - Seasons.md",
-    "raw/inbox/A2 English Listening Practice - Sports.md",
-    "raw/inbox/A2 English Listening Practice - Travel.md",
-    "raw/inbox/A1 English Listening Practice - Social Media Apps.md"
+    "wiki/roadmap.md"
   ]
 }

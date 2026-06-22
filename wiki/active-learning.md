@@ -52,8 +52,8 @@ Use this section to hold candidates for the next daily page.
 
 ### Input candidates
 
-- **Reading**: Choose one short A2-B1 text from [[source-notes/british-council-a2-b1-reading-pack]] or [[source-notes/british-council-b1-reading-pack-2]]. Prefer A2-level texts for now. **Next up**: "English course prospectus" (A2-B1) 或 "An email request for help" (A2-B1)，视 06-12 难度反馈决定。
-- **Listening** (2-day cycle): ✅ "Talking about books" (A2-B1) — 2 天循环完成（06-07 ~ 06-08）。✅ "Why are some animals black and white?" (B1-B2) — 2 天循环完成（06-12 ~ 06-15）。**下一篇**: "Making cities feel quieter" (B1-B2) 或回到阅读日。
+- **Reading**: Choose one short A2-B1 text from [[source-notes/british-council-a2-b1-reading-pack]] or [[source-notes/british-council-b1-reading-pack-2]]. Prefer A2-level texts for now. ✅ "An email request for help" (06-17) — 已完成。**Next up**: "English course prospectus" (A2-B1) — 06-18 原计划但未执行，本周优先使用。
+- **Listening** (2-day cycle): ✅ "Talking about books" (A2-B1) — 2 天循环完成（06-07 ~ 06-08）。✅ "Why are some animals black and white?" (B1-B2) — 2 天循环完成（06-12 ~ 06-15）。**下一步**: 4 天空白后听力习惯需恢复 → 优先轻松热身（Real Easy English "Talking about fruit" A1-A2 或 Listening Time A2 5-min 视频），再进入 "Making cities feel quieter" (B1-B2)。
 - **Listening 热身/缓冲** (5 min, 不占完整循环): [[source-notes/listening-time-a1-practice-pack]] (A1) / [[source-notes/listening-time-a2-practice-pack]] (A2) — 可在 BBC 听力材料之间或阅读日作为轻松热身。
 - **Real Easy English 桥梁**: [[source-notes/bbc-real-easy-english-talking-about-fruit]] (A1-A2) / [[source-notes/bbc-real-easy-english-talking-about-the-beach]] (A1-A2) — 当 6 Minute English 偏难时用作"轻松回弹"听力材料。
 - **未来材料**: [[source-notes/listening-time-podcast-episode-1]] (A2-B1, ~25 min) — B1 听力基础扎实后开始定期使用。
@@ -69,10 +69,7 @@ Use this section to hold candidates for the next daily page.
 
 - Choose 1-2 items from [[profile/error-patterns]] or [[profile/weak-points]].
 - **When daily errors are light (0-1 items)**: introduce one proactive grammar point from [[grammar/present-perfect-plan]] instead of adding new reading/listening material.
-- **Current（06-16 完成后 → 06-17）**: 🔴 want to do 回退（1 题修复）+ 🔄 for/since 间隔抽查（1 题）+ 📝 不规则动词提醒（write→written, eat→eaten, know→known）。1-2 个 repair items → **reactive 模式**，回到 📖 阅读日。
-- **06-17 计划已生成**: `[[study-plans/daily/2026-06-17]]` — 📖 阅读日 "An email request for help"（A2-B1 职场邮件）。Repair: want to do + for/since 抽查。4 个到期词（practice, fiction, poem, prefer）。新词：launch (B1), packaging (B1), appreciate (B1)。Output: 句子模仿 + 可选微邮件写作。
-- **Current（06-17 完成后 → 06-18）**: 🎉 want to do 核心修复成功（to 加上了 ✅，第 1 次连续正确）+ for/since 连续 2 次正确 ✅ + 句子骨架引导持续有效 ✅。0-1 个 structural repair items → **触发 proactive grammar**。⭐ **前摄语法 #3 已生成**: have been vs have gone（直击 06-16 `I never gone HK` 混淆）— `[[study-plans/daily/2026-06-18]]`
-- **Current（06-18 完成后 → 06-19）**: 🎉 been vs gone 规则 8/8 完全掌握 ✅ + want to do 连续第 2 次正确 ✅。但 🔴 **Q7 型回退**（现在完成时 + 具体时间，×2 次自由输出）。1 个重要 repair item → **reactive 模式**，回到 📖 **阅读日** + Q7 型专项修复。下一篇阅读："English course prospectus"（A2-B1）。继续 want to do 抽查（第 3 次连续正确目标）+ 不规则动词小抄换新。
+- **Current（06-22 周复盘后 → 06-23）**: 4 天空白后恢复学习。🔴 **Q7 型专项修复**（现在完成时 + 具体时间混用，06-18 free output ×2，06-10 修复后 8 天回退）+ 🔴 **want to do 第 3 次连续正确**（1 题抽查，闭合目标）+ 📝 **到期词分批回顾**（13 词已到期/将到期，每页 3-4 词）+ 📝 **不规则动词小抄换新**。1 个重要 repair item → **reactive 模式**，回到 📖 **阅读日**。下一篇阅读："English course prospectus"（A2-B1）。具体见 `[[study-plans/weekly-plan]]` 本周方向。
 
 ### Output candidates
 
