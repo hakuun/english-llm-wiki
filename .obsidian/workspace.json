@@ -11,10 +11,14 @@
             "id": "34e4ba9ff64bec5b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "wiki/study-plans/daily/2026-06-22.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "2026-06-22"
             }
           }
         ]
@@ -49,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#7b",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -70,7 +74,8 @@
               "title": "书签"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -179,8 +184,18 @@
       "bases:新建数据库": false
     }
   },
-  "active": "34e4ba9ff64bec5b",
+  "active": "fa9489022ac017c5",
   "lastOpenFiles": [
+    "wiki/active-learning.md.tmp.8664.ac4dedfa293e",
+    "wiki/log.md.tmp.8664.3383100762c7",
+    "wiki/profile/weak-points.md.tmp.8664.ff7969267537",
+    "wiki/profile/weak-points.md.tmp.8664.f4ac85100f35",
+    "wiki/profile/error-patterns.md.tmp.8664.d8998c46be89",
+    "wiki/vocabulary/vocabulary-review.md.tmp.8664.bb93a47e1b6a",
+    "wiki/vocabulary/vocabulary-review.md.tmp.8664.ba06f9e08fac",
+    "wiki/study-plans/daily/2026-06-22.md.tmp.8664.c4abc4da819e",
+    "wiki/study-plans/daily/2026-06-22.md.tmp.8664.a9e3a61de407",
+    "wiki/study-plans/daily/2026-06-22.md.tmp.8664.c2803f36a27a",
     "wiki/study-plans/weekly-plan.md",
     "wiki/study-plans/daily/2026-06-22.md",
     "wiki/study-plans/daily/2026-06-22.md.tmp.1616.c906f481e10e",
@@ -188,17 +203,8 @@
     "wiki/study-plans/knowledge-base-study-workflow.md",
     "wiki/study-plans/yearly-roadmap.md",
     "wiki/active-learning.md",
-    "wiki/active-learning.md.tmp.1616.8a54ede7cedf",
-    "wiki/active-learning.md.tmp.1616.a12fb3e118b1",
-    "wiki/log.md.tmp.1616.5a5096aac628",
     "raw/inbox/6 Minute English  Why are some animals black and white.md",
     "wiki/study-plans/daily/2026-06-18.md",
-    "wiki/active-learning.md.tmp.7040.80b4222c4a15",
-    "wiki/profile/weak-points.md.tmp.7040.92b062f6b7d8",
-    "wiki/profile/weak-points.md.tmp.7040.846b35d5bc62",
-    "wiki/profile/weak-points.md.tmp.7040.8d9b0ebdedcb",
-    "wiki/grammar/present-perfect-plan.md.tmp.7040.97a416ec0020",
-    "wiki/log.md.tmp.7040.7ef2622b1ba7",
     "wiki/study-plans/daily/2026-06-09.md",
     "wiki/study-plans/daily/2026-06-17.md",
     "wiki/study-plans/daily/2026-06-06.md",
@@ -215,7 +221,6 @@
     "wiki/source-notes/listening-time-a2-practice-pack.md",
     "wiki/source-notes/listening-time-a1-practice-pack.md",
     "wiki/source-notes/listening-time-podcast-episode-1.md",
-    "wiki/source-notes/bbc-real-easy-english-talking-about-the-beach.md",
-    "wiki/source-notes/bbc-real-easy-english-talking-about-fruit.md"
+    "wiki/source-notes/bbc-real-easy-english-talking-about-the-beach.md"
   ]
 }

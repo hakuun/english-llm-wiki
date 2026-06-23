@@ -69,7 +69,7 @@ Use this section to hold candidates for the next daily page.
 
 - Choose 1-2 items from [[profile/error-patterns]] or [[profile/weak-points]].
 - **When daily errors are light (0-1 items)**: introduce one proactive grammar point from [[grammar/present-perfect-plan]] instead of adding new reading/listening material.
-- **Current（06-22 周复盘后 → 06-23）**: 4 天空白后恢复学习。🔴 **Q7 型专项修复**（现在完成时 + 具体时间混用，06-18 free output ×2，06-10 修复后 8 天回退）+ 🔴 **want to do 第 3 次连续正确**（1 题抽查，闭合目标）+ 📝 **到期词分批回顾**（13 词已到期/将到期，每页 3-4 词）+ 📝 **不规则动词小抄换新**。1 个重要 repair item → **reactive 模式**，回到 📖 **阅读日**。下一篇阅读："English course prospectus"（A2-B1）。具体见 `[[study-plans/weekly-plan]]` 本周方向。
+- **Current（06-22 完成后 → 06-23）**: 🎉 **want to do 闭合！** 连续 3 次正确，降为每月抽查。🔴 **Q7 型今日 2/2 全对**，明天 1 题轻量确认（再稳一次可降频）。📝 **到期词继续分批回顾**（下一批 3-4 词：put off, a whole bunch of, accident, improve, recommend 等）。📝 **不规则动词小抄换新**（make/take/come → 新 3 个动词）。📖 **阅读日** — 下一篇 British Council A2-B1 阅读，或 🎧 **听力启动**（距上次听力已 1 周+，可用 Real Easy English 热身）。具体见 `[[study-plans/weekly-plan]]` 本周方向。
 
 ### Output candidates
 

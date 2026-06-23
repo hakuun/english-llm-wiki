@@ -1,5 +1,25 @@
 # English LLM Wiki Log
 
+## [2026-06-22] daily-study | Completed reading day — Q7型修复 2/2 + want to do 第3次连续正确闭合 🎉
+
+Corrected `wiki/study-plans/daily/2026-06-22.md` after completion. Key findings:
+
+1. 🎉 **Q7 型专项修复 2/2 全对！** — 改错正确（去掉 last weekend）+ 造句对比正确（past simple + yesterday / present perfect 不加时间）。4 天空白后规则重新激活。
+
+2. 🎉 **want to do 连续第 3 次正确 → 正式闭合！** — `wants visit` → `wants to visit`，to 加了且三单 -s 保留。06-17 → 06-18 → 06-22 连续 3 次正确。降为每月抽查。`[[profile/error-patterns]]` 已标记为 resolved。
+
+3. 📖 **阅读理解 3/4** — Q4 细节判断题选错（Intensive course 是 5 天不是 4 天）。Q1-Q3 全部正确。
+
+4. 🔄 **3 个到期词回顾** — appreciate（it if 结构完美 ✅，L2→L3）、get around（用法正确 ✅）、launch（have launched ✅）。新词选了 General（A1，太基础）。
+
+5. 🟡 **输出细节问题** — Option B 比较句缺 be 动词（`Three Schools English more expensive` → missing `is`）、物主代词混淆（`they teachers` → `their teachers`）、because 大写。句子骨架 scaffolding 继续有效（主语+动词找对了），问题集中在比较句句法和代词。
+
+6. 📝 **不规则动词小抄** — make/take/come 扫了一眼。
+
+**Wiki updates**：`[[vocabulary/vocabulary-review]]`（3 词→review），`[[profile/error-patterns]]`（want/need + to do → resolved），`[[profile/weak-points]]`（#7 Q7型 1/2修复 + #7b want to do resolved + #8 比较句缺 be 动词新观察 + they/their），`[[active-learning]]`（明天 → Q7 轻量确认 + 到期词继续）。
+
+**Tomorrow (2026-06-23)**：Q7 型轻量确认（1 题）+ 到期词下一批（3-4 词）+ 不规则动词小抄换新 + 📖 阅读或 🎧 听力 Day 1。
+
 ## [2026-06-22] weekly-review | 周学习复盘 — 上周 3/7 天学习，Q7 型回退 + 听力空白 + 恢复计划
 
 完成周学习复盘（覆盖 06-16 ~ 06-22）。Summary:

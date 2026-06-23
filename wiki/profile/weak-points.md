@@ -138,10 +138,11 @@ Evidence:
 - 2026-06-16：第二课 for/since 完成 ✅。for/since 选择 4/4。
 - 2026-06-18：第三课 been/gone 完成 ✅。controlled 8/8。
 - 🔴 **2026-06-18：Q7 型回退！** — 自由输出中 2 次出现 `I have been to Beijing last year`。06-10 修复后时隔 8 天再次出现。说明 controlled practice OK 但 free production 不稳定。
+- 2026-06-22：**Q7 型专项修复 2/2 全对 ✅** — 改错正确（去掉 last weekend）+ 造句对比正确（past simple + yesterday / present perfect 不加时间）。规则重新激活。还需 1 次确认。
 
-Next action: 明天 Q7 型专项修复（1 题改错 + 1 题造句，复用 06-10 的修复方法）。
+Next action: 明天 Q7 型轻量确认（1 题抽查），如果再次正确可降频。
 
-### 7b. want to do / need to do — 不定式 to 缺失 → 🟡 improving（to 已修复，连续第 2 次正确）
+### 7b. want to do / need to do — 不定式 to 缺失 → ✅ 已修复（连续 3 次正确，闭合！）
 
 Evidence:
 
@@ -151,8 +152,9 @@ Evidence:
 - 2026-06-16：`want get around` → `want to get around` ❌ — **第 4 次回退！** 时隔 6 天再次遗漏 to。
 - 2026-06-17：`He wants improve` → 正确识别缺 to ✅，改为 `He want to improve`（to 加了 ✅，但误删了 wants 的 -s ⚠️）。核心错误（缺 to）已修复——第 1 次连续正确。
 - 2026-06-18：`She needs finish` → `She needs to finish` ✅。to 加了 + 保留了 needs 的 -s，比 06-17 更进一步。第 2 次连续正确。
+- 2026-06-22：`He wants visit` → `He wants to visit` ✅。to 加了 + 保留了 wants 的 -s。**第 3 次连续正确，闭合目标达成！**
 
-Next action: 每周 1-2 题抽查继续，直到连续 3 次正确。再 1 次即可降频。`[[profile/error-patterns]]` 状态已更新为 improving。
+Next action: 降为每月抽查 1 次。`[[profile/error-patterns]]` 已标记为 resolved。
 
 ### 7c. 介词 + gerund（of + doing）— ✅ 已修复
 
@@ -190,8 +192,9 @@ Evidence:
 - 2026-06-15 复述：free production 句子骨架缺失。
 - 2026-06-16：首次加入「主语+动词」步骤。句 1 结构 100% 正确（have written code since 2019），句 2 主语+动词找对了。
 - 2026-06-17：Option B 仿写 3 句全部用了「主语+动词」步骤。句 1 主语/动词正确（I/appreciate），句 2 结构完整正确，句 3 现在完成时 + since 结构 100% 正确。**连续 2 天使用 scaffolding 后，句子结构稳定性明显提高。**
+- 2026-06-22：主语+动词继续找对 ✅（Three Schools English / You / choose）。**新发现：比较句缺 be 动词** — `Three Schools English more expensive than...` 缺少 is。中文比较句没有"是"字，所以英文写 `A is more expensive than B` 时特别容易漏 is。同时暴露物主代词 they/their 混淆（`they teachers` → `their teachers`）。
 
-Next action: 继续在输出题中使用「主语+动词」引导步骤。如果接下来 2-3 次 daily page 句子结构持续稳定，可以将 scaffolding 从必做改为可选（只在学习者需要时使用）。
+Next action: 继续使用「主语+动词」引导步骤。比较句加入轻量提醒：`___ is more ___ than ___` 模板，is 不能省。they vs their 在后续批改中纠正，暂不立专项。
 
 ### 9. 🆕 appreciate 后接名词 vs 人+动词结构 — 观察中（Chinglish 结构类）
 
