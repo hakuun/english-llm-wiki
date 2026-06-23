@@ -33,41 +33,42 @@ The learner does not need to assign exact scores. The daily page asks for `hard 
 
 ## Active Vocabulary
 
-| word | meaning | cefr | phrase | example | level | status | last_seen | next_review |
-|---|---|---|---|---|---|---|---|
-| improve | 提高，改善 | A1 | improve my English | I want to improve my English. | 3 | review | 2026-06-16 | 2026-06-23 |
-| material | 材料 | A2 | learning materials | These materials are useful. | 3 | review | 2026-06-09 | 2026-06-16 |
-| since | 自从 | A2 | since 2020 | I have been working since 2020. | 2 | active | 2026-05-26 | 2026-06-03 |
-| get lost | 迷路 | A1/A2 | if you get lost | Call me if you get lost. | 3 | review | 2026-05-28 | 2026-06-05 |
-| looking forward to | 期待 | A2 | looking forward to seeing you | I'm looking forward to seeing you. | 2 | active | 2026-06-09 | 2026-06-12 |
-| dirt | 灰尘，污垢 | B1 | a lot of dirt | There is a lot of dirt on my glasses. | 3 | review | 2026-06-02 | 2026-06-09 |
-| **weigh** | 重，有……重量 | B1 | weigh no more than | My suitcase weighs 10kg. | 3 | review | 2026-06-15 | 2026-06-22 |
-| **fit** | 放得下，适合 | A2 | fit under the seat | A small bag can fit under the seat. | 3 | review | 2026-06-03 | 2026-06-10 |
-| hand luggage | 手提行李 | B1/− | take as hand luggage | Passengers can only take one bag as hand luggage. | 2 | review | 2026-06-02 | 2026-06-09 |
-| pay extra | 额外付费 | A1 | will have to pay extra | If your bag is too heavy, you will have to pay extra. | 3 | review | 2026-06-02 | 2026-06-09 |
-| security | 安检 | B1 | pass security | You can buy liquids after you pass security. | 3 | review | 2026-06-02 | 2026-06-09 |
-| **traffic** | 交通 | A1 | traffic can be a nightmare | Bangkok's traffic can be a nightmare. | 2 | review | 2026-06-15 | 2026-06-22 |
-| **get around** | 出行，四处走动 | A1 | ways to get around | I want to get around now, because I have stayed at home all day. | 2 | review | 2026-06-22 | 2026-06-29 |
-| stuck | 被困住的，堵住的 | B1* | stuck in traffic jams | You can spend hours stuck in traffic. | 2 | active | 2026-06-09 | 2026-06-12 |
-| catch (a boat) | 乘坐（船） | A1 | catch an express boat | Catch an express boat along the river. | 2 | review | 2026-06-03 | 2026-06-15 |
-| public transport | 公共交通 | A2 | near public transport | The Skytrain is good public transport. | 2 | review | 2026-06-03 | 2026-06-10 |
-| **recommend** | 推荐，建议 | A2 | recommend ... to sb | I recommend this book to you. | 3 | review | 2026-06-16 | 2026-06-23 |
-| **term** | 学期 | A2 | this term | We have three exams at the end of this term. | 2 | active | 2026-06-09 | 2026-06-12 |
-| **mark** | 分数（名词） | A2 | my math mark | My math mark was 85. | 2 | review | 2026-06-09 | 2026-06-16 |
-| **practice** | 练习（名词） | A1 | more practice | The teacher says I need more speaking practice. | 3 | review | 2026-06-17 | 2026-06-24 |
-| **fiction** | 小说（虚构类） | A2 | fiction books | I like reading fiction. | 3 | review | 2026-06-17 | 2026-06-24 |
-| **poem** | 诗，诗歌 | **B1** ⭐ | short poems | She usually writes poems. | 3 | review | 2026-06-17 | 2026-06-24 |
-| **relaxed** | 放松的，轻松的 | **B1** ⭐ | feel relaxed | I feel relaxed when I read at home. | 2 | active | 2026-06-09 | 2026-06-12 |
-| **prefer** | 更喜欢 | A1 | prefer ... to ... | I prefer reading to watching TV. | 3 | review | 2026-06-17 | 2026-06-24 |
-| **opportunity** | 机会 | B1 ⭐ | look for opportunities | A good language learner always looks for opportunities to talk with other students. | 2 | active | 2026-06-10 | 2026-06-13 |
-| **communicate** | 交流 | B1 ⭐ | communicate with | People use language to communicate with other people. | 3 | active | 2026-06-10 | 2026-06-13 |
-| **imagine** | 想象 | B1 ⭐ | imagine yourself doing | Imagine yourself speaking in the language. | 3 | active | 2026-06-10 | 2026-06-13 |
-| **put off** | 使失去兴趣，使反感 | B1 | put someone off | I've played so many interesting games that boring ones put me off. | 3 | active | 2026-06-15 | 2026-06-20 |
-| **a whole bunch of** | 很多，大量 | B1 | a whole bunch of tests | I have played a whole bunch of interesting games. | 3 | active | 2026-06-15 | 2026-06-20 |
-| **accident** | 事故，意外 | A2 ⭐ | car accident / by accident | I haven't played tennis since my accident. | 3 | active | 2026-06-16 | 2026-06-21 |
-| **launch** | 推出，发布（产品） | **B1** ⭐ | launch a new product | I have launched three applications in one year. | 3 | review | 2026-06-22 | 2026-06-29 |
-| **packaging** | 包装 | **B1** ⭐ | packaging details / packaging design | I like the packaging design of this box. | 3 | active | 2026-06-17 | 2026-06-22 |
-| **appreciate** | 感谢，重视 | **B1** ⭐ | I would appreciate it if... | I would appreciate it if you could help me. | 3 | review | 2026-06-22 | 2026-06-29 |
+| word                 | meaning   | cefr     | phrase                               | example                                                                             | level | status | last_seen  | next_review |
+| -------------------- | --------- | -------- | ------------------------------------ | ----------------------------------------------------------------------------------- | ----- | ------ | ---------- | ----------- |
+| improve              | 提高，改善     | A1       | improve my English                   | I want to improve my English by studying hard every day.                            | 3     | review | 2026-06-23 | 2026-06-30  |
+| material             | 材料        | A2       | learning materials                   | These materials are useful.                                                         | 3     | review | 2026-06-09 | 2026-06-16  |
+| since                | 自从        | A2       | since 2020                           | I have been working since 2020.                                                     | 2     | active | 2026-05-26 | 2026-06-03  |
+| get lost             | 迷路        | A1/A2    | if you get lost                      | Call me if you get lost.                                                            | 3     | review | 2026-05-28 | 2026-06-05  |
+| looking forward to   | 期待        | A2       | looking forward to seeing you        | I'm looking forward to seeing you.                                                  | 2     | active | 2026-06-09 | 2026-06-12  |
+| dirt                 | 灰尘，污垢     | B1       | a lot of dirt                        | There is a lot of dirt on my glasses.                                               | 3     | review | 2026-06-02 | 2026-06-09  |
+| **weigh**            | 重，有……重量   | B1       | weigh no more than                   | My suitcase weighs 10kg.                                                            | 3     | review | 2026-06-15 | 2026-06-22  |
+| **fit**              | 放得下，适合    | A2       | fit under the seat                   | A small bag can fit under the seat.                                                 | 3     | review | 2026-06-03 | 2026-06-10  |
+| hand luggage         | 手提行李      | B1/−     | take as hand luggage                 | Passengers can only take one bag as hand luggage.                                   | 2     | review | 2026-06-02 | 2026-06-09  |
+| pay extra            | 额外付费      | A1       | will have to pay extra               | If your bag is too heavy, you will have to pay extra.                               | 3     | review | 2026-06-02 | 2026-06-09  |
+| security             | 安检        | B1       | pass security                        | You can buy liquids after you pass security.                                        | 3     | review | 2026-06-02 | 2026-06-09  |
+| **traffic**          | 交通        | A1       | traffic can be a nightmare           | Bangkok's traffic can be a nightmare.                                               | 2     | review | 2026-06-15 | 2026-06-22  |
+| **get around**       | 出行，四处走动   | A1       | ways to get around                   | I want to get around now, because I have stayed at home all day.                    | 2     | review | 2026-06-22 | 2026-06-29  |
+| stuck                | 被困住的，堵住的  | B1*      | stuck in traffic jams                | You can spend hours stuck in traffic.                                               | 2     | active | 2026-06-09 | 2026-06-12  |
+| catch (a boat)       | 乘坐（船）     | A1       | catch an express boat                | Catch an express boat along the river.                                              | 2     | review | 2026-06-03 | 2026-06-15  |
+| public transport     | 公共交通      | A2       | near public transport                | The Skytrain is good public transport.                                              | 2     | review | 2026-06-03 | 2026-06-10  |
+| **recommend**        | 推荐，建议     | A2       | recommend ... to sb                  | I would recommend this movie to you.                                                | 3     | review | 2026-06-23 | 2026-06-30  |
+| **term**             | 学期        | A2       | this term                            | We have three exams at the end of this term.                                        | 2     | active | 2026-06-09 | 2026-06-12  |
+| **mark**             | 分数（名词）    | A2       | my math mark                         | My math mark was 85.                                                                | 2     | review | 2026-06-09 | 2026-06-16  |
+| **practice**         | 练习（名词）    | A1       | more practice                        | The teacher says I need more speaking practice.                                     | 3     | review | 2026-06-17 | 2026-06-24  |
+| **fiction**          | 小说（虚构类）   | A2       | fiction books                        | I like reading fiction.                                                             | 3     | review | 2026-06-17 | 2026-06-24  |
+| **poem**             | 诗，诗歌      | **B1** ⭐ | short poems                          | She usually writes poems.                                                           | 3     | review | 2026-06-17 | 2026-06-24  |
+| **relaxed**          | 放松的，轻松的   | **B1** ⭐ | feel relaxed                         | I feel relaxed when I read at home.                                                 | 2     | active | 2026-06-09 | 2026-06-12  |
+| **prefer**           | 更喜欢       | A1       | prefer ... to ...                    | I prefer reading to watching TV.                                                    | 3     | review | 2026-06-17 | 2026-06-24  |
+| **opportunity**      | 机会        | B1 ⭐     | look for opportunities               | A good language learner always looks for opportunities to talk with other students. | 2     | active | 2026-06-10 | 2026-06-13  |
+| **communicate**      | 交流        | B1 ⭐     | communicate with                     | People use language to communicate with other people.                               | 3     | active | 2026-06-10 | 2026-06-13  |
+| **imagine**          | 想象        | B1 ⭐     | imagine yourself doing               | Imagine yourself speaking in the language.                                          | 3     | active | 2026-06-10 | 2026-06-13  |
+| **put off**          | 使失去兴趣，使反感 | B1       | put someone off                      | Lemons are so sour that they put me off.                                            | 3     | active | 2026-06-23 | 2026-06-30  |
+| **a whole bunch of** | 很多，大量     | B1       | a whole bunch of tests               | I have played a whole bunch of interesting games.                                   | 3     | active | 2026-06-15 | 2026-06-20  |
+| **accident**         | 事故，意外     | A2 ⭐     | car accident / by accident           | I haven't played tennis since my accident.                                          | 3     | active | 2026-06-16 | 2026-06-21  |
+| **launch**           | 推出，发布（产品） | **B1** ⭐ | launch a new product                 | I have launched three applications in one year.                                     | 3     | review | 2026-06-22 | 2026-06-29  |
+| **packaging**        | 包装        | **B1** ⭐ | packaging details / packaging design | I like the packaging design of this box.                                            | 3     | active | 2026-06-17 | 2026-06-22  |
+| **appreciate**       | 感谢，重视     | **B1** ⭐ | I would appreciate it if...          | I would appreciate it if you could help me.                                         | 3     | review | 2026-06-22 | 2026-06-29  |
+| **sour**             | 酸的        | **B1** ⭐ | sour taste / taste sour              | Lemons are so sour that they put me off.                                            | 2     | active | 2026-06-23 | 2026-06-30  |
 
 ## Review Vocabulary
 

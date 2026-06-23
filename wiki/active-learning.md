@@ -69,7 +69,7 @@ Use this section to hold candidates for the next daily page.
 
 - Choose 1-2 items from [[profile/error-patterns]] or [[profile/weak-points]].
 - **When daily errors are light (0-1 items)**: introduce one proactive grammar point from [[grammar/present-perfect-plan]] instead of adding new reading/listening material.
-- **Current（06-22 完成后 → 06-23）**: 🎉 **want to do 闭合！** 连续 3 次正确，降为每月抽查。🔴 **Q7 型今日 2/2 全对**，明天 1 题轻量确认（再稳一次可降频）。📝 **到期词继续分批回顾**（下一批 3-4 词：put off, a whole bunch of, accident, improve, recommend 等）。📝 **不规则动词小抄换新**（make/take/come → 新 3 个动词）。📖 **阅读日** — 下一篇 British Council A2-B1 阅读，或 🎧 **听力启动**（距上次听力已 1 周+，可用 Real Easy English 热身）。具体见 `[[study-plans/weekly-plan]]` 本周方向。
+- **Current（06-23 完成后 → 06-24）**: 🎉 **Q7 型闭合！** 连续 3 次正确（06-18→06-22→06-23），降为每周抽查。🎉 **want to do 闭合！** 降为每月抽查。🎧 **听力重启成功** — "Talking about fruit" Day 1 完成（选择 4/4 + 新词 sour B1）。📝 **到期词下一批**：practice/fiction/poem/prefer（4 词同为 06-24 到期，选 3 个）。📝 **比较级 -er 规则** — 明天教 `sweet→sweeter` / `big→bigger`（1 分钟知识点）。🔄 **by + doing 轻提醒** — `by hard learn` 回退，明天 1 题。🎧 **明天听力 Day 2** — "Talking about fruit" 跟读 + 复述。具体见 `[[study-plans/weekly-plan]]` 本周方向。
 
 ### Output candidates
 

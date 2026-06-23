@@ -72,6 +72,7 @@ Pod. Listening Time podcast     ← 未来 B1 阶段使用
 |------|---------|--------|-------|
 | 2026-06-07 | Talking about books | Day 1 completed | 第一遍不看文本能抓大意但有细节偏差；看 transcript 能懂 → 听力解码速度是正常起跑线。学 4 新词（fiction A2, poem B1, relaxed B1, prefer A1）。 |
 | 2026-06-08 | Talking about books | Day 2 completed | 跟读词汇复述段，自评"有些地方跟不上"（长词 autobiography/biography）。复述内容覆盖主要信息，表达问题集中在拼写和语法细节。第一篇听力 2 天循环完成 ✅。 |
+| 2026-06-23 | Talking about fruit | Day 1 completed | 第一遍抓大意正确（水果偏好+口味），个别词 misheard（banana→banner）。读 transcript + 第二遍后理解完整。Part D 选择 4/4 全对。学 1 新词（sour B1）。听力重启成功。 |
 
 ## 关联页面
 

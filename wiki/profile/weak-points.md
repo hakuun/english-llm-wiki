@@ -139,8 +139,9 @@ Evidence:
 - 2026-06-18：第三课 been/gone 完成 ✅。controlled 8/8。
 - 🔴 **2026-06-18：Q7 型回退！** — 自由输出中 2 次出现 `I have been to Beijing last year`。06-10 修复后时隔 8 天再次出现。说明 controlled practice OK 但 free production 不稳定。
 - 2026-06-22：**Q7 型专项修复 2/2 全对 ✅** — 改错正确（去掉 last weekend）+ 造句对比正确（past simple + yesterday / present perfect 不加时间）。规则重新激活。还需 1 次确认。
+- 2026-06-23：**Q7 型轻量确认 1/1 ✅** — 正确识别 `has finished yesterday afternoon` 并改为一般过去时。**连续 3 次正确（06-18→06-22→06-23），降为每周抽查 1 次。**
 
-Next action: 明天 Q7 型轻量确认（1 题抽查），如果再次正确可降频。
+Next action: 每周抽查 1 次即可。不再作为每日重点。
 
 ### 7b. want to do / need to do — 不定式 to 缺失 → ✅ 已修复（连续 3 次正确，闭合！）
 
