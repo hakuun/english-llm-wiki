@@ -1,5 +1,27 @@
 # English LLM Wiki Log
 
+## [2026-06-23] daily-study | Completed listening Day 1 — Q7 连续第 3 次正确闭合 + 听力重启成功 🎉🎧
+
+Corrected `wiki/study-plans/daily/2026-06-23.md` after completion. Key findings:
+
+1. 🎉 **Q7 型连续第 3 次正确 → 降为每周抽查！** — 正确识别 `has finished yesterday afternoon` 并改为一般过去时。06-18 → 06-22 → 06-23 连续 3 次正确。
+
+2. 🎧 **听力重启成功** — 8 天空白后用 "Talking about fruit"（A1-A2）热身 Day 1。Part D 选择 4/4 全对。第一遍抓大意正确（水果偏好+口味），banana→banner mishearing 正常。Part C 理解完整。
+
+3. 🔄 **3 个到期词回顾** — put off（结构需观察，缺从句主语）、improve（用法正确 ✅，`by hard learn`→`by studying hard` 轻提醒）、recommend（结构正确 ✅，for→to 小提醒）。
+
+4. 🆕 **1 个 B1 新词入表** — sour（酸的 B1）。听力里学食物描述词，和今天的主题高度匹配。
+
+5. 🟡 **by + doing 回退** — `by hard learn` → `by studying hard`。06-06 修复→06-15 抽查通过→17 天未见。单次出现，明天 1 题轻提醒即可。
+
+6. 🟡 **新出现小问题** — `this sour`（形容词当名词，和 weigh/weight 同类）、`more sweet`→`sweeter`（比较级 -er 规则，明天教）、`Lemons is`→`are`（复数主谓一致，单次疏忽）。
+
+7. 🎉 **比较句 be 动词已记住** — Option B 句 3 `Mango is more sweet than...` — `is` 在！06-22 的问题没再犯。
+
+8. 🎉 **Option A 填空 5/5 全对** — sour/ripe/juicy/prefer/recommend 全部正确使用。
+
+**Wiki updates**：`[[vocabulary/vocabulary-review]]`（put off/improve/recommend 状态更新 + sour 新入表 B1），`[[profile/weak-points]]`（#7 Q7 降为每周抽查），`[[active-learning]]`（明天 → 听力 Day 2 + by + doing 轻提醒 + 比较级 -er + 到期词 practice/fiction/poem/prefer），`[[listening/transcript-notes]]`（Talking about fruit Day 1 完成），`[[daily/2026-06-23]]`（status→completed）。
+
 ## [2026-06-22] daily-study | Completed reading day — Q7型修复 2/2 + want to do 第3次连续正确闭合 🎉
 
 Corrected `wiki/study-plans/daily/2026-06-22.md` after completion. Key findings:
