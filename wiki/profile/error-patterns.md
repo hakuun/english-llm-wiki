@@ -222,10 +222,10 @@ Examples:
 
 Memory trick: **want/need/try 后面要戴 to 帽子再发动词。** 中文没有这个 to，但英文必须有。
 
-Practice focus: 1-2 fill-in or correction items per daily page until stable.
+Practice focus: Monthly spot check only — 1 item per month to confirm retention.
 
-Last seen: 2026-06-18
-Status: **improving** — 2026-06-07 首次暴露（need read），06-09 第二次（want improve），06-10 第三次正确（need to practice ✅ → 误判为 resolved），06-16 第四次回退（want get ❌），06-17 第五次正确（wants **to** improve ✅，to 已加上）。06-18 第六次正确（needs **to** finish ✅，to + 保留 needs 的 -s，比 06-17 更进一步）。连续 2 次正确。需要继续每周 1-2 题抽查直到连续 3 次正确。注意：06-17 同时误删了 wants 的 -s，06-18 已修正。
+Last seen: 2026-06-22
+Status: **resolved** — 2026-06-07 首次暴露（need read），06-09 第二次（want improve），06-10 第三次正确（need to practice ✅ → 误判为 resolved），06-16 第四次回退（want get ❌），06-17 第五次正确（wants **to** improve ✅），06-18 第六次正确（needs **to** finish ✅），06-22 第七次正确（wants **to** visit ✅，to + -s 均保留）。连续 3 次正确（06-17 → 06-18 → 06-22），目标达成。降为每月抽查 1 次。
 
 ## Initial priority areas to watch
 
