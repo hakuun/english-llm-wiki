@@ -176,15 +176,17 @@ Evidence:
 
 Next action: 不是紧急项。继续在批改中纠正，观察是否在更多动词上重复出现。
 
-### 7e. 不规则动词过去分词拼写/形式 — 🟡 观察中（规则动词掌握良好）
+### 7e. 不规则动词过去分词拼写/形式 — 🟡 观察中（write→written 新暴露）
 
 Evidence:
 
 - 2026-06-16：第二节现在完成时课。不规则动词：`writed` → written, `eated` → eaten, `konwed` → known。规则动词（lived, stayed, been）正确。
 - 2026-06-17：输出句 3 `have launched` — 规则动词过去分词（launched）正确 ✅。学习者知道现在完成时需要 have + 过去分词。
 - 2026-06-17 Stuck points：学习者再次自评"不规则动词的过去分词不会写"——诚实且准确。
+- 2026-06-23：不规则动词小抄换新 — bring/brought/brought, buy/bought/bought, catch/caught/caught (-ought/-aught 组)。
+- 2026-06-24：`writed` → `written`。现在完成时结构对（have + 过去分词 ✅），但 write 的过去分词形式错。write/wrote/written 尚未进入小抄。
 
-Next action: 继续每天不规则动词小抄（瞄一眼 3 个动词的 3 种形式）。如果同一动词重复出错再做轻量巩固。
+Next action: write/wrote/written 加入下期不规则动词小抄。继续每天 3 个动词扫一眼。
 
 ### 8. 复述/自由输出句子结构不稳定（controlled → free production 台阶）— 🟢 句子骨架引导有效！
 
@@ -194,8 +196,10 @@ Evidence:
 - 2026-06-16：首次加入「主语+动词」步骤。句 1 结构 100% 正确（have written code since 2019），句 2 主语+动词找对了。
 - 2026-06-17：Option B 仿写 3 句全部用了「主语+动词」步骤。句 1 主语/动词正确（I/appreciate），句 2 结构完整正确，句 3 现在完成时 + since 结构 100% 正确。**连续 2 天使用 scaffolding 后，句子结构稳定性明显提高。**
 - 2026-06-22：主语+动词继续找对 ✅（Three Schools English / You / choose）。**新发现：比较句缺 be 动词** — `Three Schools English more expensive than...` 缺少 is。中文比较句没有"是"字，所以英文写 `A is more expensive than B` 时特别容易漏 is。同时暴露物主代词 they/their 混淆（`they teachers` → `their teachers`）。
+- 2026-06-23：**比较句 be 动词已记住** — Option B 句 3 `Mango is more sweet than banner` — is 在 ✅。但比较级形式 `more sweet` → 应为 `sweeter`（首次暴露，短形容词加 -er）。
+- 2026-06-24：🎉 **比较句 be 动词连续 2 天正确** — Option B 句 2 `Watermelon is sweeter than strawberry.` — is ✅, -er ✅。**新现象：like-more-than 多余 is** — `I like science fiction is more than fantasy fiction`。比较句 be 规则过度推广到 like 比较句。这是正常学习阶段——规则已内化，需要划清边界：like A more than B（已有动词 like）不需要 is。
 
-Next action: 继续使用「主语+动词」引导步骤。比较句加入轻量提醒：`___ is more ___ than ___` 模板，is 不能省。they vs their 在后续批改中纠正，暂不立专项。
+Next action: 继续使用「主语+动词」引导步骤。比较句 be 动词已经稳定（连续 2 天正确），降为轻量观察。like-more-than vs be-er-than 边界在下次出现 like 比较时轻提醒。they vs their 在后续批改中纠正，暂不立专项。
 
 ### 9. 🆕 appreciate 后接名词 vs 人+动词结构 — 观察中（Chinglish 结构类）
 

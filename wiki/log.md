@@ -1,5 +1,25 @@
 # English LLM Wiki Log
 
+## [2026-06-24] daily-study | Completed listening Day 2 — by+doing 重新激活 + 比较级 -er 首秀完美 🎧🎉
+
+Corrected `wiki/study-plans/daily/2026-06-24.md` after completion. Key findings:
+
+1. 🎉 **by + doing 重新激活！** — Warm-up 改错 1/1（by read→by reading）+ Option B 句 3 `by reading every day` 正确。昨天回退今天修复。
+
+2. 🎉 **比较级 -er 规则 2/2 + 自由输出完美** — sweeter ✅, more expensive ✅。Option B `Watermelon is sweeter than strawberry.` — is 在！-er 对！昨天 `more sweet` 问题 0 次出现。
+
+3. 🎉 **Option A 填空 5/5 全对** — practice/fiction/poem/sweeter/by listening 全部正确。
+
+4. 🎉 **复述 Q3 最好** — `I prefer sweet fruit...watermelon, because it's very juicy and sweet.` 自然、个人化、用了 B1 词 juicy。
+
+5. 🟡 **fiction 句 like-more-than 多余 is** — `I like science fiction is more than...` → 比较句 be 规则过度推广。是好事（规则内化了），划清边界即可：like A more than B 不需要 is。
+
+6. 🟡 **writed → written** — `I have never writed short poems.` 现在完成时结构对，过去分词形式错。write/wrote/written 加入下期小抄。
+
+7. 🎧 **跟读完成** — 自评"有些地方跟不上"（正常，第二次听 BBC 自然语速）。
+
+**Wiki updates**：`[[vocabulary/vocabulary-review]]`（practice/fiction/poem 状态更新），`[[profile/weak-points]]`（#7e writed→written + #8 比较句 be 连续 2 天正确 + like-more-than 新观察），`[[active-learning]]`（明天 → 阅读日 English course prospectus），`[[listening/transcript-notes]]`（Talking about fruit Day 2 完成），`[[daily/2026-06-24]]`（status→completed）。
+
 ## [2026-06-23] daily-study | Completed listening Day 1 — Q7 连续第 3 次正确闭合 + 听力重启成功 🎉🎧
 
 Corrected `wiki/study-plans/daily/2026-06-23.md` after completion. Key findings:

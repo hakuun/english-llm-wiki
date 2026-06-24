@@ -8,7 +8,21 @@
         "type": "tabs",
         "children": [
           {
-            "id": "34e4ba9ff64bec5b",
+            "id": "ffbaa26a03fb9e07",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "wiki/study-plans/daily/2026-06-24.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2026-06-24"
+            }
+          },
+          {
+            "id": "f26b818f99d0def2",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,23 +34,8 @@
               "icon": "lucide-file",
               "title": "Real Easy English  Talking about fruit"
             }
-          },
-          {
-            "id": "ffbaa26a03fb9e07",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "wiki/study-plans/daily/2026-06-23.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2026-06-23"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -200,16 +199,21 @@
   },
   "active": "ffbaa26a03fb9e07",
   "lastOpenFiles": [
+    "wiki/listening/transcript-notes.md.tmp.14992.9e89da7391d1",
+    "wiki/listening/transcript-notes.md.tmp.14992.dd2aa26befff",
+    "wiki/listening/transcript-notes.md.tmp.14992.47141978db89",
+    "wiki/active-learning.md.tmp.14992.708f4c1c95f8",
+    "wiki/profile/weak-points.md.tmp.14992.ea18d462c8e8",
+    "wiki/profile/weak-points.md.tmp.14992.4df5afc2a02f",
+    "wiki/vocabulary/vocabulary-review.md.tmp.14992.bc8d18052b3b",
+    "wiki/log.md.tmp.14992.f33538835f26",
+    "wiki/study-plans/daily/2026-06-24.md.tmp.14992.0c94a3f8175b",
+    "raw/inbox/Real Easy English  Talking about fruit.md",
+    "wiki/study-plans/daily/2026-06-24.md",
+    "wiki/study-plans/daily/2026-06-23.md",
     "wiki/log.md.tmp.16688.f85db452b084",
     "wiki/vocabulary/b1-word-pipeline.md",
     "wiki/active-learning.md.tmp.16688.20c00cc34545",
-    "wiki/vocabulary/vocabulary-review.md.tmp.16688.b95a94f56dc9",
-    "wiki/vocabulary/vocabulary-review.md.tmp.16688.03a5109b7d0b",
-    "wiki/listening/transcript-notes.md.tmp.16688.58c11330df43",
-    "wiki/profile/weak-points.md.tmp.16688.03058cc8a47d",
-    "wiki/vocabulary/vocabulary-review.md.tmp.16688.31621cbb9d38",
-    "wiki/vocabulary/vocabulary-review.md.tmp.16688.add8b1a807ae",
-    "wiki/study-plans/daily/2026-06-23.md.tmp.16688.4688d23552ca",
     "wiki/vocabulary/collocations.md",
     "wiki/vocabulary/confusing-words.md",
     "wiki/vocabulary/high-frequency-words.md",
@@ -220,11 +224,7 @@
     "wiki/profile/learner-profile.md",
     "wiki/profile/error-patterns.md",
     "wiki/profile/current-level.md",
-    "wiki/study-plans/daily/2026-06-23.md",
-    "raw/inbox/Real Easy English  Talking about fruit.md",
     "wiki/study-plans/daily/2026-06-22.md",
-    "wiki/study-plans/daily/2026-06-23.md.tmp.16688.17cf2ca3d016",
-    "wiki/active-learning.md.tmp.8664.ac4dedfa293e",
     "wiki/study-plans/weekly-plan.md",
     "wiki/study-plans/monthly-plan.md",
     "wiki/study-plans/knowledge-base-study-workflow.md",
@@ -234,7 +234,6 @@
     "wiki/study-plans/daily/2026-06-18.md",
     "wiki/study-plans/daily/2026-06-09.md",
     "wiki/study-plans/daily/2026-06-17.md",
-    "wiki/study-plans/daily/2026-06-06.md",
-    "wiki/study-plans/daily/2026-06-03.md"
+    "wiki/study-plans/daily/2026-06-06.md"
   ]
 }
