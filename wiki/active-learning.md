@@ -69,7 +69,7 @@ Use this section to hold candidates for the next daily page.
 
 - Choose 1-2 items from [[profile/error-patterns]] or [[profile/weak-points]].
 - **When daily errors are light (0-1 items)**: introduce one proactive grammar point from [[grammar/present-perfect-plan]] instead of adding new reading/listening material.
-- **Current（06-23 完成后 → 06-24）**: 🎉 **Q7 型闭合！** 连续 3 次正确（06-18→06-22→06-23），降为每周抽查。🎉 **want to do 闭合！** 降为每月抽查。🎧 **听力重启成功** — "Talking about fruit" Day 1 完成（选择 4/4 + 新词 sour B1）。📝 **到期词下一批**：practice/fiction/poem/prefer（4 词同为 06-24 到期，选 3 个）。📝 **比较级 -er 规则** — 明天教 `sweet→sweeter` / `big→bigger`（1 分钟知识点）。🔄 **by + doing 轻提醒** — `by hard learn` 回退，明天 1 题。🎧 **明天听力 Day 2** — "Talking about fruit" 跟读 + 复述。具体见 `[[study-plans/weekly-plan]]` 本周方向。
+- **Current（06-24 完成后 → 06-25）**: 🎉 **by + doing 重新激活！** 今天 2/2 正确。🎉 **比较级 -er 首秀完美** — sweeter ✅, more expensive ✅, Option B 比较句 is + -er 都对。🎉 **比较句 be 动词连续 2 天正确**。🟡 **like-more-than 多余 is** — be 规则过度推广，已划边界。🟡 **writed→written** — write/wrote/written 加入下期小抄。🎧 **"Talking about fruit" 2 天循环完成！** 跟读 + 复述完成。**明天（06-25）**：📖 阅读日 — "English course prospectus"（A2-B1，06-18 原计划未执行，本周优先使用）+ 🔄 到期词下一批（weigh/traffic/packaging 等 06-22 到期）+ 📝 不规则动词小抄换新（write/wrote/written 加入）。Q7 型本周已降频不排。
 
 ### Output candidates
 
