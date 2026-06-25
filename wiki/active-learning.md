@@ -52,7 +52,7 @@ Use this section to hold candidates for the next daily page.
 
 ### Input candidates
 
-- **Reading**: Choose one short A2-B1 text from [[source-notes/british-council-a2-b1-reading-pack]] or [[source-notes/british-council-b1-reading-pack-2]]. Prefer A2-level texts for now. ✅ "An email request for help" (06-17) — 已完成。**Next up**: "English course prospectus" (A2-B1) — 06-18 原计划但未执行，本周优先使用。
+- **Reading**: Choose one short A2-B1 text from [[source-notes/british-council-a2-b1-reading-pack]] or [[source-notes/british-council-b1-reading-pack-2]]. Prefer A2-level texts for now. ✅ "An email request for help" (06-17) — 已完成。✅ "English course prospectus" (A2-B1) — 06-25 已完成，4/4 理解全对。**Next up**: 按推荐顺序下一步是 "An invitation to a job interview"（A2-B1，正式邮件格式），或 "Study skills tips"（A2，最简单但实用）。
 - **Listening** (2-day cycle): ✅ "Talking about books" (A2-B1) — 2 天循环完成（06-07 ~ 06-08）。✅ "Why are some animals black and white?" (B1-B2) — 2 天循环完成（06-12 ~ 06-15）。**下一步**: 4 天空白后听力习惯需恢复 → 优先轻松热身（Real Easy English "Talking about fruit" A1-A2 或 Listening Time A2 5-min 视频），再进入 "Making cities feel quieter" (B1-B2)。
 - **Listening 热身/缓冲** (5 min, 不占完整循环): [[source-notes/listening-time-a1-practice-pack]] (A1) / [[source-notes/listening-time-a2-practice-pack]] (A2) — 可在 BBC 听力材料之间或阅读日作为轻松热身。
 - **Real Easy English 桥梁**: [[source-notes/bbc-real-easy-english-talking-about-fruit]] (A1-A2) / [[source-notes/bbc-real-easy-english-talking-about-the-beach]] (A1-A2) — 当 6 Minute English 偏难时用作"轻松回弹"听力材料。
@@ -69,7 +69,7 @@ Use this section to hold candidates for the next daily page.
 
 - Choose 1-2 items from [[profile/error-patterns]] or [[profile/weak-points]].
 - **When daily errors are light (0-1 items)**: introduce one proactive grammar point from [[grammar/present-perfect-plan]] instead of adding new reading/listening material.
-- **Current（06-24 完成后 → 06-25）**: 🎉 **by + doing 重新激活！** 今天 2/2 正确。🎉 **比较级 -er 首秀完美** — sweeter ✅, more expensive ✅, Option B 比较句 is + -er 都对。🎉 **比较句 be 动词连续 2 天正确**。🟡 **like-more-than 多余 is** — be 规则过度推广，已划边界。🟡 **writed→written** — write/wrote/written 加入下期小抄。🎧 **"Talking about fruit" 2 天循环完成！** 跟读 + 复述完成。**明天（06-25）**：📖 阅读日 — "English course prospectus"（A2-B1，06-18 原计划未执行，本周优先使用）+ 🔄 到期词下一批（weigh/traffic/packaging 等 06-22 到期）+ 📝 不规则动词小抄换新（write/wrote/written 加入）。Q7 型本周已降频不排。
+- **Current（06-25 完成后 → 06-26）**: 📖 **阅读日完成** — "English course prospectus" 4/4 理解全对！🎉 like-more-than vs be-er-than 边界秒懂。🎉 weigh/weight 持续稳定 → resolved。🟡 useful→usefuller（-er 向长形容词过度推广）— 和昨天 more sweet 对称，是规则内化中的正常双向试探。Option A `more flexible` 对了说明潜意识知道。**明天（06-26）**：🎧 听力 Day 1 — "Talking about the beach"（BBC Real Easy English, A1-A2 桥梁），轻松恢复听力节奏。或 A2 Listening Time 5min 热身。+ useful→more useful 轻提醒 + 🔄 到期词（accident 06-21, opportunity/imagine/communicate 06-13, prefer 06-24）。
 
 ### Output candidates
 

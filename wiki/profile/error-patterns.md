@@ -172,7 +172,7 @@ Examples:
 Related pairs to practice: high/height, long/length, strong/strength.
 Practice focus: Fill-in sentences that force a noun-or-verb decision before choosing weigh/weight, high/height, long/length.
 Last seen: 2026-06-04
-Status: **improving** — 2026-06-04: the learner correctly chose verb forms (weigh/weighs) for all 4 verb slots, no longer filling `weight` into verb positions. The "check word class first" habit is forming. However a **new sub-issue** emerged: third-person singular -s agreement (weigh vs weighs) and base form after `does`. Tracked separately under [[#Error: Third-person singular subject-verb agreement]].
+Status: **resolved** — 2026-06-04: the learner correctly chose verb forms (weigh/weighs) for all 4 verb slots, no longer filling `weight` into verb positions. The "check word class first" habit is forming. 2026-06-25: weigh/weight 2/2 正确（weighs ✅ + weight ✅），从 06-04 起连续正确超过 3 周。正式 resolved。
 
 ## Error: cannot vs must — prohibition vs obligation meaning reversal
 

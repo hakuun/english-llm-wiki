@@ -12,22 +12,19 @@ This page summarizes current learning weaknesses from daily pages, vocabulary re
 
 ## Current weak points
 
-### 1. 词性混淆（weigh/weight, high/height 等名/动/形配对）→ 进步中，三单 -s 子问题已修复
+### 1. 词性混淆（weigh/weight, high/height 等名/动/形配对）→ ✅ 已修复
 
 Evidence:
 
 - 2026-06-02：Vocabulary Q2 把 `weigh`（动词）填成 `weight`（名词）；Grammar 中再次混淆。
 - 2026-06-03：Warm-up Q4 选 C（weight）而非 A（weighs）；Grammar Part 2 Q1 填 weight 而非 weighs，Q3 填 weight 而非 weigh。连续两天共犯 5 次 weigh/weight 混淆。
 - 2026-06-04：**明显进步** — 4 个动词空位全部填了动词（weigh/weighs），没有再填 weight。Part B high/height 和 long/length 4/4 全对。**「先判词性再选词」的习惯正在形成。**
-- 但在 weigh/weight 练习中暴露了一个更深层的语法问题：**第三人称单数主谓一致**（什么时候用 weigh vs weighs）。4 处错误全是 -s 问题。
-- 2026-06-05：**三单 -s 基本掌握** — 16/16 练习全对（weigh/weighs 判断 6/6 + 扩展到 work/live/speak/like/want/need 10/10），输出 4 句三单全部正确。学习者提出了很好的追问"My suitcases 不也是 it 吗"，说明在理解规则而非死记。`[[profile/error-patterns]]` 已标记为 improving。
-- 2026-06-06：**三单 -s 在真实阅读中巩固** — 三单 hunting 全部正确（Part A 辨认三单动词 2/2，Part B 情态动词后原形判断 3/3，Part C 自己找例子 2/2）。输出 3 句三单全部正确。唯一的失误是 Warm-up Q2 把 `He can speaks` 判为 ✓（应该是 can speak）。这是 warm-up quick check 的大意，不像是规则不理解 — 同一天的 Part B 情态动词+原形判断全部正确。但今天首次出现了 **mark/marked 词性混淆**（和 weigh/weight 同类问题），值得注意。
+- 2026-06-25：**weigh/weight 2/2 正确**（my bag weighs 5kg ✅ + maximum weight is 20kg ✅）。从 06-04 起连续正确超过 3 周。正式 resolved。
 
 Next action:
 
-- weigh/weight 区分继续轻量跟踪，不再作为每日重点。
-- **三单 -s 已完成真实阅读巩固**，降级为偶尔抽查即可。
-- 今天新出现 mark/marked 词性混淆，先观察一两天，如果重复出现再立专项。
+- weigh/weight ✅ resolved，不再需要跟踪。
+- 三单 -s 已完成真实阅读巩固，降级为偶尔抽查。
 - 高/长配对已降低频率。
 
 ### 2. cannot vs must 意思反转 ✅ 已修复
@@ -198,8 +195,9 @@ Evidence:
 - 2026-06-22：主语+动词继续找对 ✅（Three Schools English / You / choose）。**新发现：比较句缺 be 动词** — `Three Schools English more expensive than...` 缺少 is。中文比较句没有"是"字，所以英文写 `A is more expensive than B` 时特别容易漏 is。同时暴露物主代词 they/their 混淆（`they teachers` → `their teachers`）。
 - 2026-06-23：**比较句 be 动词已记住** — Option B 句 3 `Mango is more sweet than banner` — is 在 ✅。但比较级形式 `more sweet` → 应为 `sweeter`（首次暴露，短形容词加 -er）。
 - 2026-06-24：🎉 **比较句 be 动词连续 2 天正确** — Option B 句 2 `Watermelon is sweeter than strawberry.` — is ✅, -er ✅。**新现象：like-more-than 多余 is** — `I like science fiction is more than fantasy fiction`。比较句 be 规则过度推广到 like 比较句。这是正常学习阶段——规则已内化，需要划清边界：like A more than B（已有动词 like）不需要 is。
+- 2026-06-25：🎉 **like-more-than 边界秒懂！** — warm-up 改错直接选 A（不加 is）。be-er-than vs like-more-than 两种比较已分清。**新现象：-er 向长形容词过度推广** — `usefuller` → `more useful`（和昨天 `more sweet` → `sweeter` 是对称的！）。实际上 Option A Q4 `more flexible` 选对了——说明潜意识知道规则，warm-up 是单次判断失误。比较句 be 动词 ✅（Option B 句 2 `it is more flexible than...` — is 在），比较结构三要素（be + 比较级 + than）全部正确。
 
-Next action: 继续使用「主语+动词」引导步骤。比较句 be 动词已经稳定（连续 2 天正确），降为轻量观察。like-more-than vs be-er-than 边界在下次出现 like 比较时轻提醒。they vs their 在后续批改中纠正，暂不立专项。
+Next action: 继续使用「主语+动词」引导步骤。比较句 be 动词已连续稳定（06-23/24/25），降为轻量观察。like-more-than vs be-er-than 边界已分清。**新观察：-er vs more 双向试探**（短→-er 和长→more 偶尔推反，是规则内化的正常阶段）。轻提醒即可，不立 error pattern。
 
 ### 9. 🆕 appreciate 后接名词 vs 人+动词结构 — 观察中（Chinglish 结构类）
 

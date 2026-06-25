@@ -1,5 +1,27 @@
 # English LLM Wiki Log
 
+## [2026-06-25] daily-study | Completed reading day — like-more-than 边界秒懂 + weigh/weight resolved + 阅读 4/4 📖🎉
+
+Corrected `wiki/study-plans/daily/2026-06-25.md` after completion. Key findings:
+
+1. 📖 **阅读 4/4 全对** — "English course prospectus"（A2-B1）。Q1 价格提取 ✅, Q2 课程匹配 ✅, Q3 最低人数条件 ✅, Q4 上班族推理 ✅。两所学校比较信息全部正确提取。
+
+2. 🎉 **like-more-than 边界秒懂！** — Warm-up 改错直接选 A（不加 is）。昨天 `I like science fiction is more than...` 的过度推广，今天一句话就分清了。有动词 like → 不加 is。
+
+3. 🎉 **weigh/weight → resolved** — weigh（动词）✅ + weight（名词）✅。从 06-03 P0 到 06-25 再次 2/2，连续正确超过 3 周。`[[profile/weak-points]]` #1 正式 resolved。
+
+4. 🎉 **Option A 填空 5/5 全对** — weighs/packaging/cheaper/more flexible/a whole bunch of 全部正确。
+
+5. 🎉 **Option B 比较结构完美** — 句 2 `because it is more flexible than Three Schools.` — is ✅, more ✅, than ✅。三要素全在！
+
+6. 🎉 **「主语+动词」引导持续有效** — 句 1 I/would choose ✅, 句 3 I/want ✅。want to do 连续第 4 次正确！
+
+7. 🟡 **usefuller → more useful**（-er 向长形容词过度推广）— 和昨天 `more sweet` → `sweeter` 对称。是规则内化中的正常双向试探。实际上 Option A `more flexible` 对了——说明潜意识知道规则。
+
+8. 🟢 **小问题**：class times is → are（复数主谓一致）、in → at Elizabeth School（介词）。
+
+**Wiki updates**：`[[vocabulary/vocabulary-review]]`（weigh/packaging/a whole bunch of 状态更新），`[[profile/weak-points]]`（#1 weigh/weight resolved + #8 useful→more useful 新观察），`[[active-learning]]`（明天 → 听力 Day 1 Talking about the beach），`[[daily/2026-06-25]]`（status→completed）。
+
 ## [2026-06-24] daily-study | Completed listening Day 2 — by+doing 重新激活 + 比较级 -er 首秀完美 🎧🎉
 
 Corrected `wiki/study-plans/daily/2026-06-24.md` after completion. Key findings:
