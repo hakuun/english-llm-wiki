@@ -69,7 +69,7 @@ Use this section to hold candidates for the next daily page.
 
 - Choose 1-2 items from [[profile/error-patterns]] or [[profile/weak-points]].
 - **When daily errors are light (0-1 items)**: introduce one proactive grammar point from [[grammar/present-perfect-plan]] instead of adding new reading/listening material.
-- **Current（06-25 完成后 → 06-26）**: 📖 **阅读日完成** — "English course prospectus" 4/4 理解全对！🎉 like-more-than vs be-er-than 边界秒懂。🎉 weigh/weight 持续稳定 → resolved。🟡 useful→usefuller（-er 向长形容词过度推广）— 和昨天 more sweet 对称，是规则内化中的正常双向试探。Option A `more flexible` 对了说明潜意识知道。**明天（06-26）**：🎧 听力 Day 1 — "Talking about the beach"（BBC Real Easy English, A1-A2 桥梁），轻松恢复听力节奏。或 A2 Listening Time 5min 热身。+ useful→more useful 轻提醒 + 🔄 到期词（accident 06-21, opportunity/imagine/communicate 06-13, prefer 06-24）。
+- **Current（06-26 进行中）**: 🎧 **听力 Day 1** — "Talking about the beach"（BBC Real Easy English, A1-A2 桥梁）。Reactive 模式：useful→more useful 轻提醒（1 题确认 -er/more 两个方向）+ 🔄 5 个到期词（accident, opportunity, imagine, communicate, prefer）+ 🆕 B1 候选词从听力中激活（sunbathe, pebble, cool down）。📝 write/wrote/written 继续在小抄上。
 
 ### Output candidates
 
