@@ -1,5 +1,9 @@
 # English LLM Wiki Log
 
+## [2026-06-26] daily-plan | 🎧 听力 Day 1 — "Talking about the beach"（A1-A2）+ -er/more 轻提醒 + 5 到期词
+
+Created `[[study-plans/daily/2026-06-26]]`. Reactive pattern: useful→more useful 1 题确认（-er 向长形容词过度推广，和昨天 more sweet→sweeter 对称）。Input: BBC Real Easy English "Talking about the beach"（A1-A2，难度 ≈ Talking about fruit）。Vocabulary: 5 到期词回顾（accident/opportunity/imagine/communicate/prefer）+ B1 候选词 sunbathe/pebble 从听力激活。📝 write/wrote/written 继续在小抄。
+
 ## [2026-06-25] daily-study | Completed reading day — like-more-than 边界秒懂 + weigh/weight resolved + 阅读 4/4 📖🎉
 
 Corrected `wiki/study-plans/daily/2026-06-25.md` after completion. Key findings:

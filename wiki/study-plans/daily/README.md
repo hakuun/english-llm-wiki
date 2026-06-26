@@ -39,6 +39,8 @@ Use this folder as the single home for daily guided study pages.
 - [[study-plans/daily/2026-06-22]] — Reading day: Q7型专项修复 + want to do 闭合 + English course prospectus.
 - [[study-plans/daily/2026-06-23]] — Listening Day 1: BBC "Talking about fruit," Q7型闭合 + 听力重启成功.
 - [[study-plans/daily/2026-06-24]] — Listening Day 2: Shadowing + retelling "Talking about fruit," by+doing 轻提醒 + 比较级-er 规则.
+- [[study-plans/daily/2026-06-25]] — Reading day: "English course prospectus," like-more-than 边界澄清 + weigh/weight resolved.
+- [[study-plans/daily/2026-06-26]] — Listening Day 1: "Talking about the beach," -er/more 轻确认 + 5 到期词回顾.
 
 ## Learner input rule
 
