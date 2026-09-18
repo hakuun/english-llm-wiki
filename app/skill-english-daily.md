@@ -38,13 +38,15 @@ platforms: [linux, macos, windows]
 
 ## 要计划时
 
-- 按 `_template.md` 生成 `wiki/study-plans/daily/<今天日期>.md`：30 分钟、复习优先、guided output
+- 目标日期：**请求里给了日期就用它**（如"为 2026-09-19 生成"），没给就用**今天**（VPS 时区已设为 Asia/Shanghai）
+- 按 `_template.md` 生成 `wiki/study-plans/daily/<日期>.md`：30 分钟、复习优先、guided output
 - 只修 1-2 个重点错误；昨天错得多就只修错、不加新材料
 - 输入按 `active-learning.md` 的轮换安排（阅读:听力 ≈ 2:1；听力走两天循环）
 - 词汇：优先 B1 管线词，每天 3-5 个；加词前查 `oxford-3000-by-cefr.tsv`
-- **必须同时产出题库** `app/bank/<今天日期>.json`（见下节），否则手机网页没有内容
+- **必须同时产出题库** `app/bank/<日期>.json`（见下节），否则手机网页没有内容
 - `git add -A wiki/ app/bank/ && git commit -q -m "daily: <日期> 计划" && git push`
-- **回微信不要贴整页 markdown**：给手机可读的紧凑版，并告诉用户"打开 App 做题"
+- 若这次是"网页点了生成"触发的（提示里写明"不要给用户发消息"），**做完就结束，不要回复用户**
+- 若是微信里问的：**不要贴整页 markdown**，给手机可读的紧凑版，并告诉用户"打开 App 做题"
 
 ## 题库格式（app/bank/YYYY-MM-DD.json）
 

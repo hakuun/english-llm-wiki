@@ -43,6 +43,52 @@ def log(msg: str) -> None:
         f.write(msg.rstrip() + "\n")
 
 
+GENERATE_LOG = pathlib.Path("/root/generate.log")
+INFLIGHT: set = set()
+LOCK = threading.Lock()
+
+
+def spawn_agent(prompt: str, logfile: pathlib.Path, on_done=None) -> None:
+    """Run one Hermes agent turn detached; optionally run a callback when it exits."""
+    fh = logfile.open("a", encoding="utf-8")
+    proc = subprocess.Popen(
+        ["/usr/local/bin/hermes", "chat", "-q", prompt],
+        stdout=fh, stderr=subprocess.STDOUT, stdin=subprocess.DEVNULL,
+        start_new_session=True, cwd=str(REPO),
+    )
+    def _wait():
+        proc.wait()
+        fh.close()
+        if on_done:
+            on_done()
+    threading.Thread(target=_wait, daemon=True).start()
+
+
+def generate_async(date: str) -> dict:
+    """Ask the agent to produce that date's daily page + question bank."""
+    with LOCK:
+        if date in INFLIGHT:
+            return {"ok": True, "already": True}
+        INFLIGHT.add(date)
+    prompt = (
+        f"请为 {date} 生成英语学习计划。按 english-daily 技能："
+        f"先 cd {REPO} && git pull，然后读 CLAUDE.md、wiki/active-learning.md、"
+        "最近的 wiki/study-plans/daily/ 页面与 submissions/、wiki/vocabulary/vocabulary-review.md、"
+        "wiki/profile/weak-points.md 与 error-patterns.md，再按 wiki/study-plans/daily/_template.md 产出"
+        f"wiki/study-plans/daily/{date}.md，并**同时产出题库 app/bank/{date}.json**（格式见技能）。"
+        f"最后 git add -A wiki/ app/bank/ && git commit -m 'daily: {date} 计划' && git push。"
+        "不要给用户发消息，做完即可。"
+    )
+    try:
+        spawn_agent(prompt, GENERATE_LOG, on_done=lambda: INFLIGHT.discard(date))
+    except Exception as exc:
+        INFLIGHT.discard(date)
+        log(f"[{date}] failed to start generation: {exc}")
+        return {"ok": False, "error": f"failed to start: {exc}"}
+    log(f"[{date}] generation started")
+    return {"ok": True, "started": True}
+
+
 def grade_async(date: str, path: pathlib.Path) -> None:
     """Let the Hermes agent grade this submission and update the wiki."""
     prompt = (
@@ -50,15 +96,12 @@ def grade_async(date: str, path: pathlib.Path) -> None:
         f"请按 english-daily 技能：读该文件与 {REPO}/wiki/study-plans/daily/{date}.md，"
         "逐题批改（中文解释，只讲最重要的错误），更新每日页第 9 节、wiki/log.md、"
         "wiki/vocabulary/vocabulary-review.md，必要时更新 wiki/profile/error-patterns.md 与 weak-points.md，"
-        f"然后 git add -A wiki/ && git commit 并 push。"
+        "并写 app/feedback/<日期>.json（batch 结果给手机网页看），"
+        f"然后 git add -A wiki/ app/feedback/ && git commit 并 push。"
         "最后用手机可读的短格式总结：今天几对几错、错在哪、明天的重点。"
     )
     try:
-        subprocess.Popen(
-            ["/usr/local/bin/hermes", "chat", "-q", prompt],
-            stdout=LOG.open("a", encoding="utf-8"), stderr=subprocess.STDOUT,
-            stdin=subprocess.DEVNULL, start_new_session=True, cwd=str(REPO),
-        )
+        spawn_agent(prompt, LOG)
     except Exception as exc:  # pragma: no cover
         log(f"[{date}] failed to start grader: {exc}")
 
@@ -90,10 +133,22 @@ class Handler(SimpleHTTPRequestHandler):
         return super().do_GET()
 
     def do_POST(self):
-        if self.path.rstrip("/") != "/submit":
+        path = self.path.rstrip("/")
+        if path not in ("/submit", "/generate"):
             return self._send(404, b'{"ok":false,"error":"unknown path"}')
         if self.headers.get("X-Wiki-Token", "") != token():
             return self._send(403, b'{"ok":false,"error":"bad token"}')
+        if path == "/generate":
+            try:
+                n = int(self.headers.get("Content-Length") or 0)
+                payload = json.loads(self.rfile.read(n) or b"{}")
+                date = str(payload.get("date") or "").strip()
+                if len(date) != 10:
+                    raise ValueError("bad date")
+            except Exception as exc:
+                return self._send(400, json.dumps({"ok": False, "error": str(exc)}).encode())
+            res = generate_async(date)
+            return self._send(200 if res.get("ok") else 500, json.dumps(res).encode())
         try:
             n = int(self.headers.get("Content-Length") or 0)
             payload = json.loads(self.rfile.read(n) or b"{}")

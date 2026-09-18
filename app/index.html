@@ -23,6 +23,10 @@
   .meta{font-size:12px;color:var(--dim)}
   .bar{height:5px;background:var(--line);border-radius:3px;margin-top:9px;overflow:hidden}
   .bar>i{display:block;height:100%;background:var(--blue);width:0;transition:width .25s}
+  .datebar{display:flex;gap:8px;align-items:center;margin-top:10px}
+  .datebar input[type=date]{flex:1;font:15px inherit;padding:8px 10px;border:1.5px solid var(--line);
+    border-radius:9px;background:#fcfcfd;color:var(--ink)}
+  .mini{padding:9px 14px;border:1.5px solid var(--line);border-radius:9px;background:#fcfcfd;font-size:14px}
   main{padding:14px 14px 8px}
   .card{background:var(--card);border-radius:var(--radius);padding:16px;margin-bottom:14px;
     box-shadow:0 1px 2px rgba(16,24,40,.05)}
@@ -79,6 +83,10 @@
     <span class="meta" id="meta"></span>
   </div>
   <div class="bar"><i id="prog"></i></div>
+  <div class="datebar">
+    <input type="date" id="datePick">
+    <button class="mini" id="btnToday">今天</button>
+  </div>
 </header>
 
 <main id="main"><div class="card">正在加载今天的计划…</div></main>
@@ -96,21 +104,67 @@ const norm = s => (s||'').toLowerCase().replace(/[’‘]/g,"'").replace(/[“�
   .replace(/\s+/g,' ').trim().replace(/[.!?。！？,，;；]+$/,'').trim();
 
 let bank = null, state = {date:null, answers:{}, results:{}, checks:{}, variant:null, submitted:false};
+let curDate = todayStr();
+const todayStr = () => new Date().toLocaleDateString('sv-SE');   // 手机本地日期 = 北京日期
 
-async function pickBank(){
-  const today = new Date().toLocaleDateString('sv-SE');      // YYYY-MM-DD, local
-  for (const d of [today, ...recentDates(6)]) {
-    try { const r = await fetch(`bank/${d}.json`, {cache:'no-store'}); if (r.ok) return await r.json(); } catch(e){}
+async function boot(date){
+  curDate = date;
+  $('#datePick').value = date;
+  $('#main').innerHTML = '<div class="card">正在加载…</div>';
+  const r = await fetch(`bank/${date}.json`, {cache:'no-store'}).catch(()=>null);
+  if (r && r.ok){
+    bank = await r.json();
+    state = Object.assign({date, answers:{}, results:{}, checks:{}, variant:null, submitted:false}, load(date)||{});
+    state.date = date;
+    render();
+  } else {
+    bank = null;
+    renderMissing(date);
   }
-  // fall back to whatever the newest file is
-  try { const r = await fetch('bank/index.json', {cache:'no-store'}); if (r.ok) {
-    const idx = await r.json(); const list = idx.dates || [];
-    if (list.length) { const r2 = await fetch(`bank/${list[0]}.json`); if (r2.ok) return await r2.json(); }
-  }} catch(e){}
-  throw new Error('找不到题库');
 }
-function recentDates(n){ const out=[]; const t=new Date(); for(let i=1;i<=n;i++){ const d=new Date(t);
-  d.setDate(t.getDate()-i); out.push(d.toLocaleDateString('sv-SE')); } return out; }
+
+function renderMissing(date){
+  $('#title').textContent = '今天学什么';
+  $('#meta').textContent = date;
+  $('#prog').style.width = '0%'; $('#score').textContent = '';
+  $('#btnSubmit').disabled = true;
+  $('#main').innerHTML = `<div class="card">
+    <p class="q">${date} 这天还没有内容</p>
+    <p class="hint">计划由 VPS 上的 Hermes 按你的 wiki 状态生成：先读控制面板、最近的错题和词汇表，再出题。</p>
+    <button class="act" id="btnGen" style="width:100%;margin-top:12px">生成这一天的计划</button>
+    <p class="note" id="genmsg"></p></div>`;
+  $('#btnGen').onclick = () => generate(date);
+}
+
+async function generate(date){
+  const btn = $('#btnGen'), msg = $('#genmsg');
+  btn.disabled = true; btn.textContent = '生成中…';
+  msg.textContent = '已启动，通常 1-3 分钟。';
+  try{
+    const r = await fetch('generate', {method:'POST',
+      headers:{'Content-Type':'application/json','X-Wiki-Token': window.__TOKEN__||''},
+      body: JSON.stringify({date})});
+    const j = await r.json();
+    if (!j.ok) throw new Error(j.error || 'server error');
+    if (j.already) msg.textContent = '这一天已经在生成中了，等它跑完。';
+  }catch(e){
+    btn.disabled = false; btn.textContent = '再试一次';
+    msg.textContent = '启动失败：' + (e.message || e);
+    return;
+  }
+  let tries = 0;
+  const timer = setInterval(async () => {
+    tries++;
+    const r = await fetch(`bank/${date}.json`, {cache:'no-store'}).catch(()=>null);
+    if (r && r.ok){ clearInterval(timer); msg.textContent = '好了 ✓'; boot(date); return; }
+    if (tries > 30){
+      clearInterval(timer); btn.disabled = false; btn.textContent = '再试一次';
+      msg.textContent = '等了 4 分钟还没好 —— 可能出错了。去微信里发一句「今天学什么」看它怎么说。';
+    } else {
+      msg.textContent = `生成中… 已等 ${tries*8} 秒`;
+    }
+  }, 8000);
+}
 
 function save(){ try{ localStorage.setItem(KEY(state.date), JSON.stringify(state)); }catch(e){} }
 function load(date){ try{ const s=localStorage.getItem(KEY(date)); return s?JSON.parse(s):null; }catch(e){ return null; } }
@@ -323,18 +377,9 @@ $('#btnSubmit').onclick = submit;
 $('#btnClear').onclick = () => { if (confirm('清空今天的作答？')){ localStorage.removeItem(KEY(state.date));
   state.answers={}; state.results={}; state.checks={}; state.variant=null; render(); } };
 
-(async function init(){
-  try{
-    bank = await pickBank();
-    state = Object.assign({date:bank.date, answers:{}, results:{}, checks:{}, variant:null}, load(bank.date)||{});
-    state.date = bank.date;
-    render();
-  }catch(e){
-    $('#main').innerHTML = `<div class="card"><p class="q">没有找到题库</p>
-      <p class="hint">${esc(e.message||String(e))}</p>
-      <p class="note">在微信里发一句「今天学什么」，让它先生成今天的题库。</p></div>`;
-  }
-})();
+$('#datePick').onchange = e => boot(e.target.value || todayStr());
+$('#btnToday').onclick = () => boot(todayStr());
+boot(todayStr());
 </script>
 </body>
 </html>
