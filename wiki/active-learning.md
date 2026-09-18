@@ -69,7 +69,7 @@ Use this section to hold candidates for the next daily page.
 
 - Choose 1-2 items from [[profile/error-patterns]] or [[profile/weak-points]].
 - **When daily errors are light (0-1 items)**: introduce one proactive grammar point from [[grammar/present-perfect-plan]] instead of adding new reading/listening material.
-- **Current（09-18 状态）**: 06-26 已批改完毕 → **零错误**（warm-up 2/2、听力理解 5/5、词义匹配 5/5、选词填空 6/6 全对）；比较级 -er/more 两个方向同时命中，[[profile/weak-points]] 里标记为掌握。之后中断 **82 天**（06-26 → 09-18）。
+- **Current（09-18）**: 🎉 **重启日 #1 已开始** — 06-26 补批为**零错误**后中断 82 天，09-18 生成 [[study-plans/daily/2026-09-18]]（听力 Day 2 跟读+复述 + 比较句三要素补白 + `imagine` 句型重试 + 5 到期词回收）。原则仍然是「轻」：不引入新材料、不追旧账。（warm-up 2/2、听力理解 5/5、词义匹配 5/5、选词填空 6/6 全对）；比较级 -er/more 两个方向同时命中，[[profile/weak-points]] 里标记为掌握。之后中断 **82 天**（06-26 → 09-18）。
 - **中断的根因是流程摩擦，不是能力**：每天要在电脑上走「生成 → Obsidian 编辑 → 批改」三趟。正在建设 **手机优先系统**（VPS + 网页 App），电脑从"每天必须"降为"每周可选"。
 - **重启日的原则**（在系统上线前）：
   1. **轻**——不做新难度材料，先恢复"每天打开一次"。

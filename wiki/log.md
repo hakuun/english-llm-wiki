@@ -1,5 +1,17 @@
 # English LLM Wiki Log
 
+## [2026-09-18] daily-plan | 🎉 重启日 #1 — 听力 Day 2 跟读+复述「Talking about the beach」+ 比较句补白
+
+Created `[[study-plans/daily/2026-09-18]]` — 中断 82 天后第一个每日页，按 [[active-learning]] 的重启原则设计：
+
+1. **轻** — 不引入新听力材料。输入 = **补做 06-26 的听力 Day 2**（同一集 "Talking about the beach" 的跟读 + 复述），音频与 transcript 都已熟悉，认知负担最低。
+2. **只修 1-2 个重点** — ① 比较句三要素（be + 比较级 + than）：06-26 Option B 句 2「为什么」留白，用句型框补上一次；② `imagine` 句型重试（`Imagine yourself + doing ...`，不要求自由写）。其余 06-26 全对，今天不加新材料、不追旧账。
+3. **词汇** — 只回收 5 个到期词，按「先高频、再 B1 桥接」排序：improve / practice / term / recommend / opportunity。**明确不一次补 30 个过期词**。
+4. **不规则动词小抄** — 加入 `see / saw / seen`（今天复述会用到 `I'd never seen the Sun so red before.`）。
+5. **输出** — 「主语 + 动词」框架继续用；复述 3 句，其中 Q3 强制含比较句三要素。
+
+📌 待办（系统层）：手机优先的每日系统（VPS + 网页 App）尚未上线；本页仍按电脑工作流生成。
+
 ## [2026-09-18] project | 82 天中断复盘 + 手机优先系统启动
 
 中断 82 天（06-26 → 09-18）后的复盘与重启。诊断结论：**中断的根因是流程摩擦，不是学习能力**——06-26 当天作答全对，但每天必须在电脑上走「Claude Code 生成 → Obsidian 编辑 → Claude Code 批改」三趟，手机既看不到也做不了；当天没批改这个断点没有闭合，习惯就断了。学习者决定：把每日流程整体搬到手机上（VPS `.150` 承载生成与网页 App，电脑降为每周可选），提醒渠道先尝试修复微信。待建项与设计决策记录在本次会话与 [[active-learning]]。

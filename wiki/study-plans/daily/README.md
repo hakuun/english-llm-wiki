@@ -41,6 +41,7 @@ Use this folder as the single home for daily guided study pages.
 - [[study-plans/daily/2026-06-24]] — Listening Day 2: Shadowing + retelling "Talking about fruit," by+doing 轻提醒 + 比较级-er 规则.
 - [[study-plans/daily/2026-06-25]] — Reading day: "English course prospectus," like-more-than 边界澄清 + weigh/weight resolved.
 - [[study-plans/daily/2026-06-26]] — Listening Day 1: "Talking about the beach," -er/more 轻确认 + 5 到期词回顾. **已批改（09-18）：首次零错误，全部作答项正确。**
+- [[study-plans/daily/2026-09-18]] — 🎉 重启日 #1（中断 82 天后）：听力 Day 2 跟读+复述「Talking about the beach」+ 比较句三要素补白 + `imagine` 句型重试 + 5 到期词回收。
 
 ## Learner input rule
 
