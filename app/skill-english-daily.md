@@ -108,6 +108,7 @@ platforms: [linux, macos, windows]
 
 ## 硬约束
 
+- **改过 `app/index.html` 或 `app/server.py` 后，必须跑 `node app/test/smoke.mjs`**（在仓库根目录）：它用假 DOM 执行一遍网页脚本，能抓到"脚本顶层报错导致页面一直显示正在加载"这类问题。测试不通过就不要 push。
 - 解释、计划、批改用中文；例句、目标句、词汇用英文
 - 不发明来源和 CEFR 等级；材料只从 `raw/` 与 `wiki/source-notes/` 里挑
 - 不确定就明说不确定，不要编

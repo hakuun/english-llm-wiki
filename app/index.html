@@ -103,9 +103,9 @@ const KEY = d => 'ew_' + d;
 const norm = s => (s||'').toLowerCase().replace(/[’‘]/g,"'").replace(/[“”]/g,'"')
   .replace(/\s+/g,' ').trim().replace(/[.!?。！？,，;；]+$/,'').trim();
 
+const todayStr = () => new Date().toLocaleDateString('sv-SE');   // 手机本地日期 = 北京日期
 let bank = null, state = {date:null, answers:{}, results:{}, checks:{}, variant:null, submitted:false};
 let curDate = todayStr();
-const todayStr = () => new Date().toLocaleDateString('sv-SE');   // 手机本地日期 = 北京日期
 
 async function boot(date){
   curDate = date;
