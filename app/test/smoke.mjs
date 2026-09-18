@@ -2,7 +2,8 @@
 // 用法: node app/test/smoke.mjs  （在仓库根目录跑）
 import fs from 'fs';
 
-const APP = new URL('..', import.meta.url).pathname.replace(/^\//, '');
+let APP = decodeURIComponent(new URL('..', import.meta.url).pathname);
+if (/^\/[A-Za-z]:/.test(APP)) APP = APP.slice(1);   // Windows: "/E:/…" -> "E:/…"
 const html = fs.readFileSync(`${APP}/index.html`, 'utf8');
 const code = html.match(/<script>([\s\S]*?)<\/script>/)[1];
 const banks = fs.readdirSync(`${APP}/bank`).filter(f => f.endsWith('.json')).sort();
