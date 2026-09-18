@@ -1,0 +1,61 @@
+{
+  "date": "2026-09-18",
+  "title": "重启日 #1",
+  "variant": "A",
+  "answers": {
+    "w1": "bench is softer than 石子滩(不知道英文)",
+    "w2": "石子滩 better to 野餐",
+    "w3": "ordering",
+    "w4": "Imageine yourself writing email in English",
+    "l2": "A sandy beach is soft,A pebble beach is hard",
+    "l3": "take pictures?",
+    "l4": "A pebble beach is harder than sandy beach",
+    "v1": "improve",
+    "v2": "traing",
+    "v3": "忘了",
+    "v4": "recommend",
+    "v5": "忘了",
+    "a1": "improve",
+    "a2": "practice",
+    "a3": "recommend",
+    "a4": "term",
+    "a5": "opportunity",
+    "s2": 2,
+    "s3": "这种程度的听力对我来说还是太难了，很多词不明白意思，语速也略快了，你能不能帮我找一些更简单的适合我的听力材料"
+  },
+  "results": {
+    "w1": null,
+    "w2": null,
+    "w3": true,
+    "l2": null,
+    "v1": true,
+    "v2": false,
+    "v3": false,
+    "v4": true,
+    "v5": false,
+    "a1": true,
+    "a2": true,
+    "a3": true,
+    "a4": true,
+    "a5": true,
+    "s2": null
+  },
+  "checks": {
+    "l5": [
+      3,
+      1
+    ],
+    "s1": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5
+    ]
+  },
+  "score": 8,
+  "total": 15,
+  "submittedAt": "2026-09-18T06:17:06.077Z",
+  "receivedAt": "2026-09-18T06:16:02Z"
+}
