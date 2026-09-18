@@ -1,0 +1,304 @@
+{
+  "date": "2026-09-18",
+  "title": "重启日 #1",
+  "subtitle": "中断 82 天后第一天：把「每天打开一次」接回来",
+  "minutes": 30,
+  "source_page": "wiki/study-plans/daily/2026-09-18.md",
+  "audio": [
+    {
+      "label": "BBC Real Easy English — Talking about the beach",
+      "url": "https://downloads.bbc.co.uk/learningenglish/realeasyenglish/260529_REE_the_beach_download.mp3",
+      "note": "同一集，Day 1 已听过。今天用来跟读 + 复述。"
+    }
+  ],
+  "sections": [
+    {
+      "id": "warmup",
+      "title": "Warm-up",
+      "minutes": 3,
+      "intro": "比较句三要素：be + 比较级 + than。06-26 你只留白了「为什么」那一格，今天用句型框补上。",
+      "items": [
+        {
+          "id": "w1",
+          "type": "fill",
+          "prompt": "沙滩比石子滩软。",
+          "hint": "（soft）别忘了 be 动词 + than",
+          "accept": [
+            "a sandy beach is softer than a pebble beach",
+            "sandy beaches are softer than pebble beaches",
+            "the sandy beach is softer than the pebble beach"
+          ],
+          "sample": "A sandy beach is softer than a pebble beach.",
+          "why": "三要素：be（is）+ 比较级（softer，短词加 -er）+ than。"
+        },
+        {
+          "id": "w2",
+          "type": "fill",
+          "prompt": "石子滩更好野餐。",
+          "hint": "（good → better，记得把比较对象补上）",
+          "accept": [
+            "a pebble beach is better for a picnic than a sandy beach",
+            "a pebble beach is better than a sandy beach for a picnic",
+            "a pebble beach is better for a picnic",
+            "pebble beaches are better for a picnic than sandy beaches"
+          ],
+          "sample": "A pebble beach is better for a picnic than a sandy beach.",
+          "why": "good 的比较级是 better（不是 gooder，也不是 more good）。完整比较句要写出「和谁比」。"
+        },
+        {
+          "id": "w3",
+          "type": "fill",
+          "prompt": "Imagine yourself ______ (order) food in English.",
+          "hint": "imagine yourself + 动词-ing",
+          "accept": ["ordering"],
+          "sample": "Imagine yourself ordering food in English.",
+          "why": "imagine yourself + doing：动词要用 -ing 形式。order → ordering。"
+        },
+        {
+          "id": "w4",
+          "type": "write",
+          "prompt": "自己写一句：Imagine yourself ______",
+          "hint": "用同一个句型，写你在真实场景里用英语的画面",
+          "sample": "Imagine yourself speaking English in a meeting.",
+          "why": "这一步不用自由写长句——把句型框填满就算完成（06-26 这格留白了，今天补上）。"
+        }
+      ]
+    },
+    {
+      "id": "listening",
+      "title": "Listening Day 2 · 跟读 + 复述",
+      "minutes": 15,
+      "intro": "同一集「Talking about the beach」。Day 1 的理解题你全对了，今天换成产出：跟读 + 复述。",
+      "items": [
+        {
+          "id": "l0",
+          "type": "listen",
+          "prompt": "先不看文字，完整听一遍（3 分钟），让耳朵重新熟悉语速和语调。",
+          "audio": 0
+        },
+        {
+          "id": "l1",
+          "type": "read",
+          "prompt": "跟读这段（Becca 说泰国日落，约 15 秒，情感饱满）",
+          "body": "I just remember seeing the sunset at the beach,\nand I'd never seen the Sun so red before.\nIt was incredible.\nSo, when the Sun is setting and it looks like it's going below sea level,\nat night time. Just beautiful. Stunning.",
+          "note": "跟读 3 遍：① 看文字慢读，注意 red / incredible / stunning 的重音 ② 看文字跟着音频读（shadowing）③ 不看文字跟着读"
+        },
+        {
+          "id": "l2",
+          "type": "fill",
+          "prompt": "Q1 — A sandy beach 和 A pebble beach 有什么区别？（用 to be 说）",
+          "hint": "主语 + 动词框架：A sandy beach is ...",
+          "accept": [
+            "a sandy beach is covered in sand and a pebble beach is covered in small stones",
+            "a sandy beach has sand and a pebble beach has small stones",
+            "a sandy beach is soft and a pebble beach has small stones",
+            "a sandy beach is soft while a pebble beach is covered in small stones",
+            "a sandy beach is sandy and a pebble beach has pebbles"
+          ],
+          "sample": "A sandy beach is covered in sand, and a pebble beach is covered in small stones.",
+          "why": "先搭「主语 + 动词」骨架再补内容，句子就不容易散。sand（沙子）/ small stones（小石子）是这集的关键对比。"
+        },
+        {
+          "id": "l3",
+          "type": "write",
+          "prompt": "Q2 — Becca 在海滩喜欢做什么？",
+          "hint": "主语：Becca　动词：likes / loves / prefers",
+          "sample": "Becca likes to sunbathe, and then she goes for a swim to cool down.",
+          "why": "她原话：I'll sunbathe for a little bit and then I'll go for a swim to cool down."
+        },
+        {
+          "id": "l4",
+          "type": "write",
+          "prompt": "Q3 — 用一个比较句（必须含 be + 比较级 + than）",
+          "hint": "主语：A pebble beach　动词：is",
+          "sample": "A pebble beach is easier for a picnic than a sandy beach.",
+          "why": "三要素检查：be 在？比较级对？than 在？"
+        },
+        {
+          "id": "l5",
+          "type": "check",
+          "prompt": "跟读/复述自评",
+          "options": [
+            "跟读 3 遍完成",
+            "有几处长词卡住了",
+            "复述 3 句都写完了",
+            "复述时想不起某个词"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "vocabulary",
+      "title": "词汇回收",
+      "minutes": 6,
+      "intro": "06-26 之后整张表的复习日期都过期了。不补 30 个词 —— 今天只回收这 5 个，按「先高频、再 B1 桥接」排序。",
+      "items": [
+        {
+          "id": "v1",
+          "type": "fill",
+          "prompt": "I want to ______ my English to CEFR B2 within one year.",
+          "hint": "提高，改善（A1）",
+          "accept": ["improve"],
+          "sample": "improve",
+          "why": "improve my English：improve + 名词，直接跟，不加介词。"
+        },
+        {
+          "id": "v2",
+          "type": "fill",
+          "prompt": "I need more ______ to improve my listening.",
+          "hint": "练习（名词，A1）",
+          "accept": ["practice"],
+          "sample": "practice",
+          "why": "这里是名词：more practice。英式拼写 practice（美式动词 practice / 名词 practice 同形）。"
+        },
+        {
+          "id": "v3",
+          "type": "fill",
+          "prompt": "We have three exams at the end of this ______.",
+          "hint": "学期（A2）；也可指「术语」",
+          "accept": ["term"],
+          "sample": "term",
+          "why": "this term = 这个学期；at the end of this term = 这学期末。a technical term 则是「术语」。"
+        },
+        {
+          "id": "v4",
+          "type": "fill",
+          "prompt": "I would ______ this movie to you.",
+          "hint": "推荐，建议（A2）",
+          "accept": ["recommend"],
+          "sample": "recommend",
+          "why": "recommend A to B：recommend this movie to you。would + 动词原形。"
+        },
+        {
+          "id": "v5",
+          "type": "fill",
+          "prompt": "A good language learner always looks for ______ to talk with other students.",
+          "hint": "机会（06-26 你写出过复数 ✅）",
+          "accept": ["opportunities", "opportunity"],
+          "sample": "opportunities",
+          "why": "look for opportunities to do：这里泛指机会，用复数更自然。你 06-26 就写对了复数。"
+        }
+      ]
+    },
+    {
+      "id": "output",
+      "title": "Small output",
+      "minutes": 3,
+      "intro": "选一个就行 —— A 或 B，不要都做。",
+      "choose_one": true,
+      "variants": [
+        {
+          "id": "A",
+          "title": "Option A：选词填空",
+          "hint": "用方框里的词完成句子，每个词只用一次：[ practice / term / recommend / opportunity / improve ]",
+          "items": [
+            {
+              "id": "a1",
+              "type": "fill",
+              "prompt": "I want to ______ my speaking this year.",
+              "accept": ["improve"],
+              "sample": "improve"
+            },
+            {
+              "id": "a2",
+              "type": "fill",
+              "prompt": "Doing extra ______ every day is the best way to improve.",
+              "accept": ["practice"],
+              "sample": "practice"
+            },
+            {
+              "id": "a3",
+              "type": "fill",
+              "prompt": "I would ______ this podcast to you — it's easy and funny.",
+              "accept": ["recommend"],
+              "sample": "recommend"
+            },
+            {
+              "id": "a4",
+              "type": "fill",
+              "prompt": "We have a lot of exams at the end of this ______.",
+              "accept": ["term"],
+              "sample": "term"
+            },
+            {
+              "id": "a5",
+              "type": "fill",
+              "prompt": "Good learners look for ______ to use English every day.",
+              "accept": ["opportunities", "opportunity"],
+              "sample": "opportunities"
+            }
+          ]
+        },
+        {
+          "id": "B",
+          "title": "Option B：写 3 句「我的海滩偏好」",
+          "hint": "句 2 必须是比较句（be + 比较级 + than）",
+          "items": [
+            {
+              "id": "b1",
+              "type": "write",
+              "prompt": "句 1 — 你喜欢沙滩还是石子滩？",
+              "hint": "主语：I　动词：prefer",
+              "sample": "I prefer sandy beaches.",
+              "why": "prefer + 名词，直接跟。"
+            },
+            {
+              "id": "b2",
+              "type": "write",
+              "prompt": "句 2 — 为什么？（必须用 be + 比较级 + than）",
+              "hint": "主语：A sandy beach　动词：is",
+              "sample": "A sandy beach is softer than a pebble beach, so I can lie down comfortably.",
+              "why": "三要素：is + softer + than。"
+            },
+            {
+              "id": "b3",
+              "type": "write",
+              "prompt": "句 3 — 你去海滩喜欢做什么？",
+              "hint": "主语：I　动词：like to / prefer to",
+              "sample": "I like to swim and then sunbathe on the beach.",
+              "why": "like to do：like 后面接 to + 动词原形。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "wrapup",
+      "title": "收尾",
+      "minutes": 1,
+      "items": [
+        {
+          "id": "s1",
+          "type": "check",
+          "prompt": "今天卡在哪里？（可多选）",
+          "options": [
+            "跟读跟不上（音频太快）",
+            "复述时想不起词",
+            "比较句 be 动词还是会漏",
+            "到期词有想不起来意思的",
+            "不规则动词过去分词还是不熟",
+            "82 天没学，感觉生疏",
+            "今天太简单了",
+            "今天太难了"
+          ]
+        },
+        {
+          "id": "s2",
+          "type": "choice",
+          "prompt": "今天难度如何？",
+          "options": ["太简单", "合适", "有点难", "太难"],
+          "answer": -1,
+          "why": "这个答案会用来调整明天的难度。"
+        },
+        {
+          "id": "s3",
+          "type": "write",
+          "prompt": "还有什么想说的？（可不填）",
+          "hint": "例如：明天想多做听力 / 某个词想再练",
+          "sample": "",
+          "why": ""
+        }
+      ]
+    }
+  ]
+}
