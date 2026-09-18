@@ -1,0 +1,28 @@
+{
+  "date": "2026-09-18",
+  "summary": "重启日完成 🎉 82 天后的第一天，你把「打开一次」接回来了。客观题 11/15：比较句三要素和 imagine 留白都补上了，主要丢在词汇拼写（两格直接留白、practice 拼成 traing）。",
+  "score": "客观题 11/15",
+  "items": [
+    {"id": "w1", "verdict": "mid", "note": "结构对了（bench is softer than + 石子滩），但 pebble beach 这个词想不起来 → A bench is softer than a pebble beach. 今天没给提示，是正常检索失败，不是语法问题。"},
+    {"id": "w2", "verdict": "no", "note": "缺 is：A pebble beach is better for a picnic. 中文「石子滩更好野餐」没有「是」字，is 很容易漏。be + 比较级（better）+ than 三要素里缺了第一件。"},
+    {"id": "w3", "verdict": "ok", "note": "ordering ✅ imagine yourself + doing 结构完全正确。"},
+    {"id": "w4", "verdict": "mid", "note": "句型用对了！但 Imagine 少一个 e（Imageine），而且你想写的是 writing an email —— 邮件是可数名词，要加 a。"},
+    {"id": "l2", "verdict": "mid", "note": "sandy 是形容词（sandy beach），sand 才是名词「沙子」：A sandy beach is soft, and a pebble beach is hard."},
+    {"id": "l3", "verdict": "no", "note": "没答（写成 take pictures?）。Becca 的原话是 I'll sunbathe for a little bit and then I'll go for a swim to cool down. 一天里问了两次一样的词，说明 sunbathe / cool down 还没进主动词汇。"},
+    {"id": "l4", "verdict": "mid", "note": "is + harder + than 三件都在 ✅ 但结构写成句子串在一起了，少 and、sand 后面缺 a：A pebble beach is harder than a sandy beach."},
+    {"id": "v1", "verdict": "ok", "note": "improve ✅ 直接跟名词，不用介词。"},
+    {"id": "v2", "verdict": "no", "note": "practice 拼成 traing。「练」是练习，「train」是训练；拼写再练：more practice。"},
+    {"id": "v3", "verdict": "no", "note": "term 留白「忘了」—— 这是 06-09 学过的 A2 词（this term = 这个学期）。"},
+    {"id": "v4", "verdict": "ok", "note": "recommend ✅ would + 动词原形。"},
+    {"id": "v5", "verdict": "no", "note": "opportunity 也留白「忘了」。✅ 好消息：下一段选词填空里你又写对了。"},
+    {"id": "a1", "verdict": "ok", "note": "improve ✅"},
+    {"id": "a2", "verdict": "ok", "note": "practice ✅ —— 和上面 v2 填的是同一个词，拼写这次对了，说明是检索不稳。"},
+    {"id": "a3", "verdict": "ok", "note": "recommend ✅"},
+    {"id": "a4", "verdict": "ok", "note": "term ✅ —— 和 v3 是同一个词，这次想起来了。"},
+    {"id": "a5", "verdict": "ok", "note": "opportunity ✅ 选项里有这个词就认得，靠自己写就空着（和 06-26 的 imagine 同一个模式）。"},
+    {"id": "s2", "verdict": "mid", "note": "难度自评「有点难」（4 选 1 里的第 3 项）。听力那段语速和生词偏多，明天降难度。"},
+    {"id": "l5", "verdict": "mid", "note": "自评勾了「有几处长词卡住」+「复述时想不起某个词」（就是 take pictures 那句和 pebble）。"},
+    {"id": "s1", "verdict": "mid", "note": "8 个选项全勾了：跟读跟不上、想不起词、be 动词会漏、到期词想不起来、过去分词不熟、82 天没学感觉生疏自己都觉得难。今天一次性全暴露，正好当作重启的基线。"}
+  ],
+  "tomorrow": "不修词汇旧账 —— 只修 2 件事：① be 动词（A pebble beach is harder than a sandy beach）；② 复述改用更简单的听力材料（你要求的 Talking about books 那类 A2）。comparatives 和 imagine 已经过关。"
+}

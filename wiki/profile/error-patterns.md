@@ -227,6 +227,25 @@ Practice focus: Monthly spot check only — 1 item per month to confirm retentio
 Last seen: 2026-06-22
 Status: **resolved** — 2026-06-07 首次暴露（need read），06-09 第二次（want improve），06-10 第三次正确（need to practice ✅ → 误判为 resolved），06-16 第四次回退（want get ❌），06-17 第五次正确（wants **to** improve ✅），06-18 第六次正确（needs **to** finish ✅），06-22 第七次正确（wants **to** visit ✅，to + -s 均保留）。连续 3 次正确（06-17 → 06-18 → 06-22），目标达成。降为每月抽查 1 次。
 
+## Error: Missing be verb in comparative sentences (Chinese L1 transfer)
+
+Pattern: The learner writes `A + comparative + than + B` without `is/are`. Chinese comparative sentences have no copula (「石子滩更好」has no 「是」), so the English `be` gets dropped.
+
+Correction: A full comparison needs **three elements**: `be` + comparative + `than`. Write `A is ...er/more ... than B.`
+
+Examples:
+- Learner: 石子滩 better to 野餐 → `A pebble beach better for a picnic`
+- Corrected: A pebble beach **is** better for a picnic than a sandy beach.
+- Learner: Three Schools English more expensive than Elizabeth School.
+- Corrected: Three Schools English **is** more expensive than Elizabeth School.
+
+Memory trick: **中文比较句没有「是」字，英文必须先写 is/are。** 看到「A 比 B……」→ 第一步就写 `A is`，再写比较级，最后 `than B`。
+
+Scope note: this error affects the **comparative** specifically, not English sentences in general — the learner reliably includes `is` in other `be` sentences. The comparative form itself (-er / more / better) is stable and is NOT the problem.
+
+Last seen: 2026-09-18
+Status: **active (recurring)** — 2026-06-22 首次暴露（`Three Schools English more expensive than...`）。06-23 ~ 06-26 连续正确 4 天（含 06-25 `it is more flexible than Three Schools` 三要素全在）。**2026-09-18 时隔 88 天重现**：w2 漏 `is`，但同一份作答的 l4 写出了 `is harder than` ✅ —— 规则在，是「中文→英文」翻译启动时不稳定，不是知识缺口。下次给「先写 is」的第一步提示即可。
+
 ## Initial priority areas to watch
 
 - Subject-verb agreement.

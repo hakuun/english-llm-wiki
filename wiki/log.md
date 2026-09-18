@@ -1,5 +1,22 @@
 # English LLM Wiki Log
 
+## [2026-09-18] daily-study | ✅ 重启日 #1 完成 — 首次走出 82 天中断；比较句 be 动词时隔 88 天再现
+
+批改 `[[study-plans/daily/2026-09-18]]`（status → completed）。**客观题 11/15**（App 自动判分为 8/15，因为 3 道自由写题 w1/l2/l4 不算自动分，而学习者实际把它们都写了）。
+
+1. 🎉 **重启本身完成** —— 中断 82 天后的第一天，30 分钟完整交卷。这是今天唯一的目标，达成。词汇与听力细节上的失分是可接受的代价。
+2. 🎉 **`imagine yourself + doing` 留白项闭合** —— 06-26 空着的两格今天补上，w3 `ordering` 结构完全正确。`imagine` 从 `active` 降为 `review`。
+3. 🎉 **比较级形式本身稳定** —— `softer`（短词 -er）、`harder`（-er）、`better`（不规则）全部用对；06-23 `more sweet` / 06-25 `usefuller` 的反向过度推广 0 次出现。
+4. 🎉 **Option A 选词填空 5/5 全对**（improve / practice / recommend / term / opportunity）。
+5. 🔴 **比较句 be 动词漏掉（w2 + l4）** —— `石子滩 better to 野餐` 缺 `is`。与 06-22 `Three Schools English more expensive than...` 是**同一个错误**，时隔 88 天（06-22 → 09-18）重现。同一份作答里 l4 却写对了 `is harder than` → 规则在，「中文→英文」启动时不稳定。
+6. 🟡 **词汇检索不稳（本次失分主因）** —— v2 `traing` → practice、v3 term 留白「忘了」、v5 opportunity 留白「忘了」。**关键对照**：a2 和 a4 是同样的两个词（practice / term），有选项框就全对 → 不是没记住，是主动检索不稳（延续 [[profile/weak-points]] 4b 主题）。
+7. 🟡 **听力自评「太难」** —— 学习者 s3 明确反馈：生词多、语速略快、希望更简单的材料。`pebble`（w1 想不起来）、`sunbathe` / `cool down`（l3 想不起来）证实这一点。l3 完全未答对。
+8. 🟢 **新增词 `sand`** —— 查 `oxford-3000-by-cefr.tsv` 确认 **B1 ⭐**（`beach` / `pebble` / `sandy` 均不在 Oxford 3000，标 `−`）。l2 暴露 `sandy`（形容词）与 `sand`（名词）的词性区分。
+
+**Wiki updates**：`[[study-plans/daily/2026-09-18]]`（status→completed，第 9 节完整批改）、`[[vocabulary/vocabulary-review]]`（improve/recommend 保持 3；practice 3→2、opportunity 3→2、term 2→1、pebble 2→1、sunbathe/cool down 2→1 全部转 `weak`；imagine→`review`；新增 `sand`）、`[[profile/weak-points]]`（#8 比较句 be 更新为「形式稳、be 会漏」；#12 中断收口）、`[[profile/error-patterns]]`（比较句 be 动词立为独立 pattern）。
+
+**下一步（09-19）**：① 只修比较句 be 动词；② 听力换回已完成的 `Talking about books`（A2，06-07/06-08 做过，材料熟）降低难度；③ 只回收今天失分的 4 个 weak 词（practice / term / opportunity / pebble），**不补 30 个过期词**。
+
 ## [2026-09-18] daily-plan | 🎉 重启日 #1 — 听力 Day 2 跟读+复述「Talking about the beach」+ 比较句补白
 
 Created `[[study-plans/daily/2026-09-18]]` — 中断 82 天后第一个每日页，按 [[active-learning]] 的重启原则设计：

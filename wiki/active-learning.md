@@ -69,8 +69,12 @@ Use this section to hold candidates for the next daily page.
 
 - Choose 1-2 items from [[profile/error-patterns]] or [[profile/weak-points]].
 - **When daily errors are light (0-1 items)**: introduce one proactive grammar point from [[grammar/present-perfect-plan]] instead of adding new reading/listening material.
-- **Current（09-18）**: 🎉 **重启日 #1 已生成** — [[study-plans/daily/2026-09-18]]（听力 Day 2 跟读+复述 + 比较句三要素补白 + `imagine` 句型重试 + 5 到期词回收）。原则仍然是「轻」：不引入新材料、不追旧账。
-- **起点证据**：06-26 补批为**零错误**（warm-up 2/2、听力理解 5/5、词义匹配 5/5、选词填空 6/6），比较级 -er/more 两个方向同时命中、已标记掌握；此后中断 **82 天**（06-26 → 09-18）。
+- **Current（09-19 待生成）**: ✅ **重启日 #1 已完成闭环**（[[study-plans/daily/2026-09-18]]，客观题 11/15，手机网页端跑通全流程）。**09-19 的重点**（证据见日页第 9 节）：
+  1. 🔴 **只修比较句 be 动词** — w2 `石子滩 better to 野餐` 缺 `is`，与 06-22 同一错误时隔 88 天重现。**修复方式要轻**：不给规则重讲，只给第一步提示「看到『A 比 B……』先写 `A is`」。同一份作答 l4 已写对 `is harder than`，说明规则在、只是启动不稳。
+  2. 🎧 **听力降难度** — 学习者明确反馈「很多词不明白、语速略快、想要更简单的」。→ **换回 `Talking about books`**（BBC Real Easy English, A2，06-07/06-08 已完成过完整 2 天循环、理解全对）。**零新词负担、音频熟、语速熟**，当天只做跟读 + 复述。**不要**按原计划进入 "Making cities feel quieter"（B1-B2，此时会过载）。
+  3. 🔤 **词汇只回收今天失分的 4 个 weak 词**：practice / term / opportunity / pebble。**不补旧账**（since/traffic/get around/dirt 等继续挂着）。
+  4. 🧩 **题型调整**（来自 [[profile/weak-points]] 4b 新证据）：词汇题**给词库或首字母提示**，不用纯回忆式填空 —— 今天的失分几乎全部来自「有选项就对、纯回忆就空」，不是没记住。
+- **起点证据**：06-26 补批为**零错误**（warm-up 2/2、听力理解 5/5、词义匹配 5/5、选词填空 6/6），比较级 -er/more 两个方向同时命中、已标记掌握；此后中断 **82 天**（06-26 → 09-18）。09-18 重启日：比较级形式仍稳定，`imagine` 留白闭合，但比较句 be 动词重现 + 词汇检索不稳。**能力没有退化，是熟练度需要重新连起来。**
 - **中断的根因是流程摩擦，不是能力**：每天要在电脑上走「生成 → Obsidian 编辑 → 批改」三趟。正在建设 **手机优先系统**（VPS + 网页 App），电脑从"每天必须"降为"每周可选"。
 - **重启日的原则**（在系统上线前）：
   1. **轻**——不做新难度材料，先恢复"每天打开一次"。
