@@ -84,7 +84,8 @@ platforms: [linux, macos, windows]
 ## 收到作答时
 
 - 作答文件：`submissions/<日期>.json`（含每题答案、客观题对错、自评勾选、难度）
-- 逐题批改，用中文解释，只讲最重要的错误
+- **判分口径：客观题分数一律引用该文件里的 `score` / `total`（那是 App 按题库 `accept` / `answer` 自动判的，可复现），不要自己另算一套分母。** feedback 的 `score` 字段写成 `自动判分 X/Y`，Y 必须等于文件里的 `total`
+- 逐题批改，用中文解释，只讲最重要的错误（这部分是你的价值：写句、自评、语感问题都要点评）
 - 更新：daily 页第 9 节、`wiki/log.md`、`wiki/vocabulary/vocabulary-review.md`；只有重复或高价值的错误才进 `wiki/profile/error-patterns.md`
 - **同时写批改结果给网页**：`app/feedback/<日期>.json`，格式：
 
