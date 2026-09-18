@@ -53,19 +53,45 @@ globalThis.fetch = async url => {
   return { ok: false, status: 404, json: async () => ({}) };
 };
 
-try {
+const questions = (bank.sections || []).reduce((n, s) =>
+  n + (s.items || []).length + (s.variants || []).reduce((m, v) => m + v.items.length, 0), 0);
+
+async function runPass(label, storage) {
+  store.clear();
+  for (const [k, v] of Object.entries(storage || {})) store.set(k, v);
+  fetched.length = 0;
   new Function(code)();
   await new Promise(r => setTimeout(r, 400));
   const main = document.querySelector('#main');
-  const title = document.querySelector('#title').textContent;
-  const rendered = main.innerHTML.length;
-  console.log('脚本执行: 无异常');
-  console.log('fetch 调用:', fetched.slice(0, 2));
-  console.log('主区渲染长度:', rendered, rendered > 2000 ? '(整页已渲染)' : '(偏短，可能没渲染成功)');
-  console.log('标题:', title);
-  console.log('题目数:', (bank.sections || []).reduce((n, s) =>
-    n + (s.items || []).length + (s.variants || []).reduce((m, v) => m + v.items.length, 0), 0));
-  if (rendered < 2000) process.exit(2);
+  const score = document.querySelector('#score').textContent;
+  const btn = document.querySelector('#btnSubmit').textContent;
+  const meta = document.querySelector('#meta').textContent;
+  const len = main.innerHTML.length;
+  console.log(`\n[${label}]`);
+  console.log('  渲染长度:', len, len > 2000 ? '(整页已渲染)' : '(偏短!)');
+  console.log('  底部状态:', JSON.stringify(score));
+  console.log('  主按钮  :', JSON.stringify(btn));
+  console.log('  顶部信息:', JSON.stringify(meta));
+  return { len, score, btn, meta };
+}
+
+try {
+  const fresh = await runPass('未提交', {});
+  const done = await runPass('已提交、批改未回', {
+    [`ew_${bank.date}`]: JSON.stringify({
+      date: bank.date, submitted: true, submittedAt: new Date().toISOString(),
+      answers: {}, results: {}, checks: {}, variant: null,
+    }),
+  });
+  console.log('\n题目数:', questions);
+  let bad = 0;
+  if (fresh.len < 2000) { console.log('✗ 首次渲染太短'); bad = 1; }
+  if (fresh.btn !== '提交') { console.log('✗ 未提交时主按钮应显示「提交」，实际', fresh.btn); bad = 1; }
+  if (!done.score.includes('已提交')) { console.log('✗ 已提交时底部未显示「已提交」'); bad = 1; }
+  if (done.btn !== '重新提交') { console.log('✗ 已提交时主按钮应显示「重新提交」，实际', done.btn); bad = 1; }
+  if (!done.meta.includes('已提交')) { console.log('✗ 已提交时顶部未标记'); bad = 1; }
+  console.log(bad ? '\n结果: 失败' : '\n结果: 全部通过');
+  process.exit(bad ? 1 : 0);
 } catch (e) {
   console.log('顶层异常:', e.constructor.name, '-', e.message);
   process.exit(1);

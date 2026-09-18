@@ -105,7 +105,7 @@ const norm = s => (s||'').toLowerCase().replace(/[’‘]/g,"'").replace(/[“�
 
 const todayStr = () => new Date().toLocaleDateString('sv-SE');   // 手机本地日期 = 北京日期
 let bank = null, state = {date:null, answers:{}, results:{}, checks:{}, variant:null, submitted:false};
-let curDate = todayStr();
+let curDate = todayStr(), hasFeedback = false;
 
 async function boot(date){
   curDate = date;
@@ -114,9 +114,11 @@ async function boot(date){
   const r = await fetch(`bank/${date}.json`, {cache:'no-store'}).catch(()=>null);
   if (r && r.ok){
     bank = await r.json();
+    hasFeedback = false;
     state = Object.assign({date, answers:{}, results:{}, checks:{}, variant:null, submitted:false}, load(date)||{});
     state.date = date;
     render();
+    if (state.submitted) autoRefreshFeedback();
   } else {
     bank = null;
     renderMissing(date);
@@ -181,8 +183,13 @@ function allItems(){
   return list;
 }
 function gradableItems(){
-  return allItems().filter(e => (e.item.type==='fill'||e.item.type==='choice')
-    && (!e.sect.choose_one || state.variant===e.variant));
+  return allItems().filter(e => {
+    const it = e.item;
+    if (e.sect.choose_one && state.variant !== e.variant) return false;   // 未选的分支不计
+    if (it.type === 'fill') return true;
+    if (it.type === 'choice') return typeof it.answer === 'number' && it.answer >= 0;  // -1 = 问卷题
+    return false;
+  });
 }
 function isWordItem(it){ return it.type==='fill' && (it.accept||[]).every(a => !a.includes(' ')); }
 
@@ -252,17 +259,37 @@ function render(){
 
 async function loadFeedback(){
   const box = $('#feedback'); if (!box) return;
+  const head = `<h2 class="sect-title">批改结果
+      <button class="act ghost" style="float:right;padding:6px 12px;font-size:13px" onclick="loadFeedback()">刷新</button></h2>`;
   try{
     const r = await fetch(`feedback/${bank.date}.json`, {cache:'no-store'});
-    if (!r.ok) return;
+    if (!r.ok) throw new Error('none');
     const f = await r.json();
+    hasFeedback = true;
     const cls = v => v==='ok'?'ok':(v==='no'?'no':'mid');
     const mark = v => v==='ok'?'✓':(v==='no'?'✗':'△');
-    box.innerHTML = `<h2 class="sect-title">批改结果</h2>
-      <p class="sect-intro">${esc(f.summary||'')}${f.score?`　<b>${esc(f.score)}</b>`:''}</p>
+    box.innerHTML = head + `<p class="sect-intro">${esc(f.summary||'')}${f.score?`　<b>${esc(f.score)}</b>`:''}</p>
       ${(f.items||[]).map(it => `<div class="fb ${cls(it.verdict)}">${mark(it.verdict)} ${esc(it.note||'')}</div>`).join('')}
       ${f.tomorrow?`<p class="note">明天的重点：${esc(f.tomorrow)}</p>`:''}`;
-  }catch(e){}
+  }catch(e){
+    hasFeedback = false;
+    box.innerHTML = head + (state.submitted
+      ? `<p class="sect-intro">批改中…（老师正在读你的作答并更新 wiki，一般 1-3 分钟）</p>
+         <p class="note">页面会自动重试；也可以点右上「刷新」。</p>`
+      : `<p class="sect-intro">提交后，这里会出现逐题批改。</p>`);
+  }
+  updateBar();
+}
+
+let fbTimer = null;
+function autoRefreshFeedback(){
+  if (fbTimer) return;
+  let n = 0;
+  fbTimer = setInterval(async () => {
+    n++;
+    await loadFeedback();
+    if (hasFeedback || n >= 15){ clearInterval(fbTimer); fbTimer = null; }
+  }, 20000);
 }
 function esc(s){ return (s||'').replace(/[&<>]/g, c=>({'&':'&amp;','<':'&lt;','>':'&gt;'}[c])); }
 
@@ -339,9 +366,21 @@ function updateBar(){
   const g = gradableItems();
   const answered = g.filter(e => state.answers[e.item.id]!==undefined && state.answers[e.item.id]!=='').length;
   const ok = g.filter(e => state.results[e.item.id]===true).length;
+  const btn = $('#btnSubmit');
   $('#prog').style.width = (g.length? Math.round(answered/g.length*100):0) + '%';
-  $('#score').textContent = g.length ? `已答 ${answered}/${g.length}　对 ${ok}` : '今天没有客观题';
-  $('#btnSubmit').disabled = answered===0;
+  $('#meta').textContent = `${bank.date} · ${bank.minutes} 分钟`
+    + (hasFeedback ? ' · 已批改 ✓' : (state.submitted ? ' · 已提交 ✓' : ''));
+
+  if (hasFeedback){
+    $('#score').textContent = `今天完成 ✓　对 ${ok}/${g.length}`;
+    btn.textContent = '重新提交'; btn.classList.add('ghost'); btn.disabled = false;
+  } else if (state.submitted){
+    $('#score').textContent = `已提交 ✓　对 ${ok}/${g.length}　批改中…`;
+    btn.textContent = '重新提交'; btn.classList.add('ghost'); btn.disabled = false;
+  } else {
+    $('#score').textContent = g.length ? `已答 ${answered}/${g.length}　对 ${ok}` : '今天没有客观题';
+    btn.textContent = '提交'; btn.classList.remove('ghost'); btn.disabled = answered===0;
+  }
 }
 
 async function submit(){
@@ -358,18 +397,17 @@ async function submit(){
       headers:{'Content-Type':'application/json', 'X-Wiki-Token': window.__TOKEN__ || ''},
       body: JSON.stringify(payload)});
     if (!r.ok) throw new Error('HTTP '+r.status);
-    state.submitted = true; save();
-    $('#btnSubmit').textContent = '已提交 ✓';
-    alert('提交成功。批改大约 1-3 分钟，之后在页面底部的「批改结果」点刷新。');
-    setTimeout(loadFeedback, 45000);
+    state.submitted = true; state.submittedAt = new Date().toISOString(); save();
+    updateBar();
+    alert('提交成功 ✓\n批改一般 1-3 分钟，页面会自动刷新结果。');
+    document.getElementById('feedback')?.scrollIntoView({behavior:'smooth'});
+    loadFeedback(); autoRefreshFeedback();
   }catch(e){
     // offline fallback: keep it locally and offer copy
     const txt = JSON.stringify(payload, null, 1);
     await navigator.clipboard?.writeText(txt).catch(()=>{});
-    $('#btnSubmit').textContent = '提交失败';
-    alert('提交失败（'+(e.message||e)+'）。结果已复制到剪贴板，可以粘贴到微信发给我。');
-  }finally{
-    setTimeout(()=>{ $('#btnSubmit').disabled=false; $('#btnSubmit').textContent='提交'; }, 1200);
+    $('#btnSubmit').disabled = false; $('#btnSubmit').textContent = '提交失败，重试';
+    alert('提交失败（'+(e.message||e)+'）。\n结果已复制到剪贴板，可以粘贴到微信发给我。');
   }
 }
 
