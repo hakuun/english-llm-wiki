@@ -47,10 +47,10 @@ tags:
 ### 例句准备（来自 Oxford 源文件 + 学习者语境）
 
 ```
-I have worked as a software developer for five years.     (现在完成时：还在做)
-I worked in Jiangsu before I moved to Nanjing.               (一般过去时：已经结束)
-She has lived in Nanjing since 2020.                       (现在完成时 + since)
-She lived in Beijing from 2018 to 2020.                     (一般过去时 + 具体时间)
+I have worked as a software developer for five years.          (现在完成时：还在做)
+I worked in Jiangsu before I moved to Nanjing.                (一般过去时：已经结束)
+She has lived in Nanjing since 2020.                          (现在完成时 + since)
+She lived in Beijing from 2018 to 2020.                       (一般过去时 + 具体时间)
 ```
 
 ### 核心规则（3 个要点）

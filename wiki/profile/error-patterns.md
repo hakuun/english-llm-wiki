@@ -9,7 +9,7 @@ Correction: Capitalize the first word of a sentence, `I`, personal names, city/p
 Examples:
 - Learner: hello, my name is alex chen
 - Corrected: Hello, my name is Alex Chen.
-- Learner: Jiangsu provice, Nanjing city, China
+- Learner: jiangsu provice, nanjing city, China
 - Corrected: Nanjing, Jiangsu Province, China
 Practice focus: Rewrite 3-5 personal-information sentences with correct capitalization.
 Last seen: 2026-05-25

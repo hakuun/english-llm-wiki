@@ -124,7 +124,7 @@ Examples of source types:
 - Accessible nonfiction blog posts.
 - Product documentation.
 - Podcast or video transcripts.
-- software development articles.
+- Software development articles.
 - Technology articles.
 
 Search keywords:
