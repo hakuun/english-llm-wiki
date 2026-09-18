@@ -22,6 +22,8 @@ The learner does not need to assign exact scores. The daily page asks for `hard 
 | 3 | usable with support | The learner can use it in a sentence frame or with a phrase prompt. |
 | 4 | active use | The learner can use it freely and correctly several times. |
 
+> CEFR 列：`B1 ⭐` = Oxford 3000 B1 词；`B1*` = 词根在表中但该词形不在；`B1/−` = 复合词不在表；`−` = 不在 Oxford 3000/5000，等级为估计值。
+
 ## Status rule
 
 | status | meaning |
@@ -58,17 +60,20 @@ The learner does not need to assign exact scores. The daily page asks for `hard 
 | **fiction**          | 小说（虚构类）   | A2       | fiction books                        | I like science fiction more than fantasy fiction.                                   | 3     | review | 2026-06-24 | 2026-07-01  |
 | **poem**             | 诗，诗歌      | **B1** ⭐ | short poems                          | I have never written short poems.                                                   | 3     | review | 2026-06-24 | 2026-07-01  |
 | **relaxed**          | 放松的，轻松的   | **B1** ⭐ | feel relaxed                         | I feel relaxed when I read at home.                                                 | 2     | active | 2026-06-09 | 2026-06-12  |
-| **prefer**           | 更喜欢       | A1       | prefer ... to ...                    | I prefer reading to watching TV.                                                    | 3     | review | 2026-06-17 | 2026-06-26  |
-| **opportunity**      | 机会        | B1 ⭐     | look for opportunities               | A good language learner always looks for opportunities to talk with other students. | 2     | active | 2026-06-10 | 2026-06-13  |
-| **communicate**      | 交流        | B1 ⭐     | communicate with                     | People use language to communicate with other people.                               | 3     | active | 2026-06-10 | 2026-06-13  |
-| **imagine**          | 想象        | B1 ⭐     | imagine yourself doing               | Imagine yourself speaking in the language.                                          | 3     | active | 2026-06-10 | 2026-06-13  |
+| **prefer**           | 更喜欢       | A1       | prefer ... to ...                    | I prefer reading to watching TV.                                                    | 3     | review | 2026-06-26 | 2026-07-03  |
+| **opportunity**      | 机会        | B1 ⭐     | look for opportunities               | A good language learner always looks for opportunities to talk with other students. | 3     | review | 2026-06-26 | 2026-07-03  |
+| **communicate**      | 交流        | B1 ⭐     | communicate with                     | People use language to communicate with other people.                               | 3     | review | 2026-06-26 | 2026-07-03  |
+| **imagine**          | 想象        | B1 ⭐     | imagine yourself doing               | Imagine yourself speaking in the language.                                          | 3     | active | 2026-06-10 | 2026-06-26  |
 | **put off**          | 使失去兴趣，使反感 | B1       | put someone off                      | Lemons are so sour that they put me off.                                            | 3     | active | 2026-06-23 | 2026-06-30  |
 | **a whole bunch of** | 很多，大量     | B1       | a whole bunch of code                | I read a whole bunch of code every day.                                             | 3     | review | 2026-06-25 | 2026-07-02  |
-| **accident**         | 事故，意外     | A2 ⭐     | car accident / by accident           | I haven't played tennis since my accident.                                          | 3     | active | 2026-06-16 | 2026-06-21  |
+| **accident**         | 事故，意外     | A2 ⭐     | car accident / by accident           | I haven't played tennis since my accident.                                          | 3     | review | 2026-06-26 | 2026-07-03  |
 | **launch**           | 推出，发布（产品） | **B1** ⭐ | launch a new product                 | I have launched three applications in one year.                                     | 3     | review | 2026-06-22 | 2026-06-29  |
 | **packaging**        | 包装        | **B1** ⭐ | packaging details / packaging design | I bought a phone with red packaging last month.                                     | 3     | review | 2026-06-25 | 2026-07-02  |
 | **appreciate**       | 感谢，重视     | **B1** ⭐ | I would appreciate it if...          | I would appreciate it if you could help me.                                         | 3     | review | 2026-06-22 | 2026-06-29  |
 | **sour**             | 酸的        | **B1** ⭐ | sour taste / taste sour              | Lemons are so sour that they put me off.                                            | 2     | active | 2026-06-23 | 2026-06-30  |
+| **sunbathe**         | 晒太阳，日光浴   | −        | sunbathe on the beach                | I like to sunbathe on the beach with a good book.                                   | 2     | review | 2026-06-26 | 2026-07-10  |
+| **cool down**        | 凉快下来      | −        | drink water to cool down             | After running, I drink cold water to cool down.                                     | 2     | review | 2026-06-26 | 2026-07-10  |
+| **pebble / pebbly**  | 鹅卵石/多石子的  | −        | a pebbly beach                       | A pebbly beach is covered in small stones, not sand.                                | 2     | review | 2026-06-26 | 2026-07-10  |
 
 ## Review Vocabulary
 

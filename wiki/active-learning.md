@@ -53,7 +53,7 @@ Use this section to hold candidates for the next daily page.
 ### Input candidates
 
 - **Reading**: Choose one short A2-B1 text from [[source-notes/british-council-a2-b1-reading-pack]] or [[source-notes/british-council-b1-reading-pack-2]]. Prefer A2-level texts for now. ✅ "An email request for help" (06-17) — 已完成。✅ "English course prospectus" (A2-B1) — 06-25 已完成，4/4 理解全对。**Next up**: 按推荐顺序下一步是 "An invitation to a job interview"（A2-B1，正式邮件格式），或 "Study skills tips"（A2，最简单但实用）。
-- **Listening** (2-day cycle): ✅ "Talking about books" (A2-B1) — 2 天循环完成（06-07 ~ 06-08）。✅ "Why are some animals black and white?" (B1-B2) — 2 天循环完成（06-12 ~ 06-15）。**下一步**: 4 天空白后听力习惯需恢复 → 优先轻松热身（Real Easy English "Talking about fruit" A1-A2 或 Listening Time A2 5-min 视频），再进入 "Making cities feel quieter" (B1-B2)。
+- **Listening** (2-day cycle): ✅ "Talking about books" (06-07 ~ 06-08)。✅ "Why are some animals black and white?" (06-12 ~ 06-15)。✅ "Talking about fruit" (06-23 ~ 06-24)。🟡 "Talking about the beach" — **Day 1 完成（06-26，理解 5/5 + 匹配 5/5 全对），Day 2（跟读+复述）未做**。**重启建议**: 直接补这个 Day 2 — 音频和 transcript 都已经熟悉，任务只有跟读+复述，认知负担最低，最适合用来恢复"每天打开一次"的习惯。之后再进入 "Making cities feel quieter" (B1-B2)。
 - **Listening 热身/缓冲** (5 min, 不占完整循环): [[source-notes/listening-time-a1-practice-pack]] (A1) / [[source-notes/listening-time-a2-practice-pack]] (A2) — 可在 BBC 听力材料之间或阅读日作为轻松热身。
 - **Real Easy English 桥梁**: [[source-notes/bbc-real-easy-english-talking-about-fruit]] (A1-A2) / [[source-notes/bbc-real-easy-english-talking-about-the-beach]] (A1-A2) — 当 6 Minute English 偏难时用作"轻松回弹"听力材料。
 - **未来材料**: [[source-notes/listening-time-podcast-episode-1]] (A2-B1, ~25 min) — B1 听力基础扎实后开始定期使用。
@@ -69,7 +69,13 @@ Use this section to hold candidates for the next daily page.
 
 - Choose 1-2 items from [[profile/error-patterns]] or [[profile/weak-points]].
 - **When daily errors are light (0-1 items)**: introduce one proactive grammar point from [[grammar/present-perfect-plan]] instead of adding new reading/listening material.
-- **Current（06-26 进行中）**: 🎧 **听力 Day 1** — "Talking about the beach"（BBC Real Easy English, A1-A2 桥梁）。Reactive 模式：useful→more useful 轻提醒（1 题确认 -er/more 两个方向）+ 🔄 5 个到期词（accident, opportunity, imagine, communicate, prefer）+ 🆕 B1 候选词从听力中激活（sunbathe, pebble, cool down）。📝 write/wrote/written 继续在小抄上。
+- **Current（09-18 状态）**: 06-26 已批改完毕 → **零错误**（warm-up 2/2、听力理解 5/5、词义匹配 5/5、选词填空 6/6 全对）；比较级 -er/more 两个方向同时命中，[[profile/weak-points]] 里标记为掌握。之后中断 **82 天**（06-26 → 09-18）。
+- **中断的根因是流程摩擦，不是能力**：每天要在电脑上走「生成 → Obsidian 编辑 → 批改」三趟。正在建设 **手机优先系统**（VPS + 网页 App），电脑从"每天必须"降为"每周可选"。
+- **重启日的原则**（在系统上线前）：
+  1. **轻**——不做新难度材料，先恢复"每天打开一次"。
+  2. **首选** 🎧 听力 Day 2「Talking about the beach」跟读 + 复述（材料已熟，零新词负担）。
+  3. 词汇**不要一次补 30 个过期词**，每天回收 3-5 个：先高频（improve / practice / term / recommend），再 B1 桥接词。
+  4. `imagine` 需要一次带句型的重试（`Imagine yourself ______ ...`），这是 06-26 唯一留白项。
 
 ### Output candidates
 

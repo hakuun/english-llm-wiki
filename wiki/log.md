@@ -1,5 +1,26 @@
 # English LLM Wiki Log
 
+## [2026-09-18] project | 82 天中断复盘 + 手机优先系统启动
+
+中断 82 天（06-26 → 09-18）后的复盘与重启。诊断结论：**中断的根因是流程摩擦，不是学习能力**——06-26 当天作答全对，但每天必须在电脑上走「Claude Code 生成 → Obsidian 编辑 → Claude Code 批改」三趟，手机既看不到也做不了；当天没批改这个断点没有闭合，习惯就断了。学习者决定：把每日流程整体搬到手机上（VPS `.150` 承载生成与网页 App，电脑降为每周可选），提醒渠道先尝试修复微信。待建项与设计决策记录在本次会话与 [[active-learning]]。
+
+同时完成仓库卫生（此前仓库为公开状态）：
+- 新增 `.gitignore` 保护 `.env`（VPS 密码、LLM API key），凭证从未被提交过。
+- 移除 `wiki/sharing/` 两份分享文稿（学习者确认）。
+- 清理 `wiki/` 中的个人信息（姓名、城市、省份、职业、雇主类型、年龄，共 13 文件 95 处），例句的教学价值保留，只替换可识别身份的实体。**注意：git 历史中仍含旧内容，未做 history rewrite。**
+
+## [2026-09-18] daily-study | 补批 06-26 — 首次零错误 + 比较级规则确认掌握
+
+补批 `[[study-plans/daily/2026-06-26]]`（学习者 06-26 当天已完成作答，批改因中断一直空着）。
+
+1. 🎉 **首次零错误** — 23 个 daily page 里第一次所有作答项全对：warm-up 2/2、Part B 大意 3/3、Part D 判断 5/5、词义匹配 5/5、Option A 选词填空 6/6。
+2. 🎉 **比较级 -er/more 双向试探结束** — `more beautiful`（长词）+ `smaller`（短词）同一天同时命中。06-23 `more sweet`、06-25 `usefuller` 两次反向过度推广未再出现 → `[[profile/weak-points]]` #8 降为偶尔抽查。
+3. 🟢 **词汇确认** — accident / opportunity（正确产出复数 opportunities）/ communicate / prefer 全部 level 3，降为 `review`。
+4. 🟡 **唯一留白项** — `imagine`、`prefer` 两道"自己写一句"的空格未写（guided 就写对、完全自由写会空着，与既有观察一致）。`imagine` 保留 `active`，等一次带句型的重试。
+5. 新增 3 个听力词：`sunbathe` / `cool down` / `pebble`（不在 Oxford 3000/5000 → 标 `−`，等级为估计值）。
+
+**Wiki updates**：`[[study-plans/daily/2026-06-26]]`（status→completed，补第 9 节）、`[[vocabulary/vocabulary-review]]`（5 行状态 + 3 新词 + CEFR 标注图例）、`[[profile/weak-points]]`（#8 收口 + 新增 #12 中断复盘）、`[[active-learning]]`（重启原则）。
+
 ## [2026-06-26] daily-plan | 🎧 听力 Day 1 — "Talking about the beach"（A1-A2）+ -er/more 轻提醒 + 5 到期词
 
 Created `[[study-plans/daily/2026-06-26]]`. Reactive pattern: useful→more useful 1 题确认（-er 向长形容词过度推广，和昨天 more sweet→sweeter 对称）。Input: BBC Real Easy English "Talking about the beach"（A1-A2，难度 ≈ Talking about fruit）。Vocabulary: 5 到期词回顾（accident/opportunity/imagine/communicate/prefer）+ B1 候选词 sunbathe/pebble 从听力激活。📝 write/wrote/written 继续在小抄。

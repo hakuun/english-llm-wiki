@@ -197,7 +197,9 @@ Evidence:
 - 2026-06-24：🎉 **比较句 be 动词连续 2 天正确** — Option B 句 2 `Watermelon is sweeter than strawberry.` — is ✅, -er ✅。**新现象：like-more-than 多余 is** — `I like science fiction is more than fantasy fiction`。比较句 be 规则过度推广到 like 比较句。这是正常学习阶段——规则已内化，需要划清边界：like A more than B（已有动词 like）不需要 is。
 - 2026-06-25：🎉 **like-more-than 边界秒懂！** — warm-up 改错直接选 A（不加 is）。be-er-than vs like-more-than 两种比较已分清。**新现象：-er 向长形容词过度推广** — `usefuller` → `more useful`（和昨天 `more sweet` → `sweeter` 是对称的！）。实际上 Option A Q4 `more flexible` 选对了——说明潜意识知道规则，warm-up 是单次判断失误。比较句 be 动词 ✅（Option B 句 2 `it is more flexible than...` — is 在），比较结构三要素（be + 比较级 + than）全部正确。
 
-Next action: 继续使用「主语+动词」引导步骤。比较句 be 动词已连续稳定（06-23/24/25），降为轻量观察。like-more-than vs be-er-than 边界已分清。**新观察：-er vs more 双向试探**（短→-er 和长→more 偶尔推反，是规则内化的正常阶段）。轻提醒即可，不立 error pattern。
+- 2026-06-26：🎉 **-er vs more 双向试探结束** — warm-up 2/2 全对（`more beautiful` ✅ 长词用 more、`smaller` ✅ 短词用 -er），两个方向同一天同时命中。06-23 的 `more sweet`、06-25 的 `usefuller` 两次反向过度推广没有再出现。比较级规则确认掌握。
+
+Next action: 继续使用「主语+动词」引导步骤。比较句三要素（be + 比较级 + than）与 -er/more 方向均已稳定（06-23 ~ 06-26 连续正确），**降为偶尔抽查**。唯一仍空着的是完全自由写句（06-26 的 `imagine`/`prefer` 两格留白）——继续给足句型框，不催自由写。
 
 ### 9. 🆕 appreciate 后接名词 vs 人+动词结构 — 观察中（Chinglish 结构类）
 
@@ -231,6 +233,19 @@ Evidence:
 - `It is + 形容词` = 它很……：It is very clean.
 
 Next action: 首次出现，先观察。可能是自由输出时的临时表达尝试，不是系统性错误。
+
+### 12. 🆕 82 天中断（2026-06-26 → 2026-09-18）— 流程摩擦，不是能力问题
+
+Evidence:
+
+- 06-26 当天的作答是**全对**（warm-up 2/2、听力理解 5/5、词汇匹配 5/5、选词填空 6/6），状态是"学得动"，之后却完全停下来了。
+- 中断不是从"学不动"开始的，而是从"当天没批改"开始的：06-26 的答案当天就填好了，第 9 节批改一直空着，直到 09-18 才补上。
+- 学习者自述（09-16）：每天必须在电脑上走「Claude Code 生成 → Obsidian 编辑 → Claude Code 批改」三趟；手机既看不到也做不了。
+
+Next action:
+
+- 正在建设「手机优先」的每日系统（VPS + 网页 App）：生成、作答、判分、记录全部在手机上完成，电脑从"每天必须"降为"每周可选"。
+- 系统上线前，重启日的计划必须**轻**——先恢复"每天打开一次"的习惯，不急着补回难度。
 
 ## Weekly review questions
 

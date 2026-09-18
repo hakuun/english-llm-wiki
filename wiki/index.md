@@ -25,11 +25,8 @@ This is the main index for the English learning wiki.
 - [[study-plans/daily-routine]] — Default 30-minute daily routine, completion record, weekly adjustment trigger, and monthly assessment trigger.
 - [[study-plans/daily/README]] — Single home for daily guided-study pages.
 - [[study-plans/daily/_template]] — Template for daily guided output pages.
-- [[study-plans/daily/2026-05-25]] — First reading-first daily session.
-- [[study-plans/daily/2026-05-26]] — Review-first daily session with work-experience expressions.
-- [[study-plans/daily/2026-05-27]] — Review-first guided session with plural nouns and place prepositions.
-- [[study-plans/daily/2026-05-28]] — Review-first guided session with `spend/by + doing` and A2 email reading.
-- [[study-plans/daily/2026-06-02]] — Review-first guided session with airport rules, `spend + doing`, and `must/can/cannot`.
+- [[study-plans/daily/README]] — 全部 daily page 的清单与说明（唯一维护入口，本页不再逐条重复）。
+  - 已批改到 [[study-plans/daily/2026-06-26]]（首次零错误）；此后中断 82 天，重启计划见 [[active-learning]]。
 
 ## Standards
 
