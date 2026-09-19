@@ -1,0 +1,347 @@
+{
+  "date": "2026-09-19",
+  "title": "重启日 #2 · 找回比较句的 is",
+  "subtitle": "连续第 2 天：一个提示修 be 动词，听力换回最容易的一集",
+  "minutes": 30,
+  "source_page": "wiki/study-plans/daily/2026-09-19.md",
+  "audio": [
+    {
+      "label": "BBC Real Easy English — Talking about books",
+      "url": "https://downloads.bbc.co.uk/learningenglish/realeasyenglish/260403_REE_books_download.mp3",
+      "note": "你 06-07 听过 Day 1，理解题全对。这是最简单的 Real Easy English，语速慢。今天只做跟读 + 复述。觉得快可以用 BBC 网站的 0.75x 慢速。"
+    }
+  ],
+  "sections": [
+    {
+      "id": "warmup",
+      "title": "Warm-up · 先写 is",
+      "minutes": 3,
+      "intro": "昨天 l4 你写出了 is harder than（三要素全在），w2 却漏了 is —— 规则在，是「中文→英文」第一步不稳。今天只练一个动作：看到「A 比 B……」，先写 A is。",
+      "items": [
+        {
+          "id": "w1",
+          "type": "fill",
+          "prompt": "这本书比那部电影短。第 1 步：This book ______",
+          "hint": "第一步只写主语 + be 动词，别写其他",
+          "accept": ["is"],
+          "sample": "This book is",
+          "why": "中文「这本书比那部电影短」没有「是」字，英文必须先写 is。第一步写对，整句就成了一半。"
+        },
+        {
+          "id": "w2",
+          "type": "write",
+          "prompt": "完整句子：这本书比那部电影短。（short）",
+          "hint": "This book ___ shorter than ___",
+          "sample": "This book is shorter than that film.",
+          "why": "三要素：is + shorter（短词加 -er）+ than that film。"
+        },
+        {
+          "id": "w3",
+          "type": "write",
+          "prompt": "完整句子：石子滩比沙滩更适合野餐。（good → better）",
+          "hint": "A pebble beach ___ ... （先写 is！）",
+          "sample": "A pebble beach is better for a picnic than a sandy beach.",
+          "why": "这就是昨天 w2 漏 is 的那句。昨天的 l4 你写出了 is harder than ✅ —— 同一份作答里 is 在，说明第一步写 is 就能稳定命中。"
+        },
+        {
+          "id": "w4",
+          "type": "fill",
+          "prompt": "复述里也用得上：诗比小说短。第 1 步：Poems ______",
+          "hint": "poems 是复数 → 用哪个 be 动词？",
+          "accept": ["are"],
+          "sample": "Poems are",
+          "why": "复数名词用 are。单数 a poem 才用 is —— 这是今天 warm-up 第 2 组的重点。"
+        },
+        {
+          "id": "w5",
+          "type": "choice",
+          "prompt": "下面的 is / are 用对了吗？—— A poem is short. / Poems are short.",
+          "options": ["两句都对", "第一句错，第二句对", "第一句对，第二句错", "两句都错"],
+          "answer": 0,
+          "why": "A poem（单数）→ is；Poems（复数）→ are。两句都对。昨天你写的 `A sandy beach is soft, A pebble beach is hard` 结构也是全对的 ✅。"
+        },
+        {
+          "id": "w6",
+          "type": "fill",
+          "prompt": "Novels ______ longer than poems.",
+          "hint": "novels 是复数名词",
+          "accept": ["are"],
+          "sample": "are",
+          "why": "复数主语 → are。这句同时是比较句：are + longer + than。"
+        }
+      ]
+    },
+    {
+      "id": "listening",
+      "title": "Listening Day 2 · 跟读 + 复述",
+      "minutes": 15,
+      "intro": "换回「Talking about books」—— 你 06-07 听 Day 1 时理解题全对，是 5 份 BBC 材料里最简单的一集。零新词负担，今天只做产出。",
+      "items": [
+        {
+          "id": "l0",
+          "type": "listen",
+          "prompt": "先不看文字，完整听一遍（约 6 分钟）。这次不求听懂每个词，只求「这集我熟」。",
+          "audio": 0
+        },
+        {
+          "id": "l1",
+          "type": "read",
+          "prompt": "跟读这段：对话末尾的词汇复述（Vocabulary Recap）。语速明显慢于对话主体，是整集最好跟的部分。",
+          "body": "Neil: Let's recap some of the vocabulary we've heard in this podcast, starting with fiction. Fiction is a type of writing where the story is not true – it's made up. And the opposite is non-fiction. Non-fiction is a true story.\nBecca: And our next word – novel. A novel is a fiction, and it's usually a longer story.\nNeil: We also heard the word biography. A biography is a type of book about a person's life, and if that person wrote the story of their own life, it's called an autobiography.\nBecca: We also mentioned poems. Now, poems are a shorter piece of writing, even shorter than a short story or a novel.",
+          "note": "跟读 3 遍：① 看文字慢读，长词拆开发音 bi-o-gra-phy ② 看文字跟着音频读 ③ 不看文字跟着音频读。觉得快就用 0.75x。"
+        },
+        {
+          "id": "l2",
+          "type": "write",
+          "prompt": "Q1 — Becca 喜欢读什么类型的书？",
+          "hint": "主语：Becca　动词：prefers / likes（她喜欢 moving 的、短的作品）",
+          "sample": "Becca prefers short things, like poems and short stories, because they are moving.",
+          "why": "她原话：I prefer poets, so authors that have written poems. And I prefer them because they're quite moving and usually quite short as well."
+        },
+        {
+          "id": "l3",
+          "type": "write",
+          "prompt": "Q2 — Neil 喜欢读什么类型的书？",
+          "hint": "主语：Neil　动词：likes（fiction / novels / biographies）",
+          "sample": "Neil likes reading fiction, novels, and biographies of musicians.",
+          "why": "注意 listen / read 后面接名词时的结构：read novels、read biographies。这是昨天听力里没做的一步，今天补上。"
+        },
+        {
+          "id": "l4",
+          "type": "fill",
+          "prompt": "Q3 — 用一句比较句：诗比小说短。第 1 步：Poems ______",
+          "hint": "复数 → be 动词用哪个？",
+          "accept": ["are"],
+          "sample": "Poems are",
+          "why": "复数主语 → are。今天第 3 次练这个动作：先写 be，再写比较级，最后 than。"
+        },
+        {
+          "id": "l5",
+          "type": "write",
+          "prompt": "Q3 完整句 — 用比较句说出 poems 和 novels 的区别",
+          "hint": "Poems ___ shorter than ___",
+          "sample": "Poems are shorter than novels.",
+          "why": "这是 Becca 的原话结构：poems are a shorter piece of writing, even shorter than a short story or a novel。"
+        },
+        {
+          "id": "l6",
+          "type": "check",
+          "prompt": "跟读 / 复述自评（可多选）",
+          "options": [
+            "跟读 3 遍完成",
+            "长词 biography / autobiography 还是卡",
+            "今天用了 0.75x 慢速",
+            "复述 3 句都写完了",
+            "复述时想不起某个词"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "vocabulary",
+      "title": "词汇 · 4 个 weak 词 + 3 个新词",
+      "minutes": 6,
+      "intro": "昨天的证据：有选项框就写得出（a1–a5 全对），纯回忆就空（v2/v3/v5）。所以今天的词全带提示 —— 先给 0.5 秒自己想，再看提示。",
+      "items": [
+        {
+          "id": "v1",
+          "type": "fill",
+          "prompt": "I need more ______ to improve my listening.（提示：练习，名词，p 开头）",
+          "hint": "p ______（昨天你写成 traing，a2 里却写对了同一个词）",
+          "accept": ["practice"],
+          "sample": "practice",
+          "why": "practice 名词＝练习：more practice。昨天 v2 拼成 traing，但 a2 有选项框时写对了 —— 是检索不稳，不是没记住。"
+        },
+        {
+          "id": "v2",
+          "type": "fill",
+          "prompt": "We have three exams at the end of this ______.（提示：学期，t 开头，A2）",
+          "hint": "t ______（也可以指「术语」：a technical term）",
+          "accept": ["term"],
+          "sample": "term",
+          "why": "this term = 这个学期；at the end of this term = 这学期末。昨天 v3 留白、a4 写对，同一个词。"
+        },
+        {
+          "id": "v3",
+          "type": "fill",
+          "prompt": "A ______ beach is covered in small stones, not sand.（提示：鹅卵石，p 开头）",
+          "hint": "p ______（昨天你想不起来，但 l4 用得出 A pebble beach is harder...）",
+          "accept": ["pebble"],
+          "sample": "pebble",
+          "why": "a pebble＝鹅卵石，a pebbly beach＝多石子的海滩。识别没问题（l4 用得出），要练的是主动写出来。"
+        },
+        {
+          "id": "v4",
+          "type": "fill",
+          "prompt": "Good learners look for ______ to use English every day.（提示：机会，o 开头）",
+          "hint": "o ______（昨天 v5 留白、a5 写对复数）",
+          "accept": ["opportunities", "opportunity"],
+          "sample": "opportunities",
+          "why": "look for opportunities to do：泛指机会用复数更自然。你 06-26 和昨天 a5 都写对了复数。"
+        },
+        {
+          "id": "v5",
+          "type": "fill",
+          "prompt": "A ______ is fiction, and it's usually a longer story.（提示：长篇小说，n 开头）",
+          "hint": "n ______（本集听力里的词）",
+          "accept": ["novel"],
+          "sample": "novel",
+          "why": "novel＝长篇小说，A2 词，是今天唯一真正的新词，来自听力原文。"
+        },
+        {
+          "id": "v6",
+          "type": "fill",
+          "prompt": "Becca prefers ______ because they are short and moving.（提示：诗，p 开头）",
+          "hint": "p ______（B1 ⭐，06-24 学过）",
+          "accept": ["poems", "poem"],
+          "sample": "poems",
+          "why": "poem＝诗，B1 星级词。这里泛指「诗」用复数：prefers poems。"
+        },
+        {
+          "id": "v7",
+          "type": "fill",
+          "prompt": "Poems are a shorter piece of writing than a ______ story.（提示：短的）",
+          "hint": "s ______（本集原话：even shorter than a short story or a novel）",
+          "accept": ["short"],
+          "sample": "short",
+          "why": "a short story＝短篇小说，是今天新入表的搭配，来自听力原文。"
+        }
+      ]
+    },
+    {
+      "id": "output",
+      "title": "Small output",
+      "minutes": 3,
+      "intro": "选一个就行 —— A 或 B，不要都做。",
+      "choose_one": true,
+      "variants": [
+        {
+          "id": "A",
+          "title": "Option A：选词填空",
+          "hint": "词库每个只用一次：[ novel / poem / practice / term / opportunity ]　注意：词库里给的都是名词，第 1 句要用动词。",
+          "items": [
+            {
+              "id": "a1",
+              "type": "fill",
+              "prompt": "I need to ______ reading English every day.",
+              "hint": "need to + 动词原形（词库里的 practice 也是动词）",
+              "accept": ["practice"],
+              "sample": "practice",
+              "why": "这句需要动词：need to practice doing…。practice 既可作名词也可作动词，昨天你 need to 的结构已经稳定（weak-points 7b 已闭合）。"
+            },
+            {
+              "id": "a2",
+              "type": "fill",
+              "prompt": "Becca prefers a ______ because it is short and moving.",
+              "accept": ["poem"],
+              "sample": "poem",
+              "why": "a + 单数名词 → a poem。刚才 v6 用的是复数 poems，这里换成单数，注意冠词。"
+            },
+            {
+              "id": "a3",
+              "type": "fill",
+              "prompt": "Neil likes reading a ______ because it is a longer story.",
+              "accept": ["novel"],
+              "sample": "novel",
+              "why": "a novel＝一部长篇小说。A novel is fiction, and it's usually a longer story（听力原话）。"
+            },
+            {
+              "id": "a4",
+              "type": "fill",
+              "prompt": "We have three exams at the end of this ______.",
+              "accept": ["term"],
+              "sample": "term",
+              "why": "term 今天第 2 次出现（v2 一次、这里一次）—— 同一个词间隔出现，是把它从 weak 拉回来的正常节奏。"
+            },
+            {
+              "id": "a5",
+              "type": "fill",
+              "prompt": "Good learners look for ______ to use English every day.",
+              "accept": ["opportunities", "opportunity"],
+              "sample": "opportunities",
+              "why": "look for opportunities to do。今天第 2 次出现，希望你这次不用看提示就想起来。"
+            }
+          ]
+        },
+        {
+          "id": "B",
+          "title": "Option B：写 3 句「我的读书习惯」",
+          "hint": "句 3 必须是比较句：先写「主语 + is」，再写比较级，最后 than",
+          "items": [
+            {
+              "id": "b1",
+              "type": "write",
+              "prompt": "句 1 — 你喜欢读小说还是诗？",
+              "hint": "主语：I　动词：prefer",
+              "sample": "I prefer novels.",
+              "why": "prefer + 名词，直接跟，不加介词。比较偏好用 prefer A to B：I prefer novels to poems。"
+            },
+            {
+              "id": "b2",
+              "type": "write",
+              "prompt": "句 2 — Neil 喜欢读什么？",
+              "hint": "主语：Neil　动词：likes",
+              "sample": "Neil likes reading novels and biographies.",
+              "why": "Neil likes reading + 名词。他喜欢 fiction、novels、音乐家传记。三单 likes 别忘了 -s。"
+            },
+            {
+              "id": "b3",
+              "type": "fill",
+              "prompt": "句 3 — 为什么？先写第 1 步：__________ ________",
+              "hint": "先写主语 + be 动词（is 还是 are？看主语单复数）",
+              "accept": ["it is", "a novel is", "novels are", "a poem is", "poems are", "fiction is", "reading novels is"],
+              "sample": "A novel is",
+              "why": "比较句的第 1 步永远是「主语 + be」。这一步写对了，后面只是添比较级和 than。"
+            },
+            {
+              "id": "b4",
+              "type": "write",
+              "prompt": "句 3 完整句 — 为什么？（必须含 is/are + 比较级 + than）",
+              "hint": "A novel is more interesting than a poem, because ...",
+              "sample": "A novel is more interesting than a poem, because the story is longer.",
+              "why": "三要素检查：be 在？比较级对？than 在？长形容词用 more + 形容词（interesting）；注意 06-25 的 usefuller 曾把 -er 用过头，长词就用 more。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "wrapup",
+      "title": "收尾",
+      "minutes": 1,
+      "items": [
+        {
+          "id": "s1",
+          "type": "check",
+          "prompt": "今天卡在哪里？（可多选）",
+          "options": [
+            "跟读还是跟不上",
+            "复述时想不起词",
+            "比较句又漏了 is",
+            "is / are 单复数还是犹豫",
+            "词库给了也要想很久",
+            "还是觉得生疏（中断的余感）",
+            "今天太简单了",
+            "今天太难了"
+          ]
+        },
+        {
+          "id": "s2",
+          "type": "choice",
+          "prompt": "今天难度如何？",
+          "options": ["太简单", "合适", "有点难", "太难"],
+          "answer": -1,
+          "why": "这个答案会用来调整明天的难度。昨天你选了「有点难」，今天特意换回了最简单的材料。"
+        },
+        {
+          "id": "s3",
+          "type": "write",
+          "prompt": "还有什么想说的？（可不填）",
+          "hint": "例如：听力这样换合适吗 / 词库提示要不要一直保留 / 明天想读文章还是继续听力",
+          "sample": "",
+          "why": ""
+        }
+      ]
+    }
+  ]
+}

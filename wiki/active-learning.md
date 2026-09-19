@@ -69,11 +69,12 @@ Use this section to hold candidates for the next daily page.
 
 - Choose 1-2 items from [[profile/error-patterns]] or [[profile/weak-points]].
 - **When daily errors are light (0-1 items)**: introduce one proactive grammar point from [[grammar/present-perfect-plan]] instead of adding new reading/listening material.
-- **Current（09-19 待生成）**: ✅ **重启日 #1 已完成闭环**（[[study-plans/daily/2026-09-18]]，App 自动判分 8/11，手机网页端跑通全流程）。**09-19 的重点**（证据见日页第 9 节）：
-  1. 🔴 **只修比较句 be 动词** — w2 `石子滩 better to 野餐` 缺 `is`，与 06-22 同一错误时隔 88 天重现。**修复方式要轻**：不给规则重讲，只给第一步提示「看到『A 比 B……』先写 `A is`」。同一份作答 l4 已写对 `is harder than`，说明规则在、只是启动不稳。
-  2. 🎧 **听力降难度** — 学习者明确反馈「很多词不明白、语速略快、想要更简单的」。→ **换回 `Talking about books`**（BBC Real Easy English, A2，06-07/06-08 已完成过完整 2 天循环、理解全对）。**零新词负担、音频熟、语速熟**，当天只做跟读 + 复述。**不要**按原计划进入 "Making cities feel quieter"（B1-B2，此时会过载）。
-  3. 🔤 **词汇只回收今天失分的 4 个 weak 词**：practice / term / opportunity / pebble。**不补旧账**（since/traffic/get around/dirt 等继续挂着）。
-  4. 🧩 **题型调整**（来自 [[profile/weak-points]] 4b 新证据）：词汇题**给词库或首字母提示**，不用纯回忆式填空 —— 今天的失分几乎全部来自「有选项就对、纯回忆就空」，不是没记住。
+- **Current（09-20 待生成）**: ✅ **重启日 #1、#2 已完成闭环**（[[study-plans/daily/2026-09-18]] App 自动判分 8/11；[[study-plans/daily/2026-09-19]] 待作答）。系统的目标是**把「每天打开一次」连续起来**（连续 7 天 → 触发第一次周复盘）。**09-19 已安排**（证据见日页第 2 节）：
+|  1. 🔴 **只修比较句 be 动词** — 唯一提示：看到「A 比 B……」**第一步先写 `A is`**。不重讲规则（l4 的 `is harder than` 证明规则在）。
+|  2. 🎧 **听力降难度到最简** — 学习者的反馈是硬证据（09-18 原文：「很多词不明白意思，语速也略快了」）→ 换回 **"Talking about books"**（A2、06-07/06-08 已做过完整循环、理解全对）。**不进入任何 B1-B2 新材料。**
+|  3. 🔤 **词汇只回收 09-18 失分的 4 个 weak 词**：practice / term / opportunity / pebble。新词只有 3 个（novel / poem / short story），全部来自听力原文。
+|  4. 🧩 **题型调整**（来自 [[profile/weak-points]] 4b）：词汇题**一律给词库或首字母提示**，先练「辨认 → 回忆」的过渡，不考纯回忆。
+- **09-20 候选**（视 09-19 结果决定）：若 be 动词命中 → 转入**阅读日**（回 [[source-notes/british-council-a2-b1-reading-pack]] 的 "An invitation to a job interview" 或 "Study skills tips"）；若仍漏 is → 再给一次最小提示，不加新材料。
 - **起点证据**：06-26 补批为**零错误**（warm-up 2/2、听力理解 5/5、词义匹配 5/5、选词填空 6/6），比较级 -er/more 两个方向同时命中、已标记掌握；此后中断 **82 天**（06-26 → 09-18）。09-18 重启日：比较级形式仍稳定，`imagine` 留白闭合，但比较句 be 动词重现 + 词汇检索不稳。**能力没有退化，是熟练度需要重新连起来。**
 - **中断的根因是流程摩擦，不是能力**：每天要在电脑上走「生成 → Obsidian 编辑 → 批改」三趟。正在建设 **手机优先系统**（VPS + 网页 App），电脑从"每天必须"降为"每周可选"。
 - **重启日的原则**（在系统上线前）：
